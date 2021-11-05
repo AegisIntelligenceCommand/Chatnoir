@@ -3,12 +3,11 @@
         <a class="pr-2" href="../">
             <i class="icon icon-murakumo"></i>
         </a>
-        <a class="navbar-brand" title="Murakumo Industries Chatnoir" href="#">
-            <span class="d-none d-md-inline-block">Murakumo Industries</span>
+        <a class="navbar-brand" title="AIC Historical Archives" href="#">
+            <span class="d-none d-md-inline-block">AIC</span>
             <span class="d-md-none">MI</span>
-            <span>Chatnoir</span>
+            <span>Historical Archives</span>
             <!--<span class="d-none d-sm-inline-block"></span>-->
-            <sup>α</sup>
         </a>
         <button
             class="navbar-toggler"
@@ -260,7 +259,7 @@ export default {
 .icon.icon-murakumo {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(../img/murakumo.svg);
+    background-image: url(../img/aegis-circle.png);
 }
 
 .version-text {
@@ -281,4 +280,3 @@ export default {
     }
 }
 </style>
-
