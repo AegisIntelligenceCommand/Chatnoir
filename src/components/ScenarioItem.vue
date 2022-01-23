@@ -136,9 +136,9 @@ export default {
                 return "";
             }
             if (this.icon.startsWith("npc")) {
-                return "../img/scenarioicon/" + this.icon + ".png";
+                return "/src/img/scenarioicon/" + this.icon + ".png";
             }
-            return "../img/chara/" + this.icon + ".png";
+            return "/src/img/chara/" + this.icon + ".png";
         }
     }
 };

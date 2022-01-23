@@ -1,207 +1,683 @@
 {
+  "story_000": [
+      {
+        "chara": 632077852,
+        "text": "Why!? Kaede!?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Why do we have to fight each other!?"
+      },
+      {
+        "chara": 2865637707,
+        "text": "Because we chose to walk different paths-"
+      },
+      {
+        "chara": 2865637707,
+        "text": "Because for those who were chosen by the Fruit of Chaos, there is no other path but that of conflict-"
+      },
+      {
+        "chara": 632077852,
+        "text": "But I'm still me!"
+      },
+      {
+        "chara": 632077852,
+        "text": "And you're still you, Kaede!"
+      },
+      {
+        "chara": 2865637707,
+        "text": "Yotsuyu......"
+      },
+      {
+        "chara": 2865637707,
+        "text": "Alice, long hidden from sight, shall become the Red Queen..."
+      },
+      {
+        "chara": 2865637707,
+        "text": "But before then..."
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 632077852,
+        "text": "What...was that!?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Why was, Kaede and I...?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Where am... I...? Where is... everyone...?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Kaede, Kaede! Please respond!"
+      },
+      {
+        "chara": 632077852,
+        "text": "This is Yotsuyu! Can anyone respond?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Sitara! Fumika! Yumi!"
+      },
+      {
+        "chara": 632077852,
+        "text": "Rin! Rei! Is anyone there!?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Commander! Aika! Ayaka! Talk to me! Anyone!"
+      },
+      {
+        "chara": 2865637707,
+        "text": "*static* Yots...yu? Yotsuyu...that you?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Kaede! Where are you?"
+      },
+      {
+        "chara": 632077852,
+        "text": "Where's everyone? Are they alright!?"
+      },
+      {
+        "chara": 2865637707,
+        "text": "*static* Hordes...Vice...assaulting Shard...destroyed...at our limit......."
+      },
+      {
+        "chara": 632077852,
+        "text": "Kaede!?"
+      },
+      {
+        "type": 99
+      },
+      {
+        "type": 3,
+        "text": "This is a story set in the far future, of Actresses: maidens wielding the power of Alice Gear to protect humanity."
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 1837165762,
+        "size": "1.2",
+        "text": "I'm Hirasaka Yotsuyu, a newbie Actress!"
+      },
+      {
+        "chara": 1837165762,
+        "size": "1.2",
+        "text": "I'll be working here at Narukozaka Manufacturing starting today!"
+      },
+      {
+        "chara": 1837165762,
+        "size": "1.2",
+        "text": "I'm 15 this year with an Actress license, and in my first year of high school right now!"
+      },
+      {
+        "chara": 1837165762,
+        "size": "1.2",
+        "text": "Looking forward to working with everyone!"
+      },
+      {
+        "type": 3,
+        "text": "Narukozaka's Newbie Actress Hirasaka Yotsuyu"
+      },
+      {
+        "type": 3,
+        "text": "............"
+      },
+      {
+        "chara": 1837165762,
+        "text": "......Oh?"
+      },
+      {
+        "chara": 1837165762,
+        "text": "You're a Narukozaka representative, right?"
+      },
+      {
+        "type": 2,
+        "commands": [
+          {
+            "command": "Not exactly",
+            "items": [
+              {
+                "chara": 1837165762,
+                "text": "Eeeeeh!?"
+              },
+              {
+                "chara": 1837165762,
+                "text": "You weren't a senior staff member?"
+              },
+              {
+                "chara": 1837165762,
+                "size": "1.4",
+                "text": "For real!?"
+              },
+              {
+                "chara": 1837165762,
+                "size": "1.4",
+                "text": "I'm so sorry!"
+              },
+              {
+                "chara": 1837165762,
+                "text": "I thought I heard an Actress Commander would be here today, I must've gotten it mixed up!"
+              }
+            ]
+          },
+          {
+            "command": "I'm new here too",
+            "items": [
+              {
+                "chara": 1837165762,
+                "size": "1.4",
+                "text": "For real!?"
+              },
+              {
+                "chara": 1837165762,
+                "size": "1.4",
+                "text": "I'm so sorry!"
+              },
+              {
+                "chara": 1837165762,
+                "text": "I thought I heard an Actress Commander would be here today, I must've gotten it mixed up!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chara": 3577514919,
+        "text": "Psst, psst~ Senior staff right over here~!"
+      },
+      {
+        "chara": 3577514919,
+        "text": "Kaneshiya Sitara here, nice to meet'cha~"
+      },
+      {
+        "type": 3,
+        "text": "Narukozaka's Boisterous Geek Kaneshiya Sitara"
+      },
+      {
+        "chara": 2134197036,
+        "text": "I'm Momoshina Fumika."
+      },
+      {
+        "type": 3,
+        "text": "Carrot, Stick and Encyclopedia Momoshina Fumika"
+      },
+      {
+        "chara": 2134197036,
+        "text": "I see you two are the newbie Actress Yotsuyu, and our commander from today onwards, respectively."
+      },
+      {
+        "chara": 2134197036,
+        "text": "I've heard from the Director about you two."
+      },
+      {
+        "chara": 2134197036,
+        "text": "Your name was...what was it..."
+      },
+      {
+        "chara": 3577514919,
+        "text": "Here you go, your very own AEGiS Terminal~"
+      },
+      {
+        "chara": 3577514919,
+        "text": "Just register your name on here real quick-"
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 3577514919,
+        "text": "Alrighty, OK~"
+      },
+      {
+        "chara": 2134197036,
+        "text": "Through this device, you may accept Vice combat contracts from AEGiS at your discretion."
+      },
+      {
+        "chara": 3577514919,
+        "text": "Now then, let's take a job and get out there right now~"
+      },
+      {
+        "chara": 3577514919,
+        "text": "Yotsuyu's here with us too, may as well!"
+      },
+      {
+        "chara": 1837165762,
+        "text": "Yes! Please treat me well!"
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 317493798,
+        "text": "Welcome to the Tutorial System, designed for newbies just like you!"
+      },
+      {
+        "chara": 317493798,
+        "text": "Let’s start with basic movement!"
+      },
+      {
+        "chara": 317493798,
+        "text": "Click and drag, or use control binds, to move."
+      },
+      {
+        "chara": 317493798,
+        "text": "Now, let’s give it a try!"
+      },
+      {
+        "chara": 317493798,
+        "text": "Well done! Is this talent I see?"
+      },
+      {
+        "chara": 317493798,
+        "text": "Acquired targets will have a lock-on HUD overlay over them."
+      },
+      {
+        "chara": 317493798,
+        "text": "Press X or click to shoot at the target."
+      },
+      {
+        "chara": 317493798,
+        "text": "Amazing! Feeling good from your first Vice takedown?"
+      },
+      {
+        "chara": 317493798,
+        "text": "When an enemy gets close, respond with your Melee Weapon!"
+      },
+      {
+        "chara": 317493798,
+        "text": "Press C or click the Melee button to hit enemies in range."
+      },
+      {
+        "chara": 317493798,
+        "text": "Hold X or left click, then tap/click again to use your firearm's Charged firing mode."
+      },
+      {
+        "chara": 317493798,
+        "text": "Charged shots are powerful attacks that vary between different firearms."
+      },
+      {
+        "chara": 317493798,
+        "text": "This Rifle you're holding is able to lock onto multiple targets and fire at them simultaneously."
+      },
+      {
+        "chara": 317493798,
+        "text": "And that was the basic Tutorial. We wish you a good Actress life!"
+      },
+      {
+        "chara": 317493798,
+        "text": "This program was brought to you by Yashima Heavy Industries, advanced tech you can trust."
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 501880909,
+        "text": "Y'know, this is my first time actually fighting. Am I doing this right?"
+      },
+      {
+        "chara": 2773909288,
+        "text": "Ah, yeah, you're all good~"
+      },
+      {
+        "chara": 2773909288,
+        "text": "An Actress with Alice Gear on can't be beat!"
+      },
+      {
+        "chara": 257931171,
+        "text": "You're doing fine."
+      },
+      {
+        "chara": 257931171,
+        "text": "After all, only small Vice are expected to appear during this contract."
+      },
+      {
+        "chara": 2773909288,
+        "text": "Doesn't get more \"small fry\" than this!"
+      },
+      {
+        "chara": 501880909,
+        "text": "Got it! Hirasaka Yotsuyu, ready for anything!"
+      },
+      {
+        "chara": 2773909288,
+        "text": "Good~! That's the spirit, yup!"
+      },
+      {
+        "chara": 501880909,
+        "text": "Woah! Wh-wha!? What's going on?"
+      },
+      {
+        "chara": 2773909288,
+        "text": "Waha~! A Boss! It's happening-!"
+      },
+      {
+        "chara": 257931171,
+        "text": "An irregular Heavy-class Vice. It's a chance for bonus pay."
+      },
+      {
+        "chara": 257931171,
+        "text": "Make sure to take it down!"
+      },
+      {
+        "chara": 2773909288,
+        "text": "Roger dodger~ ♪ Target in my sights~"
+      },
+      {
+        "chara": 501880909,
+        "text": "Just have to smash it, then! Roger that!"
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 501880909,
+        "text": "Aha, glad we managed to get through that one~"
+      },
+      {
+        "chara": 501880909,
+        "text": "When that big Vice came out, I really didn't know what to do for a second."
+      },
+      {
+        "chara": 257931171,
+        "text": "It has been a while since our last Heavy-class engagement. The company will benefit from this too."
+      },
+      {
+        "chara": 2773909288,
+        "text": "Think we'll get a special bonus~?"
+      },
+      {
+        "chara": 2773909288,
+        "text": "An envelope of cash! Maybe even a big bag of gold!"
+      },
+      {
+        "chara": 257931171,
+        "text": "You're expecting too much there."
+      },
+      {
+        "chara": 501880909,
+        "text": "Erm...was what we did really all that impressive?"
+      },
+      {
+        "chara": 257931171,
+        "text": "Well, us two have been running things by ourselves until now, so it wasn't as easy."
+      },
+      {
+        "chara": 501880909,
+        "text": "Glad to hear that I've been pulling my weight as a newbie so far."
+      },
+      {
+        "chara": 2773909288,
+        "text": "Still though, can't believe you guys pulled a boss for your first job. You and the Commander must have some powerful luck, Yotsuyu!"
+      },
+      {
+        "chara": 2773909288,
+        "text": "Narukozaka's future is lookin' up!"
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 503211552,
+        "text": "This just in:"
+      },
+      {
+        "chara": 503211552,
+        "text": "We have breaking news regarding the once prestigious Narukozaka Manufacturing."
+      },
+      {
+        "chara": 2773909288,
+        "text": "Oooh!? We've already made headlines-"
+      },
+      {
+        "chara": 503211552,
+        "text": "Narukozaka, which has been financially unstable in recent times..."
+      },
+      {
+        "chara": 503211552,
+        "text": "...is now being considered for acquisition by Murakumo Industries, a member of the Yashima Group."
+      },
+      {
+        "chara": 503211552,
+        "text": "There are views that this could be a decisive maneuver to unify the Actress industry once and for all."
+      },
+      {
+        "type": 99
+      },
+      {
+        "type": 3,
+        "text": "\"Murakumo Proposes Acquisition of Narukozaka\""
+      },
+      {
+        "type": 3,
+        "text": "\"Actress Industry Restructuring In Progress\""
+      },
+      {
+        "type": 3,
+        "text": "\"Is Narukozaka...GOING DOWN!?\""
+      },
+      {
+        "type": 99
+      },
+      {
+        "chara": 501880909,
+        "size": "1.4",
+        "text": "Eeeeeeeeeh~!?"
+      },
+      {
+        "chara": 257931171,
+        "size": "1.4",
+        "text": "Eeeeeeeeeh~!?"
+      }
+  ],
   "story_001002001N": [
     {
       "chara": 1838453423,
-      "text": "『ピックアップアクトレス』の\nコーナーです"
+      "text": "Welcome to today's Pickup Actress corner."
     },
     {
       "chara": 1838453423,
-      "text": "<ruby><rb>宇佐元</rb><rt>うさもと</rt></ruby> <ruby><rb>杏奈</rb><rt>あんな</rt></ruby>が\nお伝えします"
+      "text": "As always, I'm your host, Usamoto Anna."
     },
     {
       "chara": 1838453423,
-      "text": "<ruby><rb>吾妻</rb><rt>あがつま</rt></ruby> <ruby><rb>楓</rb><rt>かえで</rt></ruby>ちゃんは\n今期デビュー３年目"
+      "text": "Our guest today, Agatsuma Kaede, is currently in the third year of her Actress career."
     },
     {
       "chara": 1838453423,
-      "text": "いまのチームを組んで\n２年目でしたよね？"
+      "text": "I believe this is your second year with your current team?"
     },
     {
       "chara": 2458423066,
-      "text": "はい、そうです"
+      "text": "Yes, that is true."
     },
     {
       "chara": 1838453423,
-      "text": "今期のチーム成績は\nヴァイス撃退率で\nトップ独走の好成績"
+      "text": "During this season, your Vice takedown rate has been at the top among Actress teams, far beyond any others."
     },
     {
       "chara": 1838453423,
-      "text": "楓ちゃんの個人成績も\nヴァイス撃退数の月間記録を\n更新する勢いですが……"
+      "text": "And that's not all—your personal performance has also been impressive. I dare say you'll be setting a new monthly takedown record soon."
     },
     {
       "chara": 1838453423,
-      "text": "好調の理由は\nなんですか？"
+      "text": "Say, what's the secret to this amazing streak of yours?"
     },
     {
       "chara": 2458423066,
-      "text": "リンと怜ちゃん……\nチームメイトの援護と\n会社のサポートのおかげです"
+      "text": "It's all thanks to the support from Rin and Rei... er, my teammates, and the agency."
     },
     {
       "chara": 1838453423,
-      "text": "楓ちゃんの所属は、笹塚に本社をもつ\nアクトレス装備品メーカーの\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業ですね？"
+      "text": "Your agency is Murakumo Industries, the company headquartered in Sasazuka with its own in-house Gear manufacturing, yes?"
     },
     {
       "chara": 2458423066,
-      "text": "はい"
+      "text": "Correct."
     },
     {
       "chara": 1838453423,
-      "text": "業績も好調で\n同業の成子坂製作所の\n買収を発表したばかり――"
+      "text": "I hear they have been doing very well lately, what with their recent announcement to purchase their industry peer Narukozaka Manufacturing-"
     },
     {
       "chara": 2458423066,
-      "text": "そうなのですか？"
+      "text": "Is that so?"
     },
     {
       "chara": 2458423066,
-      "text": "会社にはよくして\nもらっているので\nその恩に報いたいです"
+      "text": "Murakumo has been treating me well, and I would like to repay that favor."
     },
     {
       "chara": 1838453423,
-      "text": "次世代を担うアクトレスとして\n注目されている楓ちゃんですが\nその点については？"
+      "text": "Finally, many people look to you as the leading Actress of a new generation. Would you like give us a word or two on that sentiment?"
     },
     {
       "chara": 2458423066,
-      "text": "わたしはまだ\n若輩のアクトレスです"
+      "text": "As an Actress, I still have a long way to go."
     },
     {
       "chara": 2458423066,
-      "text": "今後も精進を重ねて\n期待に応える活躍を\nしていきたいです"
+      "text": "I would like to gradually hone my skills and perform well to meet the expectations placed upon me."
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "size": 1.2,
-      "text": "はーっ\nすっごいですねー"
+      "size": "1.2",
+      "text": "Ah~ How amazing~"
     },
     {
       "chara": 501880909,
-      "size": 1.4,
-      "text": "<ruby><rb>吾妻</rb><rt>あがつま</rt></ruby> <ruby><rb>楓</rb><rt>かえで</rt></ruby>さん、かぁ"
+      "size": "1.4",
+      "text": "Agatsuma Kaede, huh..."
     },
     {
       "chara": 501880909,
-      "text": "わたしと\nそう変わらない歳なのに\nアクトレスのトップですよ！"
+      "text": "We're about the same age, but she's a top Actress already!"
     },
     {
       "chara": 257931171,
-      "text": "……夜露さん\n近い近い……"
+      "text": "...Yotsuyu...personal space..."
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "あっ……\nすみません"
+      "size": "1.3",
+      "text": "Ah- Sorry"
     },
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": "1",
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "あの人\nどこかで見た覚え\nあるんすよね……"
+      "text": "I can't shake the feeling that I've seen that person before..."
     },
     {
       "chara": 501880909,
-      "text": "どこだったかな？"
+      "text": "From where, I wonder..."
     },
     {
       "chara": 2773909288,
-      "text": "あちらさんは\n有名人だからね\nどっかで見たんでしょー"
+      "text": "They're a pretty famous bunch y'know. Plenty of chances to see them around~"
     },
     {
       "chara": 257931171,
-      "text": "そんなことより\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業よ！"
+      "text": "More importantly, Murakumo Industries!"
     },
     {
       "chara": 257931171,
-      "text": "うちの会社が\n買収されるって話！"
+      "text": "And how they're about to pull a hostile merger on us!"
     },
     {
       "chara": 257931171,
-      "text": "本当だったら\nわたしたち\nどうなるのよ"
+      "text": "What would happen to us if that came to pass?"
     },
     {
       "chara": 2773909288,
-      "text": "やったね\n文嘉！"
+      "text": "Isn't it great, Fumika?"
     },
     {
       "chara": 2773909288,
-      "text": "わたしたち、いきなり\n有名企業のアクトレス！"
+      "text": "We're going to become Actresses for a famous company right away!"
     },
     {
       "chara": 2773909288,
-      "text": "現代の\nシンデレラだぜっ！"
+      "text": "A modern day Cinderella story!"
     },
     {
       "chara": 257931171,
-      "text": "なにいってんの！"
+      "text": "What are you even saying?!"
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業には\n楓さんたちがいるのよ"
+      "text": "Murakumo has Kaede and her team already."
     },
     {
       "chara": 257931171,
-      "text": "私なら\n即、リストラ対象に\nするわよ"
+      "text": "If it was up to me, we'd immediately be laying off employees."
     },
     {
       "chara": 2773909288,
-      "text": "だよねー"
+      "text": "Of course, huh~"
     },
     {
       "chara": 2773909288,
-      "text": "さよなら、文嘉"
+      "text": "This is goodbye, Fumika..."
     },
     {
       "chara": 257931171,
-      "text": "あんたよ、あんた！"
+      "text": "I am talking about you here!"
     },
     {
       "chara": 257931171,
-      "text": "それに私たち全員\nどうなるか\nわからないわよ"
+      "text": "That aside, I hope you understand that nobody can say what will happen to us all."
     },
     {
       "chara": 501880909,
-      "size": 1.2,
-      "text": "えっ、入社していきなり\nクビになったり\nするんですか？"
+      "size": "1.2",
+      "text": "Eh- Am I gonna get fired right after landing the job?"
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "どうなんですか\n隊長？"
+      "size": "1.3",
+      "text": "What's going to happen to us, Commander?"
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "そんなことは、ないんじゃないかな？",
+          "command": "I...don't think that'd just happen?",
           "items": [
             {
               "chara": 501880909,
-              "text": "よかった……\n安心しました！"
+              "text": "Oh thank god... That's good to hear!"
             },
             {
               "chara": 257931171,
-              "text": "適当なこと\nいわないでください"
+              "text": "I would prefer if you don't resort to such dubious reassurances."
             }
           ]
         },
         {
-          "command": "俺にもわからないが……もしや……",
+          "command": "I don't know either but......maybe......",
           "items": [
             {
               "chara": 501880909,
-              "size": 1.3,
-              "text": "ええっ！\nそんなあ"
+              "text": "EEH!? Really?"
             },
             {
               "chara": 2773909288,
-              "text": "隊長は来たばかりなんだから\nわからないことだらけっしょ"
+              "text": "Well, not like our Commander's been with us for very long, so it makes sense he doesn't know much."
             }
           ]
         }
@@ -209,150 +685,150 @@
     },
     {
       "chara": 257931171,
-      "text": "隊長に話してても\nラチが明かないわ"
+      "text": "Talking to the Commander isn't going to get us anywhere right now."
     },
     {
       "chara": 257931171,
-      "text": "事情通に\n聞きましょう！"
+      "text": "I have a better source of information in mind!"
     },
     {
-      "text": "成子坂製作所・メンテナンスエリア",
-      "type": 1
+      "type": "1",
+      "text": "Narukozaka Manufacturing Maintenance Area"
     },
     {
       "type": 99
     },
     {
-      "text": "成子坂製作所・アリスギア整備部\n部長　<ruby><rb>磐田</rb><rt>いわた</rt></ruby> <ruby><rb>宗一郎</rb><rt>そういちろう</rt></ruby>",
-      "type": 3
+      "type": "3",
+      "text": "Narukozaka Manufacturing Alice Gear Engineering Department Head Iwata Souichirou"
     },
     {
       "chara": 954290421,
-      "text": "……で、隊長とアクトレスが\n雁首そろえて、俺ンところに\n来たってわけか？"
+      "text": "...so, yer grabbed the Commander and the Actresses and came straight to me?"
     },
     {
       "chara": 257931171,
-      "text": "社歴が一番長い\n<ruby><rb>磐田</rb><rt>いわた</rt></ruby>さんなら\nご存知かと思いまして"
+      "text": "I figured you, Mr. Iwata, would have known something with how long you have worked here."
     },
     {
       "chara": 2773909288,
-      "text": "所長とも\n昔っからの知り合い\nですよねー？"
+      "text": "You and the Director go way back, right?"
     },
     {
       "chara": 257931171,
-      "text": "所長から\nなにか聞いてませんか？"
+      "text": "Did the Director say anything about our current predicament?"
     },
     {
       "chara": 954290421,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>といっしょに\nなるなんてェ話は\nこっちも寝耳に水だぜ"
+      "text": "Look, it's a big surprise to me too, the whole Murakumo merger deal."
     },
     {
       "chara": 954290421,
-      "text": "おい、<ruby><rb>有人</rb><rt>あると</rt></ruby>！\nおめぇ聞いてるか？"
+      "text": "Oi Aruto, yer heard 'bout any of this?"
     },
     {
-      "text": "同・整備部部員\n<ruby><rb>鈴木</rb><rt>すずき</rt></ruby> <ruby><rb>有人</rb><rt>あると</rt></ruby>",
-      "type": 3
+      "type": "3",
+      "text": "Department Engineer Suzuki Aruto"
     },
     {
       "chara": 92371269,
-      "text": "ええーーっ!?\n知るわけ\nありませんよ～っ"
+      "text": "Eeeeeeh!? How could I have known~?"
     },
     {
       "chara": 92371269,
-      "text": "おやっさんが知らないこと\n自分が知らされてるわけ\nないッスよ"
+      "text": "No way I'd have known if even you didn't, gramps."
     },
     {
       "chara": 954290421,
-      "text": "それもそうだな……"
+      "text": "Yer got a point there......"
     },
     {
       "chara": 954290421,
-      "text": "無駄足、踏ませちまって\nすまねぇが\nそういうこった"
+      "text": "Sorry yer wasted yer time comin' here, but that's how it is."
     },
     {
       "chara": 954290421,
-      "text": "経営の方はわからねぇが\nよくある根も葉もない\nうわさ話じゃねえか？"
+      "text": "Dunno a thing about their management, but yer sure this isn't just one of those baseless rumors yer heard?"
     },
     {
       "chara": 501880909,
-      "text": "ですよねっ！\nよかった、よかった"
+      "text": "That's true! Thank god it's nothing to worry about."
     },
     {
       "chara": 2773909288,
-      "text": "……でもですよ？"
+      "text": "......but you know?"
     },
     {
       "chara": 2773909288,
-      "text": "経営が危ないのは\n本当じゃないかなー？"
+      "text": "Is it so wrong to say that we're having a hard time?"
     },
     {
       "chara": 2773909288,
-      "text": "このアクトレス戦闘スーツ\n古い型のまんまだよ？"
+      "text": "Look at this Combat Suit, can't you tell just how old it is?"
     },
     {
       "chara": 2773909288,
-      "text": "８８年式なんて使ってるの\nうちだけじゃないかな？"
+      "text": "Aren't we the only ones to still use the Type 88 at this point?"
     },
     {
       "chara": 501880909,
-      "text": "そういえば\n楓さんが着てたのは\n色も形もちがいました！"
+      "text": "Speaking of which, that Combat Suit Kaede was wearing looked completely different, color and shape and all!"
     },
     {
       "chara": 257931171,
-      "text": "あれは最新式かつ\n有名デザイナーの\nアレンジモデル"
+      "text": "That is the newest Combat Suit model with a redesign from a famous designer."
     },
     {
       "chara": 257931171,
-      "text": "うちのは１２年前の\nモデル……"
+      "text": "And here we are, using something from 12 years ago..."
     },
     {
       "chara": 257931171,
-      "text": "買収話が\nうわさに思えなく\nなったわ……"
+      "text": "I'm starting to think that this merger might not be such a bad thing..."
     },
     {
       "chara": 954290421,
-      "text": "ド素人が\nなにいってやがる！"
+      "text": "The hell yer on 'bout yer uninformed whelps!"
     },
     {
       "chara": 954290421,
-      "text": "どっちも基本性能に\n変わりはねえ！"
+      "text": "I'm tellin' yer, their basic performance aren't even much different!"
     },
     {
       "chara": 92371269,
-      "text": "８８年式は\n完成度が高くて\n信頼性も申し分ない"
+      "text": "The Type 88 suit is pretty much perfect, and the reliability is nothing to scoff at."
     },
     {
       "chara": 92371269,
-      "text": "メンテナンスを考えれば\n慣れたのが一番！"
+      "text": "From a maintenance standpoint, it's much better to go with something we're all used to!"
     },
     {
       "chara": 92371269,
-      "text": "馬鹿みたいに\n毎年買い替える\n必要ねえ！"
+      "text": "No need to burn all that money on yearly upgrades like the other idiots do!"
     },
     {
       "chara": 92371269,
-      "text": "耳にタコができるほど\n聞かされたッスよ"
+      "text": "God knows how many times we've heard that spiel by now."
     },
     {
       "chara": 954290421,
-      "text": "とにかく\nそういうこった！"
+      "text": "Anyways that's how it's gonna be!"
     },
     {
       "chara": 954290421,
-      "text": "ムダ話するヒマがあったら\n<ruby><rb>武器</rb><rt>ウェポンギア</rt></ruby>でも<ruby><rb>装備</rb><rt>ドレスギア</rt></ruby>でも\n強化しやがれ！"
+      "text": "If yer got time to waste spoutin' nonsense go enhance your weapons and gear or somethin'!"
     },
     {
       "chara": 501880909,
-      "text": "……はーい"
+      "text": "......yessir."
     },
     {
       "chara": 2773909288,
-      "text": "……はーい"
+      "text": "......yessir."
     },
     {
       "chara": 257931171,
-      "text": "……はーい"
+      "text": "......yessir."
     }
   ],
   "story_001002003N": [
