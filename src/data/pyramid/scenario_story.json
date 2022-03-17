@@ -1,5 +1,5 @@
 {
-  "story_000": [
+  "story_0-0-0": [
       {
         "chara": 632077852,
         "text": "Why!? Kaede!?"
@@ -123,7 +123,7 @@
       },
       {
         "type": 3,
-        "text": "Narukozaka's Newbie Actress Hirasaka Yotsuyu"
+        "text": "Narukozaka's Newbie Actress\nHirasaka Yotsuyu"
       },
       {
         "type": 3,
@@ -198,7 +198,7 @@
       },
       {
         "type": 3,
-        "text": "Narukozaka's Boisterous Geek Kaneshiya Sitara"
+        "text": "Narukozaka's Boisterous Geek\nKaneshiya Sitara"
       },
       {
         "chara": 2134197036,
@@ -206,7 +206,7 @@
       },
       {
         "type": 3,
-        "text": "Carrot, Stick and Encyclopedia Momoshina Fumika"
+        "text": "Carrot, Stick and Encyclopedia\nMomoshina Fumika"
       },
       {
         "chara": 2134197036,
@@ -474,9 +474,14 @@
         "chara": 257931171,
         "size": "1.4",
         "text": "Eeeeeeeeeh~!?"
+      },
+      {
+        "chara": 2773909288,
+        "size": "1.4",
+        "text": "Eeeeeeeeeh~!?"
       }
   ],
-  "story_001002001N": [
+  "story_1-1-1": [
     {
       "chara": 1838453423,
       "text": "Welcome to today's Pickup Actress corner."
@@ -569,10 +574,10 @@
     {
       "chara": 501880909,
       "size": "1.3",
-      "text": "Ah- Sorry"
+      "text": "Ah-\nSorry"
     },
     {
-      "type": "1",
+      "type": 1,
       "text": "Narukozaka Manufacturing Office"
     },
     {
@@ -660,7 +665,7 @@
           "items": [
             {
               "chara": 501880909,
-              "text": "Oh thank god... That's good to hear!"
+              "text": "Oh thank god...\nThat's good to hear!"
             },
             {
               "chara": 257931171,
@@ -692,15 +697,15 @@
       "text": "I have a better source of information in mind!"
     },
     {
-      "type": "1",
+      "type": 1,
       "text": "Narukozaka Manufacturing Maintenance Area"
     },
     {
       "type": 99
     },
     {
-      "type": "3",
-      "text": "Narukozaka Manufacturing Alice Gear Engineering Department Head Iwata Souichirou"
+      "type": 3,
+      "text": "Narukozaka Manufacturing Alice Gear Engineering Department Head\nIwata Souichirou"
     },
     {
       "chara": 954290421,
@@ -727,8 +732,8 @@
       "text": "Oi Aruto, yer heard 'bout any of this?"
     },
     {
-      "type": "3",
-      "text": "Department Engineer Suzuki Aruto"
+      "type": 3,
+      "text": "Department Engineer\nSuzuki Aruto"
     },
     {
       "chara": 92371269,
@@ -796,15 +801,15 @@
     },
     {
       "chara": 92371269,
-      "text": "The Type 88 suit is pretty much perfect, and the reliability is nothing to scoff at."
+      "text": "\"The Type 88 suit is pretty much perfect, and the reliability is nothing to scoff at.\""
     },
     {
       "chara": 92371269,
-      "text": "From a maintenance standpoint, it's much better to go with something we're all used to!"
+      "text": "\"From a maintenance standpoint, it's much better to go with something we're all used to!\""
     },
     {
       "chara": 92371269,
-      "text": "No need to burn all that money on yearly upgrades like the other idiots do!"
+      "text": "\"No need to burn all that money on yearly upgrades like the other idiots do!\""
     },
     {
       "chara": 92371269,
@@ -831,574 +836,574 @@
       "text": "......yessir."
     }
   ],
-  "story_001002003N": [
+  "story_1-1-3": [
     {
-      "text": "成子坂製作所・作戦指示所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Command Center"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "へぇーーっ！"
+      "text": "Ehhh!"
     },
     {
       "chara": 501880909,
-      "text": "アクトレスがヴァイスを\n退治しているのは\n知ってましたけど"
+      "text": "I knew about how an Actress' job is to exterminate Vice and all,"
     },
     {
       "chara": 501880909,
-      "text": "ヴァイスって\nこんなにいっぱい\n出現していたんですね"
+      "text": "but I didn't know they showed up this often."
     },
     {
       "chara": 2773909288,
-      "text": "大型ヴァイスが\n市街地で大暴れしない限り\nニュースにならないからねえ"
+      "text": "Well, this stuff usually doesn't come up on the news, unless a Heavy-class plows through a city sector or something."
     },
     {
       "chara": 257931171,
-      "text": "小型ヴァイスなら\n東京シャードだけでも\n年間数百件は出動してるでしょうね"
+      "text": "When it comes to smaller Vice, Tokyo Shard, by itself, deploys Actresses a few hundred times per year just to handle them."
     },
     {
       "chara": 501880909,
-      "text": "年間数百件って……\nほぼ毎日じゃないですか！"
+      "text": "A few hundred times per year... isn't that like almost once a day!?"
     },
     {
       "chara": 257931171,
-      "text": "だから\n私たち民間業者にも\n仕事が回ってくるのよ"
+      "text": "And that is precisely what gives a civilian agency like us work to do."
     },
     {
       "chara": 2773909288,
-      "text": "さっさとやっつけて\n賞金をゲットだぜっ！"
+      "text": "Let's go get some kills and grab that bounty money!"
     },
     {
       "chara": 257931171,
-      "text": "賞金じゃなくて\nヴァイス撃退奨励金と\n補助金の交付ね"
+      "text": "Not \"bounty money,\" Vice Combat Rewards and Official Subsidies."
     },
     {
       "chara": 501880909,
-      "text": "それが会社の\n売り上げに\nなるんですか？"
+      "text": "And that money will go to the company as earnings?"
     },
     {
       "chara": 257931171,
-      "text": "その通り！"
+      "text": "Exactly!"
     },
     {
       "chara": 257931171,
-      "text": "そういうわけで\n業績を回復するために\n出撃するわよ"
+      "text": "And that is why we're heading out for more work, to help the company recover."
     },
     {
       "chara": 501880909,
-      "text": "うー、人助けのために\nアクトレスに\nなったのに……"
+      "text": "Uuuugh- I became an Actress to help people, and yet.."
     }
   ],
-  "story_001002004N": [
+  "story_1-1-5": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 2134197036,
-      "text": "うーん……"
+      "text": "Nnnh..."
     },
     {
       "chara": 3577514919,
-      "text": "どったの、文嘉？\nむつかしい顔して"
+      "text": "What's up Fumika? Why the long face?"
     },
     {
       "chara": 1837165762,
-      "text": "なにか\nマズイんですか？"
+      "text": "Is something not going well?"
     },
     {
       "chara": 2134197036,
-      "text": "結論から言うと"
+      "text": "To get to the point:"
     },
     {
       "chara": 2134197036,
-      "size": 1.7,
-      "text": "<color=#f26b6bff>赤字</color>よ！"
+      "size": "1.7",
+      "text": "We are running at a <color=#f26b6bff>loss</color>!"
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "<color=#f26b6bff>赤字</color>!?"
+      "size": "1.2",
+      "text": "A <color=#f26b6bff>loss</color>!?"
     },
     {
       "chara": 1837165762,
-      "size": 1.2,
-      "text": "<color=#f26b6bff>赤字</color>!?"
+      "size": "1.2",
+      "text": "A <color=#f26b6bff>loss</color>!?"
     },
     {
       "chara": 1837165762,
-      "text": "あれっ？\n儲かってないん\nですか？"
+      "text": "Huh? We weren't making money at all?"
     },
     {
       "chara": 1837165762,
-      "text": "何度か\n出撃しましたよね？"
+      "text": "We went out a good couple times, didn't we?"
     },
     {
       "chara": 2134197036,
-      "text": "ええ"
+      "text": "Yes."
     },
     {
       "chara": 1837165762,
-      "text": "ヴァイスをいっぱい\n倒しましたよね？"
+      "text": "We took down lots of Vice, didn't we?"
     },
     {
       "chara": 2134197036,
-      "text": "そうね"
+      "text": "We did."
     },
     {
       "chara": 1837165762,
-      "text": "なんで\n儲からないんですか？"
+      "text": "Then why haven't we been making any profit?"
     },
     {
       "chara": 2134197036,
-      "text": "簡単にいうとね……"
+      "text": "Well, to put it simply..."
     },
     {
       "chara": 2134197036,
-      "text": "小型ヴァイスじゃ\n儲からないのよ"
+      "text": "Taking down smaller Vice isn't profitable."
     },
     {
       "chara": 2134197036,
-      "text": "かなりの数を倒しても\n経費を考えると\nさして利益にならないわ"
+      "text": "Even if we take down a significant amount, we still wouldn't have earned much considering our expenses."
     },
     {
       "chara": 1837165762,
-      "text": "そんな……"
+      "text": "No way......"
     },
     {
       "chara": 1837165762,
-      "text": "あっ、だったら\n大型ヴァイスを\n倒せばいいんですよ"
+      "text": "Ah, in that case, we'll just have to go after Heavy-class Vice instead."
     },
     {
       "chara": 2134197036,
-      "text": "あなたねぇ……\n簡単にいうけど\nそれは難しいのよ"
+      "text": "I swear......you do realize how that's much easier said than done."
     },
     {
       "chara": 3577514919,
-      "text": "このエリアのボスキャラ退治は\nぜーんぶ<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業に\n持ってかれちゃうからねえ"
+      "text": "Murakumo's got an iron grip on all the Boss-fighting jobs in the area, see~"
     },
     {
       "chara": 3577514919,
-      "text": "なんてったって\nあちらは<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>の\n指定業者様！"
+      "text": "They're the uh...ah, the AEGiS Designated Contractor!"
     },
     {
       "chara": 2134197036,
-      "text": "大型ヴァイス撃退の\n<ruby><rb>随意契約</rb><rt>ずいいけいやく</rt></ruby>を\n結んでいるのよ"
+      "text": "They have a no-bid contract with AEGiS Tokyo for Heavy-class combat missions."
     },
     {
       "chara": 1837165762,
-      "text": "えーっ\nそんなのズルいじゃ\nないですか"
+      "text": "Eeeh- how's that fair?"
     },
     {
       "chara": 1837165762,
-      "text": "あれっ？\nでも、まえに倒しましたよね\n大型ヴァイス"
+      "text": "Wait, but didn't we take a Heavy-class down before?"
     },
     {
       "chara": 2134197036,
-      "text": "あれはイレギュラー\nだったから"
+      "text": "That was an irregular appearance."
     },
     {
       "chara": 2134197036,
-      "text": "小型ヴァイスを倒していると\nたまに大型ヴァイスが\n出てくるけれど"
+      "text": "You see, a Heavy-class sometimes appears when smaller Vice are destroyed."
     },
     {
       "chara": 2134197036,
-      "text": "そういう突発的事態なら\n問題ないわ"
+      "text": "And those kinds of spontaneous occurrences are fair game."
     },
     {
       "chara": 1837165762,
-      "text": "可能性は\nゼロじゃないですよね？"
+      "text": "So you're saying it's not a zero percent chance, right?"
     },
     {
       "chara": 1837165762,
-      "text": "隊長！\nお仕事、取りましょう"
+      "text": "Commander! Let's take on more jobs!"
     },
     {
       "chara": 1837165762,
-      "text": "あとから大型ヴァイスが\n出てきそうなヤツをぜひ！"
+      "text": "Especially ones where it seems like a Heavy-class might show up later!"
     },
     {
       "chara": 2134197036,
-      "text": "そううまく\nいくといいけど……"
+      "text": "If only it would go as well as you say..."
     },
     {
       "chara": 1837165762,
-      "text": "なんとか\nなりますよ！"
+      "text": "It'll all work out!"
     },
     {
       "chara": 2134197036,
-      "text": "夜露さんは前向きね\nうらやましいわ"
+      "text": "I certainly wish I could be as optimistic as you, Yotsuyu."
     },
     {
       "chara": 1837165762,
-      "text": "がんばれば\nきっといいこと\nありますって"
+      "text": "If we put in the effort, I'm sure something good will happen!"
     },
     {
       "chara": 1837165762,
-      "size": 1.1,
-      "text": "隊長、お願いします"
+      "size": "1.1",
+      "text": "Commander, please!"
     }
   ],
-  "story_001002005N": [
+  "story_1-1-7": [
     {
-      "text": "成子坂製作所・メンテナンスエリア",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Maintenance Area"
     },
     {
       "type": 99
     },
     {
       "chara": 954290421,
-      "text": "やったじゃねえか\n新人アクトレスなのに\nてぇしたもんだ"
+      "text": "Well aren't yer doin' a great job! Pretty good fer just a beginner Actress!"
     },
     {
       "chara": 501880909,
-      "text": "いやーっ\nシタラ先輩と文嘉先輩の援護と\n会社のサポートのおかげっすよー"
+      "text": "Ahaha- it's all thanks to Sitara and Fumika's help, and support from everyone in the company~"
     },
     {
       "chara": 92371269,
-      "text": "いやー、\n今回も大物ッスね！"
+      "text": "Another big one today, eh?"
     },
     {
       "chara": 92371269,
-      "text": "どうしちゃったん\nですかーっ？"
+      "text": "How'd you do it?"
     },
     {
       "chara": 92371269,
-      "text": "こんな短期間に\n大型が２度くるなんて"
+      "text": "That's like, two whole Heavy-class encounters in such a short time!"
     },
     {
       "chara": 92371269,
-      "text": "自分が入社してから\n初めてッスよ！"
+      "text": "Never seen this kind of luck in the whole time I've been working here!"
     },
     {
       "chara": 954290421,
-      "text": "おい、<ruby><rb>有人</rb><rt>あると</rt></ruby>！"
+      "text": "Oi Aruto!"
     },
     {
       "chara": 954290421,
-      "text": "余計な油売ってねえで\nさっさと回収業者に\n連絡しろい！"
+      "text": "Quit slackin' off and go contact the collectors already!"
     },
     {
       "chara": 92371269,
-      "text": "とっくに\nやってまーす"
+      "text": "One step ahead of you~"
     },
     {
       "chara": 92371269,
-      "text": "<ruby><rb>最高値</rb><rt>さいたかね</rt></ruby>の業者\n選んどきましたーっ！"
+      "text": "Picked the company with the highest buy offer too!"
     },
     {
       "chara": 501880909,
-      "text": "回収って\nなんですか？"
+      "text": "The \"collectors?\""
     },
     {
       "chara": 257931171,
-      "text": "大型ヴァイスの残骸は\nけっこうな値段で\n売れるのよ"
+      "text": "A Heavy-class carcass can fetch quite the sum, as it happens."
     },
     {
       "chara": 501880909,
-      "text": "あんなの\n欲しがる人なんて\nいるんですか？"
+      "text": "People actually want that stuff?"
     },
     {
       "chara": 954290421,
-      "text": "研究機関が\n調べたがるからな\nヴァイス専門の"
+      "text": "It's desirable research material. Yenno, for the Vice eggheads."
     },
     {
       "chara": 501880909,
-      "text": "まじっすか！"
+      "text": "Wow, really?"
     },
     {
       "chara": 2773909288,
-      "text": "AEGiSの報奨金と\n回収業者からの謝礼で\nウハウハですなー！"
+      "text": "All this money from the AEGiS bounties and the collectors, makes me all giddy just thinking about it!"
     },
     {
       "chara": 92371269,
-      "text": "<ruby><rb>磐田</rb><rt>いわた</rt></ruby>さん"
+      "text": "Hey, Mr. Iwata,"
     },
     {
       "chara": 92371269,
-      "text": "ギアの機能検査機器\n新しいのに\nしましょうよ"
+      "text": "Let's get ourselves a new Gear diagnostics rig!"
     },
     {
       "chara": 92371269,
-      "text": "全自動の！"
+      "text": "One of those fully automated ones!"
     },
     {
       "chara": 954290421,
-      "text": "エミッション検査装置が\n先に決まってるだろ！"
+      "text": "Yer daft? An Emission scanner first, obviously!"
     },
     {
       "chara": 954290421,
-      "text": "やれやれ\n楽することばかり\n考えやがって"
+      "text": "I swear, all yer youngins only think 'bout taking the easy way."
     },
     {
       "chara": 954290421,
-      "text": "さっきの話の\n続きだがな"
+      "text": "Continuin' from before,"
     },
     {
       "chara": 954290421,
-      "text": "ゼニカネだけじゃなくて"
+      "text": "'s not just the good pay,"
     },
     {
       "chara": 954290421,
-      "text": "研究機関から新発見\n技術のフィードバックも\nでけぇんだ"
+      "text": "All the experimental tech the boffins pass to us in return 's big too."
     },
     {
       "chara": 954290421,
-      "text": "狙うなら大型ヴァイス！\nアクトレス事業の鉄則だ"
+      "text": "Always go for the Heavy-class Vice! That's the ironclad rule of the Actress business."
     },
     {
       "chara": 954290421,
-      "text": "成子坂の全盛期にゃ……"
+      "text": "Back when we're at our best..."
     },
     {
       "chara": 954290421,
-      "text": "その儲けと\n供与された技術で\n装備を開発したもんだ"
+      "text": "That money and tech was what let us develop our own gear, all by ourselves."
     },
     {
       "chara": 257931171,
-      "text": "成子坂\n栄光の時代ですね"
+      "text": "Narukozaka's glory days, indeed."
     },
     {
       "chara": 954290421,
-      "text": "……昔の話さ"
+      "text": "...'s all in the past now."
     },
     {
       "chara": 501880909,
-      "text": "いまやったって\nいいじゃないですか"
+      "text": "Can't we just go back to doing that?"
     },
     {
       "chara": 501880909,
-      "text": "それ\nやりましょう！"
+      "text": "Yeah, let's get to it!"
     },
     {
       "chara": 2773909288,
-      "text": "だーかーらー\n無理だって"
+      "text": "Like-I-said, that's not possible~"
     },
     {
       "chara": 954290421,
-      "text": "うちはもう大型ヴァイス\n受注の業者指定から\n外れてっからな"
+      "text": "We ain't even got the right to take Heavy-class jobs anymore."
     },
     {
       "chara": 501880909,
-      "text": "むむむ……"
+      "text": "Nnnh..."
     },
     {
       "chara": 954290421,
-      "text": "地道にやりながら\n大物が来るのを\n待つんだな"
+      "text": "Just do yer usual stuff and look out for the big ones."
     },
     {
       "chara": 954290421,
-      "text": "そんときゃ\n絶対に仕留めろよ\n逃すんじゃねえぞ"
+      "text": "And make damn sure to put 'em to the grave when they come—don't let a single one slip away."
     },
     {
       "chara": 501880909,
-      "text": "わかりました！"
+      "text": "Got it!"
     },
     {
       "chara": 954290421,
-      "text": "じゃ、さっさと\n出撃しろぃ！"
+      "text": "If yer do, then get the hell back out there!"
     },
     {
       "chara": 954290421,
-      "text": "待ってても\n幸運はやってこねえぞ！"
+      "text": "Standin' round's not gonna get anythin' done!"
     }
   ],
-  "story_001002006N": [
+  "story_1-1-9": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 1837165762,
-      "text": "んー……"
+      "text": "Nnh......"
     },
     {
       "chara": 1837165762,
-      "text": "カンタンには\n出てくれないっすね\n大型ヴァイスは"
+      "text": "Guess Heavy-class Vice don't show up that easily after all, huh."
     },
     {
       "chara": 2134197036,
-      "text": "運だのみだからね\n出なくても\n仕方がないわ"
+      "text": "We <i>are</i> relying on pure luck here. It's not surprising if none appears."
     },
     {
       "chara": 2134197036,
-      "text": "というか\n出ない方が普通なのよ？"
+      "text": "Rather, that is more usually the case."
     },
     {
       "chara": 3577514919,
-      "text": "そうそう"
+      "text": "That's right."
     },
     {
       "chara": 3577514919,
-      "text": "欲しいのに限って\n出ないんだよねーっ"
+      "text": "It's always the one thing you want that never shows up~"
     },
     {
       "chara": 3577514919,
-      "text": "オトナ買いして\nダブりばっかりだったり！\n泣くぞっ！"
+      "text": "Like when you buy a whole bunch of snacks for the included toys, and all you get are dupes! Makes me wanna cry!"
     },
     {
       "chara": 2134197036,
-      "text": "なんの話を\nしてるのよ！"
+      "text": "What are you even talking about anymore!?"
     },
     {
       "chara": 1837165762,
-      "text": "なにか方法は\nないんですか？"
+      "text": "Is there nothing we can do about this?"
     },
     {
       "chara": 2134197036,
-      "text": "あったら\nやってるわね"
+      "text": "If there was, we would've been doing that already."
     },
     {
       "chara": 2134197036,
-      "text": "あらかじめ\n出現がわかれば\nいいんだけど……"
+      "text": "It would certainly be helpful if we could predict their appearances somehow..."
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "それだっ！"
+      "size": "1.3",
+      "text": "That's it!"
     },
     {
       "chara": 2134197036,
-      "text": "なにが、それよ"
+      "text": "What is it this time?"
     },
     {
       "chara": 3577514919,
-      "text": "レーダーが\nあればよくね？"
+      "text": "Don't we just need a radar for this?"
     },
     {
       "chara": 2134197036,
-      "text": "レーダーならあるでしょ\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>の\nヴァイス警戒網が"
+      "text": "Well, the AEGiS early-warning grid includes radars, yes."
     },
     {
       "chara": 2134197036,
-      "text": "東京シャードの要所を\n監視して、ヴァイスの\n出現に備えているわよ"
+      "text": "Those installations work to monitor the Shard's surroundings and alert AEGiS to Vice appearances."
     },
     {
       "chara": 3577514919,
-      "text": "そうじゃなくて\n大型ヴァイス探知機"
+      "text": "Not <i>that</i>, a Heavy-class detector!"
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "ヴァイスレーダー！"
+      "size": "1.3",
+      "text": "A \"Vice Radar\"!"
     },
     {
       "chara": 3577514919,
-      "text": "それさえあれば\n大型ヴァイスの出現位置が\n特定できるのだっ!!"
+      "text": "If we get our hands one, we can find out exactly where a Heavy-class will show up!"
     },
     {
       "chara": 1837165762,
-      "text": "いいですねっ！\nぜひ使いましょう"
+      "text": "That's great! We gotta use one!"
     },
     {
       "chara": 2134197036,
-      "text": "現実にないものを\n勝手に作らないでよ！"
+      "text": "Don't just make up something that doesn't exist!"
     },
     {
       "chara": 1837165762,
-      "text": "ないんですか？"
+      "text": "It doesn't?"
     },
     {
       "chara": 2134197036,
-      "text": "ないわよ\nシタラの妄想でしょ"
+      "text": "It doesn't, no. Probably just something that Sitara dreamed up."
     },
     {
       "chara": 3577514919,
-      "text": "いやいや、できるでしょー\n<ruby><rb>磐田</rb><rt>いわた</rt></ruby>整備長なら"
+      "text": "No no no, hear me out here~ Surely Head Engineer Iwata can make one that works."
     },
     {
       "chara": 2134197036,
-      "text": "期待しすぎじゃない？"
+      "text": "Aren't you expecting far too much out of him?"
     },
     {
       "chara": 3577514919,
-      "text": "なにいってるの\nエンジニア最大の\n見せ場だよ！"
+      "text": "What are you saying? That's exactly where an engineer's talents would shine!"
     },
     {
       "chara": 3577514919,
-      "text": "メカニック\n活躍シーンの\n定番でしょ"
+      "text": "You know the staple scenes where the mechanics get their spotlight."
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "こんなこともあろうかと！"
+      "size": "1.3",
+      "text": "Like, \"I figured you'd be needing this!\""
     },
     {
       "chara": 3577514919,
-      "text": "って、作ってあっても\n驚かない！"
+      "text": "And bam, the stuff's long been made, no surprise!"
     },
     {
       "chara": 2134197036,
-      "text": "だから、なんの話よ"
+      "text": "You've lost me at this point."
     },
     {
       "chara": 2134197036,
-      "text": "いちおう整備部には\n申請しておくけど"
+      "text": "Well...it wouldn't hurt to at least send a request to Engineering, I suppose."
     },
     {
       "chara": 3577514919,
-      "text": "よし、わかった！\nプランBでいこうっ"
+      "text": "Alright, I see how it is! Time for Plan B then."
     },
     {
       "chara": 1837165762,
-      "text": "プランB？\nなんすか、それ？"
+      "text": "\"Plan B\"? What's that?"
     },
     {
       "chara": 2134197036,
-      "text": "バックアップの作戦\n次の手って\n意味だけど"
+      "text": "A backup plan. Well, in this case it would be her next proposal."
     },
     {
       "chara": 2134197036,
-      "text": "どうせ、なにも考えず\nいってるんでしょ？"
+      "text": "Though she probably said that without having even thought of anything. Am I wrong?"
     },
     {
       "chara": 3577514919,
-      "text": "…………"
+      "text": "......"
     },
     {
       "chara": 3577514919,
-      "text": "隊長っ\n例のプランの説明をっ"
+      "text": "Commander, \"The Plan\", if you would."
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "わかった、任せてくれよ",
+          "command": "Alright, leave it to me.",
           "items": [
             {
               "chara": 1837165762,
-              "text": "なんですか、なんですか？"
+              "text": "Ooh ooh, what is it?"
             },
             {
               "chara": 2134197036,
-              "text": "シタラのむちゃぶりに\n付き合わなくていいんですよ"
+              "text": "You don't have to play along with Sitara's absurdities, you know."
             }
           ]
         },
         {
-          "command": "例のプランってなんだい？",
+          "command": "\"The Plan\", as in...?",
           "items": [
             {
               "chara": 3577514919,
-              "text": "がーん！"
+              "text": "Gaaah~"
             },
             {
               "chara": 3577514919,
-              "text": "がっかりだ！\nがっかりだよ、隊長"
+              "text": "Oooh, I'm so, so disappointed in you, Commander..."
             },
             {
               "chara": 3577514919,
-              "text": "ずっと空気だったから\n見せ場をあげたのにっ"
+              "text": "Here I was, trying to pass the stage to you since you were just standing there..."
             }
           ]
         }
@@ -1406,53 +1411,52 @@
     },
     {
       "chara": 3577514919,
-      "text": "しょうがない……"
+      "text": "Well, if that's how it is..."
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "こんなこともあろうかと！"
+      "size": "1.3",
+      "text": "Figured we'd get to this point, so..."
     },
     {
       "chara": 3577514919,
-      "text": "プランBを発表しよう"
+      "text": "Allow me to reveal our Plan B!"
     },
     {
       "chara": 3577514919,
-      "text": "レアが出ないなら\n出るまで続けるっ！"
+      "text": "If a Rare doesn't show up, we'll just keep going until we get one!"
     },
     {
       "chara": 1837165762,
-      "text": "結局、それっすか"
+      "text": "So it's back to that..."
     },
     {
       "chara": 2134197036,
-      "text": "下手な鉄砲\n数撃ちゃ当たる？"
+      "text": "What, \"throw enough mud at the wall and some will stick\"?"
     },
     {
       "chara": 3577514919,
-      "text": "戦いは数……\n運ゲーは試行回数だよ\n兄貴"
+      "text": "A war's all about numbers, and a luck-based game is all about how many times you try, bro!"
     },
     {
       "chara": 2134197036,
-      "text": "誰が兄貴よ！"
+      "text": "Who's your \"bro\"!?"
     },
     {
       "chara": 1837165762,
-      "text": "<ruby><rb>姐</rb><rt>ねえ</rt></ruby>さん？"
+      "text": "Then, sis?"
     },
     {
       "chara": 2134197036,
-      "text": "それもやめなさい！"
+      "text": "That's no better!"
     },
     {
       "chara": 2134197036,
-      "text": "出撃するわよ！"
+      "text": "We are sortieing, now!"
     }
   ],
-  "story_001002007N": [
+  "story_1-1-11": [
     {
-      "text": "成子坂製作所・メンテナンスエリア",
       "type": 1
     },
     {
@@ -1460,495 +1464,568 @@
     },
     {
       "chara": 501880909,
-      "size": 1.2,
-      "text": "<ruby><rb>磐田</rb><rt>いわた</rt></ruby>整備長ーっ\n大型ヴァイス探知機\nできましたか？"
+      "size": "1.2",
+      "text": "Head Engineer Iwata~ Did you make that Heavy-class detector we asked for?"
     },
     {
       "chara": 954290421,
-      "size": 1.05,
-      "text": "できるわけねぇだろ！\nそんな夢のマシン！"
+      "size": "1.05",
+      "text": "'Course not! Yer think a miracle machine like that actually exists?!"
     },
     {
       "chara": 954290421,
-      "text": "なんなんだ\nこの申請書は？"
+      "text": "The hell's this request anyways?!"
     },
     {
       "chara": 954290421,
-      "size": 1.05,
-      "text": "真っ昼間っから\n夢見てんじゃねえ"
+      "size": "1.05",
+      "text": "Yer'all dreamin' in broad daylight now?!"
     },
     {
       "chara": 257931171,
-      "text": "ですよね……"
+      "text": "Should've expected that..."
     },
     {
       "chara": 501880909,
-      "text": "そんなぁ"
+      "text": "Aww..."
     },
     {
       "chara": 2773909288,
-      "text": "整備長でもダメ？\nお願いっ\n整備部の神様！"
+      "text": "Nooo, not even O Head Engineer can help us? C'mon, I beg of you, our God of the Engineering Department!"
     },
     {
       "chara": 954290421,
-      "text": "おだてたって\nなんも出ねぇぞ"
+      "text": "Flatterin' me ain't gonna get yer anywhere."
     },
     {
       "chara": 954290421,
-      "text": "だいたいヴァイスの研究は\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>の\n最重要機密事項だ"
+      "text": "In the first place, all that Vice research stuff's top secret at AEGiS."
     },
     {
       "chara": 954290421,
-      "text": "民間にゃロクな情報も\n降りてこねぇ"
+      "text": "Us civvies don't get jack for info."
     },
     {
       "chara": 954290421,
-      "text": "腕の問題なら\nなんとかして\nやるけどな……"
+      "text": "It it was only a skills problem though then I woulda been able to do somethin' at least."
     },
     {
       "chara": 954290421,
-      "text": "こんなん正直\n手のうちようがねぇよ"
+      "text": "But this? Naw, nothin' I can do."
     },
     {
       "chara": 2773909288,
-      "text": "あうっ……\n整備部の神様\n<ruby><rb>磐田</rb><rt>いわた</rt></ruby>でもダメかーーっ"
+      "text": "Auuugh... Even Iwata, the God of the Engineering Department, can't save us..."
     },
     {
       "chara": 257931171,
-      "text": "整備というより\n発明家の仕事だと\n思うけど"
+      "text": "Well, I do feel like this is more of a job for an inventor than a maintenance engineer."
     },
     {
       "chara": 2773909288,
-      "text": "よーし、こうなったら\n別の神様に\n祈っちゃうぞーっ！"
+      "text": "Oh well~ In that case, let's pray to another God!"
     },
     {
       "chara": 501880909,
-      "text": "別の神様……\n誰だろ？"
+      "text": "...which \"other God?\""
     },
     {
       "chara": 501880909,
-      "text": "あっ、もしかして\n発明の神様ですか？"
+      "text": "Ah, maybe the God of Invention?"
     },
     {
       "chara": 2773909288,
-      "text": "ちゃうちゃう"
+      "text": "Nah~"
     },
     {
       "chara": 2773909288,
-      "text": "ここは強運の神様\n夜露様に\nお願いするしか！"
+      "text": "In times like these there's no other choice but to pray to Yotsuyu, O Goddess of Fortune!"
     },
     {
       "chara": 501880909,
-      "text": "わっ、わたしですか!?"
+      "text": "Wha, me!?"
     },
     {
       "chara": 2773909288,
-      "text": "デビュー戦にー\nちょっとまえの出撃ー"
+      "text": "Remember your debut battle? And that one sortie just earlier?"
     },
     {
       "chara": 2773909288,
-      "text": "どっちも、うまいこと\nボスと遭遇\nできたでしょーっ？"
+      "text": "We came across Bosses both these times, right?"
     },
     {
       "chara": 257931171,
-      "text": "少なくとも私たちよりは\n大型ヴァイス遭遇率が\n高いわね"
+      "text": "At the very least, you seem to have a better chance at encountering Heavy-class Vice than we do."
     },
     {
       "chara": 501880909,
-      "text": "いやーっ\nまいったっすねっ"
+      "text": "Haha~ you got me there."
     },
     {
       "chara": 501880909,
-      "text": "でも、どうしていいか\nわからないですよ？"
+      "text": "But it's not like I know what to do either, y'know?"
     },
     {
       "chara": 2773909288,
-      "text": "うまくいったら\nわたしが\n神認定するからっ!!"
+      "text": "If it all goes well you'll be a goddess in my eyes!"
     },
     {
       "chara": 2773909288,
-      "text": "お願いっ\nヴァイスの神様!!"
+      "text": "I beg of you, O Vice Goddess!"
     },
     {
       "chara": 501880909,
-      "text": "ええっ、わたし\nヴァイスの神なんですか!?\n強運じゃなくて？"
+      "text": "Eeeh, I'm the Goddess of Vice now? Not Fortune?"
     },
     {
       "chara": 257931171,
-      "text": "いくらなんでも不謹慎よ\nやめなさい"
+      "text": "Sitara, stop. That's too thoughtless no matter how you frame it."
     },
     {
       "chara": 2773909288,
-      "text": "さーって……\n吉と出るか、凶と出るか\n運試し、いってみよっかーっ！"
+      "text": "Anyhow~ Let's go try our luck! Whatever happens, happens! "
     }
   ],
-  "story_001002008N": [
+  "story_1-1-13": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 3577514919,
-      "text": "まさかホントに\nボスが出てくるとは\n思わなかったーっ"
+      "text": "Man, I sure didn't think we'd actually come across a Boss this time too~."
     },
     {
       "chara": 1837165762,
-      "text": "たまたまっすよ\n偶然、偶然"
+      "text": "Happens once in a while, I'm sure, coincidences and all."
     },
     {
       "chara": 2134197036,
-      "text": "夜露さんが来てから\n短期間で３体の\n大型ヴァイスを撃破"
+      "text": "In the short time since Yotsuyu joined us, we have destroyed a whole three Heavy-class Vice,"
     },
     {
       "chara": 2134197036,
-      "text": "半年分の赤字が\n一気に解消したわ！"
+      "text": "Which has allowed us to instantly clear six months worth of debt!"
     },
     {
       "chara": 3577514919,
-      "text": "経営危機脱出？"
+      "text": "So we're out of the woods now?"
     },
     {
       "chara": 1837165762,
-      "text": "会社はもう\n大丈夫なんですか？"
+      "text": "Is the company gonna be fine from now on?"
     },
     {
       "chara": 2134197036,
-      "text": "この調子でがんばっていけば\nなんとかなるんじゃない？"
+      "text": "Well, things should work out if we keep going at our current pace, no?"
     },
     {
       "chara": 2134197036,
-      "text": "いままでの累積赤字と\n設備投資の借入金返済が\nまだ残ってるけどね"
+      "text": "That being said, there are still the accumulated deficits up to this point, as well as the debt from investing in various equipment."
     },
     {
       "chara": 1837165762,
-      "text": "……んっ？"
+      "text": "...Hm?"
     },
     {
       "type": 99
     },
     {
       "chara": 503211552,
-      "size": 1.2,
-      "text": "ここでうれしいニュースが\n飛び込んできましたっ！"
+      "text": "This just in, we just received some very good news to share!"
     },
     {
       "chara": 503211552,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業所属のアクトレス\n吾妻 楓ちゃんが……"
+      "text": "Agatsuma Kaede, an Actress under Murakumo Industries..."
     },
     {
       "chara": 503211552,
-      "text": "大型ヴァイスの\n月間撃破記録を\n最年少で更新しましたっ！"
+      "text": "...has just become the youngest to set a new monthly Heavy-class Vice takedown record!"
     },
     {
       "chara": 503211552,
-      "text": "若手のホープ\n楓ちゃんの勢いが\n止まりませんね"
+      "text": "As a beacon of hope for this generation of Actresses, it certainly doesn't look like Kaede's performance will stop here!"
     },
     {
       "chara": 503211552,
-      "text": "いまから将来が\n楽しみなアクトレスです"
+      "text": "I'm sure her future will be one that we can all look forward to seeing!"
     },
     {
       "chara": 503211552,
-      "text": "叢雲工業は\n撃破率首位を独走中"
+      "text": "On a related note, Murakumo currently leads in Vice takedown rate by a very significant margin."
     },
     {
       "chara": 503211552,
-      "text": "これにより\n資金調達も順調となり"
+      "text": "Thanks to this, their finances have also been growing at a steady rate,"
     },
     {
       "chara": 503211552,
-      "text": "成子坂製作所の過半数の\n株式を取得できるとの\n発表がありました"
+      "text": "...and just recently, the company has announced that they are now in a position to become a majority shareholder in Narukozaka's board."
     },
     {
       "chara": 503211552,
-      "text": "業界再編の\n成り行きが注目されます"
+      "text": "Stay tuned for more news on the Actress industry restructuring situation!"
     },
     {
       "type": 99
     },
     {
       "chara": 2134197036,
-      "text": "私たちも\nうかうかしちゃ\nいられないわね"
+      "text": "Right, it doesn't look like we can let our guards down just yet."
     },
     {
       "chara": 2134197036,
-      "text": "叢雲工業の\n好きにさせて\nたまるもんですか"
+      "text": "We're certainly not just going to sit quietly while Murakumo does as they please."
     },
     {
       "chara": 1837165762,
-      "text": "がんばりましょう！\nもっともっとっ！"
+      "text": "Let's keep on doing our best! And then some more!"
     },
     {
       "chara": 3577514919,
-      "text": "うはーっ！\n燃える展開キタコレ！"
+      "text": "Woohoo~! Here comes the exciting development!"
     },
     {
       "chara": 3577514919,
-      "size": 1.8,
-      "text": "立ちはだかる\n<ruby><rb>強敵</rb><rt>ライバル</rt></ruby>！"
+      "text": "A powerful and looming rival!"
     },
     {
       "chara": 3577514919,
-      "size": 1.8,
-      "text": "友情！"
+      "text": "Friendship!"
     },
     {
       "chara": 3577514919,
-      "size": 1.8,
-      "text": "努力！"
+      "text": "Effort!"
     },
     {
       "chara": 3577514919,
-      "size": 2.2,
-      "text": "勝利！"
+      "text": "Victory!"
     },
     {
       "chara": 3577514919,
-      "text": "これって、わたしの\n秘められた<ruby><rb>能力</rb><rt>ちから</rt></ruby>が\n覚醒してしまう流れかーっ？"
+      "text": "Could this mean I'm gonna awaken some secret power of my own next~?"
     },
     {
       "chara": 2134197036,
-      "text": "ちょっと、あなた\n……本気なの？"
+      "text": "Now hold on just a moment... Are you serious?"
     },
     {
       "chara": 3577514919,
-      "text": "まあ、そこそこ？"
+      "text": "Well, kinda?"
     },
     {
       "chara": 1837165762,
-      "text": "いいじゃないですか\nみんなでやりましょう！\n気合いですよ！"
+      "text": "What's the harm? Let's all go for it together! Y'know, with a cheer!"
     },
     {
       "chara": 1837165762,
-      "text": "なんかないんですか？\n成子坂ファイトーッ！\nみたいな、熱い掛け声とか"
+      "text": "Don't we have anything? Some kind of battlecry, like \"Narukozaka fight on!\" or so."
     },
     {
       "chara": 1837165762,
-      "text": "団結して一体となって\n魂が燃え上がるようなっ"
+      "text": "Something that get us united as one, spirits fired up, that sort of deal."
     },
     {
       "chara": 3577514919,
-      "text": "ないない\nうちの会社\n文化系だから？"
+      "text": "Nah, nothing like that. We're a company of the... liberal arts type, see?"
     },
     {
       "chara": 2134197036,
-      "text": "さすがにそこまで\n暑苦しいのはねぇ"
+      "text": "We've never quite been heated enough to do something like that."
     },
     {
       "chara": 1837165762,
-      "text": "えーっ！\nなんでですか？"
+      "text": "Eeeeh~ Why not?"
     },
     {
       "chara": 1837165762,
-      "text": "打倒叢雲で\n盛り上がりましょうよー"
+      "text": "Let's pump ourselves up to take down Murakumo~!"
     },
     {
       "chara": 3577514919,
-      "text": "いやー、夜露ちゃんが\n熱くなってるのを見てたら"
+      "text": "Aha~ Seeing Yotsuyu this fired up..."
     },
     {
       "chara": 3577514919,
-      "text": "とんでもなく\n無謀なことしてるような\n気がしてきたんだよねえ"
+      "text": "...Really makes me think she might just go and do something super reckless next."
     },
     {
       "chara": 2134197036,
-      "text": "冷静に現実を\n見ちゃうと、ね"
+      "text": "Let's keep our calm and not lose sight of reality, alright?"
     },
     {
       "chara": 1837165762,
-      "text": "そんなぁ"
+      "text": "Aww..."
     },
     {
       "chara": 3577514919,
-      "text": "ほどほどに\nがんばろう！"
+      "text": "Well, let's just do what we can!"
     },
     {
       "chara": 2134197036,
-      "text": "身のほどをわきまえつつ\n買収されない程度にね"
+      "text": "\"What we can\" as in avoiding the merger while knowing our limits, that is."
     },
     {
       "chara": 1837165762,
-      "text": "せっかく\n盛り上がってたのに"
+      "text": "And we were getting ourselves pumped up and all..."
     },
     {
       "chara": 1837165762,
-      "text": "ちょっと残念です"
+      "text": "Kind of a letdown..."
     }
   ],
-  "story_001003001N": [
+  "story_1-2-14": [
     {
       "type": 99
     },
     {
       "chara": 1838453423,
-      "text": "『TODAYフラッシュ』の\nお時間です"
+      "text": "Welcome to \"Today's Newsflash\"."
     },
     {
       "chara": 1838453423,
-      "text": "<ruby><rb>宇佐元</rb><rt>うさもと</rt></ruby> <ruby><rb>杏奈</rb><rt>あんな</rt></ruby>が\nお伝えします"
+      "text": "As always, I'm your host, Usamoto Anna."
     },
     {
       "chara": 1838453423,
-      "text": "最初のニュースは\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の\n新型装備の話題です"
+      "text": "Our first news of the day will be Murakumo's new equipment."
     },
     {
       "chara": 1838453423,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業は本日\n<ruby><rb>武器</rb><rt>ウェポンギア</rt></ruby>と<ruby><rb>装備</rb><rt>ドレスギア</rt></ruby>の\n新モデルを発表しました"
+      "text": "The company has revealed today an entirely new set of Weapon and Dress Gear models."
     },
     {
       "chara": 1838453423,
-      "text": "同社が公表したスペックデータは\n従来品を大きく上回る\n大変な高性能で"
+      "text": "And according to official specification data, their performance far exceeds those of all previous designs."
     },
     {
       "chara": 1838453423,
-      "text": "まさに\nアクトレス装備の革命！"
+      "text": "We're looking at a revolution in Actress equipment here!"
     },
     {
       "chara": 1838453423,
-      "text": "アリスギアの\n概念をくつがえす\n新製品となりそうです"
+      "text": "Indeed, these new products stand to upend the very concept of Alice Gear technology itself."
     },
     {
       "chara": 1838453423,
-      "text": "今後ますます\n所属アクトレスの活躍が\n期待できますねっ"
+      "text": "Seems like we can look forward to the exploits of Murakumo's Actresses from here on!"
     },
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "見てくださいっ\nシタラ先輩っ\n文嘉先輩っ"
+      "size": "1.3",
+      "text": "Sitara! Fumika! Check this out!"
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "楓さんたちの\n新装備ですよっ"
+      "size": "1.3",
+      "text": "Kaede and her team are getting new equipment!"
     },
     {
       "chara": 257931171,
-      "text": "見てたわよ"
+      "text": "I saw, yes."
     },
     {
       "chara": 2773909288,
-      "text": "新型装備とは\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>さんちは\n豪勢だねえ"
+      "text": "Murakumo sure has a lot of money to swing around if they can just pull out new gear like that."
     },
     {
       "chara": 501880909,
-      "text": "カッコイイですよねっ！"
+      "text": "Isn't it just the coolest!"
     },
     {
       "chara": 501880909,
-      "text": "わたしもいつか\nあんな装備で……"
+      "text": "I wanna get to use something like that one day..."
     },
     {
       "chara": 501880909,
-      "text": "うーっ、憧れますっ"
+      "text": "Nnnh~ I can just dream of it~"
     },
     {
       "chara": 2773909288,
-      "text": "ふむふむ"
+      "text": "Mhm, mhm."
     },
     {
       "chara": 257931171,
-      "text": "はいはい"
+      "text": "Alright, alright."
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "むむーっ！\nどうしてそんなに\n冷めてるんですか"
+      "size": "1.3",
+      "text": "Ghhh-! What's with the cold shoulder?"
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "もっと感動して\nくださいよー"
+      "size": "1.3",
+      "text": "C'mon, show a bit more excitement-!"
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "隊長っ！"
+      "size": "1.3",
+      "text": "Hey Commander!"
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "隊長も見ましたよねっ？"
+      "size": "1.3",
+      "text": "You saw the news too, right?"
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "もちろん見てたが……？",
+          "command": "I did, why...?",
           "items": [
             {
               "chara": 501880909,
-              "size": 1.3,
-              "text": "ああいう装備\nつけてみたいと\n思いますよねっ!?"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": 2,
-      "commands": [
-        {
-          "command": "ああ、装備したいな！",
-          "items": [
-            {
-              "chara": 2773909288,
-              "size": 1.2,
-              "text": "まじで!?"
+              "size": "1.3",
+              "text": "You want to try on cool gear like that too, right!?"
             },
             {
               "chara": 2773909288,
-              "size": 1.2,
-              "text": "た、隊長が\nアクトレスの\n格好に!?"
+              "size": "1.2",
+              "text": "Wait, really!?"
+            },
+            {
+              "chara": 2773909288,
+              "size": "1.2",
+              "text": "The, the Commander dressed up as an Actress!?"
             },
             {
               "chara": 257931171,
-              "size": 1.2,
-              "text": "本気ですか？"
+              "size": "1.2",
+              "text": "Are you for real?"
             },
             {
               "chara": 501880909,
-              "text": "あははー……"
+              "text": "Ahaha..."
             },
             {
               "chara": 501880909,
-              "text": "わたしのせいで\nなんだか申し訳ないっす"
+              "text": "I feel a little bad now for starting this."
             }
           ]
         },
         {
-          "command": "それはちょっと……",
+          "command": "Yeah, for sure!",
           "items": [
             {
-              "chara": 501880909,
-              "text": "隊長ならわかってもらえると\n思ったんですけど"
-            },
-            {
-              "chara": 501880909,
-              "size": 1.3,
-              "text": "ぜひ着てくださいっ！"
-            },
-            {
-              "chara": 501880909,
-              "size": 1.3,
-              "text": "きっと隊長なら\nお似合いっす！"
+              "chara": 2773909288,
+              "size": "1.2",
+              "text": "Wait, really!?"
             },
             {
               "chara": 2773909288,
-              "text": "あっはははっ"
+              "size": "1.2",
+              "text": "The, the Commander dressed up as an Actress!?"
             },
             {
               "chara": 257931171,
-              "text": "隊長じゃ無理でしょ"
+              "size": "1.2",
+              "text": "Are you for real?"
+            },
+            {
+              "chara": 501880909,
+              "text": "Ahaha..."
+            },
+            {
+              "chara": 501880909,
+              "text": "I feel a little bad now for starting this."
+            }
+          ]
+        },
+        {
+          "command": "That's a little...",
+          "items": [
+            {
+              "chara": 501880909,
+              "text": "Aw, I thought you'd understand for sure."
+            },
+            {
+              "chara": 501880909,
+              "size": "1.3",
+              "text": "Please give it a try though!"
+            },
+            {
+              "chara": 501880909,
+              "size": "1.3",
+              "text": "I'm sure it'll look great on you!"
+            },
+            {
+              "chara": 2773909288,
+              "text": "Ah~hahaha..."
+            },
+            {
+              "chara": 257931171,
+              "text": "That's impossible, you know."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "commands": [
+        {
+          "command": "Yeah, for sure!",
+          "items": [
+            {
+              "chara": 2773909288,
+              "size": "1.2",
+              "text": "Wait, really!?"
+            },
+            {
+              "chara": 2773909288,
+              "size": "1.2",
+              "text": "The, the Commander dressed up as an Actress!?"
+            },
+            {
+              "chara": 257931171,
+              "size": "1.2",
+              "text": "Are you for real?"
+            },
+            {
+              "chara": 501880909,
+              "text": "Ahaha..."
+            },
+            {
+              "chara": 501880909,
+              "text": "I feel a little bad now for starting this."
+            }
+          ]
+        },
+        {
+          "command": "That's a little...",
+          "items": [
+            {
+              "chara": 501880909,
+              "text": "Aw, I thought you'd understand for sure."
+            },
+            {
+              "chara": 501880909,
+              "size": "1.3",
+              "text": "Please give it a try though!"
+            },
+            {
+              "chara": 501880909,
+              "size": "1.3",
+              "text": "I'm sure it'll look great on you!"
+            },
+            {
+              "chara": 2773909288,
+              "text": "Ah~hahaha..."
+            },
+            {
+              "chara": 257931171,
+              "text": "That's impossible, you know."
             }
           ]
         }
@@ -1956,785 +2033,784 @@
     },
     {
       "chara": 257931171,
-      "text": "だいたいね\n感動してる場合じゃ\nないわよ？"
+      "text": "In the first place, you do realize that this isn't the time to be excited?"
     },
     {
       "chara": 257931171,
-      "text": "アクトレスは楓さんを\n筆頭に粒ぞろい！"
+      "text": "Their Actresses are the best of the best, led by Kaede of all people!"
     },
     {
       "chara": 257931171,
-      "size": 1.1,
-      "text": "装備は高性能な新型！"
+      "size": "1.1",
+      "text": "And they're using powerful leading-edge equipment!"
     },
     {
       "chara": 2773909288,
-      "size": 1.1,
-      "text": "戦闘スーツはおしゃれな\nデザイナーズモデル！"
+      "size": "1.1",
+      "text": "They got stylish designer-model Combat Suits too!"
     },
     {
       "chara": 257931171,
-      "size": 1.2,
-      "text": "しかもッ！\n大型ヴァイスの撃退案件は\n業者指定で独占状態！"
+      "size": "1.2",
+      "text": "And furthermore! They have an officially-authorized monopoly on all Heavy-class Vice combat missions too!"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "成子坂が勝てる要素が\n見当たらないわっ！"
+      "size": "1.3",
+      "text": "I'm not seeing any way Narukozaka can win against all this!"
     },
     {
       "chara": 501880909,
-      "text": "そんなっ！\nなにかないんですか？"
+      "text": "No way! There's nothing we can lean on?"
     },
     {
       "chara": 257931171,
-      "text": "ないわね"
+      "text": "No. Nothing."
     },
     {
       "chara": 501880909,
-      "text": "わたしたちには\nなにもないんですか？"
+      "text": "Do we really have nothing left at all?"
     },
     {
       "chara": 2773909288,
-      "text": "あとは……"
+      "text": "All we have left now..."
     },
     {
       "chara": 2773909288,
-      "text": "勇気だけだっ!!"
+      "text": "...is our courage!"
     },
     {
       "chara": 501880909,
-      "text": "そうですね！\n気合いで勝ちましょう！"
+      "text": "You're right! Let's beat them with our fighting spirit!"
     },
     {
       "chara": 257931171,
-      "text": "なにカッコいいこと\n言ってるのよ"
+      "text": "I swear, trying to act all cool, you two."
     },
     {
       "chara": 257931171,
-      "text": "あなたたち本当に\n勇気と気合いだけで\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>に勝てると思ってるの？"
+      "text": "Do you seriously think for one moment that we can best Murakumo with courage and spirit alone?"
     },
     {
       "chara": 501880909,
-      "text": "勝ちますよっ！"
+      "text": "Of course we can!"
     },
     {
       "chara": 2773909288,
-      "text": "やってやるぜっ！"
+      "text": "Let's do it!"
     },
     {
       "chara": 257931171,
-      "text": "どうやって？"
+      "text": "Do it <i>how</i>?"
     },
     {
       "chara": 2773909288,
-      "text": "うむむ……"
+      "text": "Nnnh..."
     },
     {
       "chara": 501880909,
-      "text": "むむーっ！"
+      "text": "Nnnh...!"
     },
     {
       "chara": 257931171,
-      "text": "わからないなら\n考えなさい"
+      "text": "If you don't know, then use your head and think."
     },
     {
       "chara": 257931171,
-      "text": "考えてダメなら\n動きなさいよ"
+      "text": "If you can't come up with anything, then get back to work."
     },
     {
       "chara": 2773909288,
-      "text": "ぐぬぬ～っ、\n見てろよーっ！"
+      "text": "Grr~ I'll show you~!"
     },
     {
       "chara": 257931171,
-      "text": "な、なんですか\n隊長"
+      "text": "Wh-what is it, Commander?"
     },
     {
       "chara": 257931171,
-      "text": "別にわざと\n憎まれ役を\n買って出たわけでは……"
+      "text": "It's not like I wanted to be the one to take their frustration or anything..."
     },
     {
       "chara": 257931171,
-      "text": "こういうの\n本当は、隊長の役目\nなんですからね"
+      "text": "Honestly, this sort of thing should be your responsibility, Commander."
     }
   ],
-  "story_001003002N": [
+  "story_1-2-15": [
     {
-      "text": "成子坂製作所・メンテナンスエリア",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Maintenance Area"
     },
     {
       "type": 99
     },
     {
       "chara": 2773909288,
-      "text": "うわーん、整備長\n鬼畜眼鏡がいじめるよー"
+      "text": "Waaaah~ Mr. Head Engineer, the demon with glasses is bullying me~"
     },
     {
       "chara": 257931171,
-      "text": "誰が鬼畜眼鏡よ\n人聞き悪いわね"
+      "text": "Who're you calling a \"demon with glasses\"! That's slander!"
     },
     {
       "chara": 954290421,
-      "text": "やかましい！"
+      "text": "Oh shut the 'ell up!"
     },
     {
       "chara": 954290421,
-      "text": "ひとの職場でガタガタ\n騒ぐんじゃねえよ！"
+      "text": "Don't bring yer stupid racket into the workplace 'ere!"
     },
     {
       "chara": 2773909288,
-      "text": "整備長\nなんとかしてよ～"
+      "text": "Do something, Mr. Head Engineer~"
     },
     {
       "chara": 2773909288,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>がすごい新型装備\n出してきたんだよ～"
+      "text": "Murakumo came out with some super strong new gear~"
     },
     {
       "chara": 954290421,
-      "text": "ああっ？\nなんだそりゃ"
+      "text": "Aah? Hell's that?"
     },
     {
       "chara": 92371269,
-      "text": "あーっ！\n知ってますよ！"
+      "text": "Ah-! I've heard of that!"
     },
     {
       "chara": 92371269,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の新製品！\n先進技術満載の\nアクトレス専用装備！"
+      "text": "Murakumo's new product line! Exclusive stuff loaded to the brim with hyper-advanced tech!"
     },
     {
       "chara": 92371269,
-      "text": "とんッでもない\n性能が出てる\nやつでしょーっ"
+      "text": "Off-the-charts specs! That's what you're talking about, right~?"
     },
     {
       "chara": 92371269,
-      "text": "ネットでも\n大騒ぎッスよ！"
+      "text": "The internet's all over it too!"
     },
     {
       "chara": 954290421,
-      "text": "気が早ぇな\nまだ発表された\nばかりだろ"
+      "text": "Sure's fast of 'em. Thought the stuff hadn't even been announced fer that long."
     },
     {
       "chara": 954290421,
-      "text": "実証実験で\n計算上の性能は\n出てるのか？"
+      "text": "They ever proved those on-paper specs?"
     },
     {
       "chara": 92371269,
-      "text": "それが出てるんですよ！"
+      "text": "'Course they did!"
     },
     {
       "chara": 92371269,
-      "text": "これが実用化されたら\nえらいことになりますよ！"
+      "text": "If this gets fielded, we'll be seeing some exciting times!"
     },
     {
       "chara": 954290421,
-      "text": "ふんっ、そんなもん\n当てになるか"
+      "text": "Hmph, like hell the test results're enough."
     },
     {
       "chara": 954290421,
-      "text": "極限状況下での\n信頼性がなきゃ\n危なくて使えやしねえ"
+      "text": "If it's not reliable when yer push it to the brink, then it's too dangerous to be used!"
     },
     {
       "chara": 954290421,
-      "text": "実際にいじってみにゃ\n本当のところなんざ\nわかるもんか"
+      "text": "Yer never know without gettin' yer own hands on it fer real."
     },
     {
       "chara": 2773909288,
-      "text": "そんなこと言わないでさー\nこっちも似たようなの造ってよ\nできるんでしょー"
+      "text": "C'mon, don't say that~ Make us something similar! You can, right~?"
     },
     {
       "chara": 954290421,
-      "text": "簡単に言うな！"
+      "text": "Yer think it's simple like that!?"
     },
     {
       "chara": 954290421,
-      "text": "根本的な技術体系が\n違ってたら\nどうにもなんねぇ"
+      "text": "Tech 'ere's too different from theirs, ain't nothin' gonna make up for that."
     },
     {
       "chara": 954290421,
-      "text": "うちができるのは\n現行技術の改良だけだ"
+      "text": "All we can do 'ere is build on existing tech."
     },
     {
       "chara": 257931171,
-      "text": "結局、資本力が\n違いすぎるのよね"
+      "text": "So it's all about the insurmountable gap in capital at the end."
     },
     {
       "chara": 954290421,
-      "text": "若いのがハナッから\n諦めてんじゃねえ"
+      "text": "Don't think 'bout givin' up from the start, yer young'ins."
     },
     {
       "chara": 954290421,
-      "text": "どんな技術でも\n使うのは結局、人間だ"
+      "text": "When it comes down to it, tech's only as good as whoever's usin' it."
     },
     {
       "chara": 954290421,
-      "text": "性能が足りないってんなら\nおまえさんたちの技術で\nなんとかしてみろい"
+      "text": "If yer can't beat 'em in specs, do somethin' with yer skill!"
     },
     {
       "chara": 257931171,
-      "text": "それができれば\n苦労しません"
+      "text": "If we could, we wouldn't be in our current predicament right now."
     },
     {
       "chara": 2773909288,
-      "text": "あとは勇気で\n補えばいい!!"
+      "text": "Then we just gotta make it up with courage!!"
     },
     {
       "chara": 501880909,
-      "text": "気合いっすね！"
+      "text": "Fighting spirit!"
     },
     {
       "chara": 257931171,
-      "text": "まーた精神論に\n逃げるッ！"
+      "text": "There you go retreating into the same old willpower nonsense again!"
     },
     {
       "chara": 954290421,
-      "text": "慌てるこたぁねえ"
+      "text": "Calm yer horses."
     },
     {
       "chara": 954290421,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>さんの新型が\n本当にすごかったと\nしても、だ"
+      "text": "Murakumo's new models might look impressive 'n all, but."
     },
     {
       "chara": 954290421,
-      "text": "アクトレスが\n装備に慣れるのにも\n時間がかかる"
+      "text": "Getting 'em Actresses used to the equipment is gonna take time."
     },
     {
       "chara": 954290421,
-      "text": "ギア転換訓練に\n何時間必要だと\n思ってるんだ？"
+      "text": "How many hours yer think they'd need to get retrained with the new gear?"
     },
     {
       "chara": 954290421,
-      "text": "余計なこと\nぐだぐだ心配してる\nヒマがあるんだったら"
+      "text": "If yer got the time to worry about dumb stuff..."
     },
     {
       "chara": 954290421,
-      "text": "おめえらも現行装備を\nもっと使いこなせるように\nなりやがれ！"
+      "text": "...then go get better with the gear yer already have!"
     },
     {
       "chara": 501880909,
-      "text": "整備長の仰る通りっす\n出撃しましょう！"
+      "text": "Just like how Mr. Head Engineer put it! Let's get out there now!"
     }
   ],
-  "story_001003003N": [
+  "story_1-2-17": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "それにしても\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業って\nお金ありますね"
+      "text": "Speaking of which, Murakumo sure has lots of money."
     },
     {
       "chara": 501880909,
-      "text": "新型装備を\n開発したり"
+      "text": "Enough to develop new gear."
     },
     {
       "chara": 2773909288,
-      "text": "<ruby><rb>成子坂</rb><rt>うち</rt></ruby>を買収したりー"
+      "text": "And enough to buy us out~"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "<ruby><rb>成子坂</rb><rt>うち</rt></ruby>はまだ\n買収されてないわよ！"
+      "text": "Hey! We haven't been bought out just yet!"
     },
     {
       "chara": 501880909,
-      "text": "儲かってるんですね"
+      "text": "Their profits must be huge."
     },
     {
       "chara": 2773909288,
-      "text": "そりゃもう\nがっぽがっぽ？"
+      "text": "Literally rolling in money?"
     },
     {
       "chara": 257931171,
-      "text": "成子坂だって\n昔はすごかったのよ"
+      "text": "Look, back in the day Narukozaka was quite amazing too."
     },
     {
       "chara": 501880909,
-      "text": "へーっ\nそうなんすか？"
+      "text": "Heeeh~ Is that so?"
     },
     {
       "chara": 257931171,
-      "text": "両親が成子坂の大ファンで\nよく聞かされたわ"
+      "text": "My parents are big Narukozaka fans, so I've always heard a lot about the company from them."
     },
     {
       "chara": 257931171,
-      "text": "所属アクトレスは大人気\n開発してた装備品は\n飛ぶように売れたって"
+      "text": "How the Actresses here were sensational, and how the equipment developed here flew off the shelves."
     },
     {
       "chara": 501880909,
-      "text": "ちょうどいまの\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>みたいな\n感じですかね？"
+      "text": "So, pretty much how Murakumo's like right now?"
     },
     {
       "chara": 2773909288,
-      "text": "<ruby><rb>磐田</rb><rt>いわた</rt></ruby>整備長いってた！"
+      "text": "Head Engineer Iwata talked about this too!"
     },
     {
       "chara": 2773909288,
-      "text": "その頃は<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>に\n下請け仕事を\n回してたってー"
+      "text": "Apparently Murakumo was even one of our subcontractors back in the day!"
     },
     {
       "chara": 501880909,
-      "text": "<ruby><rb>成子坂</rb><rt>うち</rt></ruby>もすごい\nじゃないですかっ！"
+      "text": "Wow, our company's pretty amazing too, huh!"
     },
     {
       "chara": 257931171,
-      "text": "……昔の話よ\n私たちが入る\nずっとまえのこと"
+      "text": "...it's all history now, from long before we joined."
     },
     {
       "chara": 2773909288,
-      "text": "いまじゃ、すっかり\n立場が逆転\nしましたなぁ"
+      "text": "And now, oh, how the turns have tabled."
     },
     {
       "chara": 257931171,
-      "text": "他人事みたいに\nいわないで"
+      "text": "Don't say it like it's not your business."
     },
     {
       "chara": 501880909,
-      "text": "わたしたちも\nがんばりましょう！"
+      "text": "Then we'll just have to keep up the effort!"
     }
   ],
-  "story_001003004N": [
+  "story_1-2-19": [
     {
       "chara": 503211552,
-      "text": "今日は出撃直前の\n<ruby><rb>吾妻</rb><rt>あがつま</rt></ruby> <ruby><rb>楓</rb><rt>かえで</rt></ruby>ちゃんにっ"
-    },
-    {
-      "chara": 503211552,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業新型装備の\nインタビューを\nしてきましたっ"
+      "text": "Today we've got an exclusive pre-sortie interview with none other than Miss Agatsuma Kaede!"
     },
     {
       "chara": 503211552,
-      "text": "どうぞっ"
+      "text": "Let's hear what she has to share about Murakumo's new gear!"
+    },
+    {
+      "chara": 503211552,
+      "text": "Handing off to our field reporter:"
     },
     {
       "type": 99
     },
     {
       "chara": 2458423066,
-      "text": "……はい？"
+      "text": "...Huh?"
     },
     {
-      "text": "先日発表された\n新型装備について一言",
-      "type": 3
-    },
-    {
-      "chara": 2458423066,
-      "text": "いま、ですか？"
+      "type": 3,
+      "text": "Can we have a word on the new equipment announced by your company recently?"
     },
     {
       "chara": 2458423066,
-      "text": "あの……\nまだ配備されていないので\nわかりません"
-    },
-    {
-      "text": "先進技術を集めた\n画期的な装備と\nいうことですが？",
-      "type": 3
+      "text": "...Right now?"
     },
     {
       "chara": 2458423066,
-      "text": "技術的なことは\nわたしには\nわかりません"
+      "text": "Umm... It hasn't been issued to us yet, so I don't know much about it."
+    },
+    {
+      "type": 3,
+      "text": "Any comments on its advanced technology and groundbreaking nature?"
     },
     {
       "chara": 2458423066,
-      "text": "でも……"
+      "text": "I am afraid that I am unfamiliar with its technical aspects."
     },
     {
       "chara": 2458423066,
-      "text": "どのような装備でも\nアクトレスとして\nベストをつくします"
+      "text": "But..."
     },
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "chara": 2458423066,
+      "text": "As an Actress, I will perform to the absolute best of my abilities, no matter the equipment."
+    },
+    {
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 3577514919,
-      "text": "なかなか謙虚な\n優等生ですなっ！"
+      "text": "That's a humble honor student right there, alright!"
     },
     {
       "chara": 3577514919,
-      "text": "新型装備なのに\nちっとも浮かれてないっ！"
+      "text": "Got her head perfectly on her shoulders even with that new gear!"
     },
     {
       "chara": 1837165762,
-      "text": "さすが\n楓さんです"
+      "text": "Just what I'd expect from Miss Kaede!"
     },
     {
       "chara": 2134197036,
-      "text": "まったく\n少しは油断ぐらい\nしてほしいわね"
+      "text": "I swear, if only she could just be a little more careless."
     },
     {
       "chara": 2134197036,
-      "text": "いくらがんばっても\n追いつけそうに\nないじゃない"
+      "text": "No matter how hard we work, it just doesn't feel like we'll ever catch up."
     },
     {
       "chara": 3577514919,
-      "text": "いいね、いいねっ"
+      "text": "Mhm, this is going great~"
     },
     {
       "chara": 2134197036,
-      "text": "どこがいいのよ！"
+      "text": "Which part of this is going great!?"
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "もうダメだっ！"
+      "size": "1.3",
+      "text": "\"It's all over!\""
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "絶体絶命の\nピンチっ!!"
+      "size": "1.3",
+      "text": "\"There's no way out of this pinch!\""
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "ってゆーのを\n逆転するのが\n王道ロマンでしょー"
+      "size": "1.3",
+      "text": "That's the kind of situation where it's standard for the protags to make a comeback, y'see~"
     },
     {
       "chara": 2134197036,
-      "text": "どうやって\n逆転するのよ"
+      "text": "And how exactly would one make said comeback?"
     },
     {
       "chara": 3577514919,
-      "text": "それは文嘉が\n考えてよ"
+      "text": "Well, that responsibility falls onto Fumika, obviously."
     },
     {
       "chara": 2134197036,
-      "text": "なんで私!?\n隊長じゃないの？"
+      "text": "Why me!? Shouldn't it be on the Commander?"
     },
     {
       "chara": 3577514919,
-      "text": "眼鏡っ娘の役割？"
+      "text": "Because that's just what glasses girls do?"
     },
     {
       "chara": 2134197036,
-      "text": "視力関係ないし！"
+      "text": "My eyesight has nothing to do with this!"
     },
     {
       "chara": 3577514919,
-      "text": "じゃ、秘密兵器！"
+      "text": "Well then, secret weapon time!"
     },
     {
       "chara": 1837165762,
-      "text": "秘密兵器っ！\nそんなのが\nあるんですか？"
+      "text": "A secret weapon! We've got something like that?"
     },
     {
       "chara": 2134197036,
-      "text": "変な申請して\n整備長に怒られるの\n嫌だからね"
+      "text": "Just so you know, I'd rather not submit another strange request and make the Head Engineer angry again."
     },
     {
       "chara": 3577514919,
-      "text": "そうじゃなくてー\n秘密兵器っていうのは\n敵に知られていない隠し玉っ"
+      "text": "No no no, not <i>that</i> kind of secret weapon. I'm talking a hidden hand our enemies can't even begin to think of."
     },
     {
       "chara": 3577514919,
-      "text": "こーゆーのは\n転校生が活躍して\n逆転するものなのだっ"
+      "text": "This is the point where a transfer student enters the story and turns it all around!"
     },
     {
       "chara": 1837165762,
-      "text": "転校生？"
+      "text": "A transfer student?"
     },
     {
       "chara": 3577514919,
-      "text": "夜露ちゃん\nきみのことだ！"
+      "text": "I'm talking about you, Yotsuyu!"
     },
     {
       "chara": 1837165762,
-      "text": "わたし\n転校してませんよ"
+      "text": "But I haven't transferred schools at all."
     },
     {
       "chara": 3577514919,
-      "text": "新入社員も転校生も\n似たようなもんだからっ"
+      "text": "Transfer student, new employee, same thing really."
     },
     {
       "chara": 1837165762,
-      "text": "そういうもの\nですか？"
+      "text": "Is that how it works?"
     },
     {
       "chara": 2134197036,
-      "text": "シタラのいうこと\n真に受けなくて\nいいわよ"
+      "text": "Don't bother taking what she said seriously."
     },
     {
       "chara": 3577514919,
-      "text": "そーゆーわけで\nわたしたち\n勝ったも同然？"
+      "text": "Soooo with all that said, isn't our victory inevitable?"
     },
     {
       "chara": 3577514919,
-      "text": "世の中の仕組み的に\nわたしたちは\n勝つのだっ！"
+      "text": "If we go by how the world works, we're basically guaranteed to win!"
     },
     {
       "chara": 2134197036,
-      "text": "まったく……\nいいかげんね"
+      "text": "For the love of... give it a rest already."
     },
     {
       "chara": 1837165762,
-      "text": "でも、少し\n元気出てきましたっ！"
+      "text": "But hey, that helped cheer me up at least!"
     },
     {
       "chara": 1837165762,
-      "text": "わたしががんばれば\n成子坂も安心ですよねっ"
+      "text": "If I do my best, Narukozaka will be fine too, right?"
     },
     {
       "chara": 1837165762,
-      "text": "出撃しましょう！"
+      "text": "Let's get going then!"
     },
     {
       "chara": 3577514919,
-      "text": "えっへへー\n現実はそんなに\n甘くないけどね"
+      "text": "Eheheh~ Reality doesn't go as smoothly as that, though."
     },
     {
       "chara": 2134197036,
-      "text": "あなたが\nそれ言う？"
+      "text": "You of all people have no right to say that."
     }
   ],
-  "story_001003005N": [
+  "story_1-2-21": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 1837165762,
-      "text": "また大型ヴァイスが\n出現しましたねっ"
+      "text": "Another Heavy-class showed up this time."
     },
     {
       "chara": 1837165762,
-      "text": "……って\nよろこんじゃって\nいいんでしょうか"
+      "text": "...This is something to be happy about, right?"
     },
     {
       "chara": 3577514919,
-      "text": "無事倒したから\nよかろうなのだっ！"
+      "text": "Of course it is! We took it down without a hitch!"
     },
     {
       "chara": 2134197036,
-      "text": "会社的にも\n助かるわね"
+      "text": "It helps from a company perspective too."
     },
     {
       "chara": 2134197036,
-      "text": "所長からはなにも連絡ないけど\n買収を防ぐにはお金もかかるわ"
+      "text": "There's been complete radio silence from the Director, but we do still need significant funds to resist the merger."
     },
     {
       "chara": 2134197036,
-      "text": "業績も好調な方が\nいいはず"
+      "text": "There should be no harm in good company performance, either."
     },
     {
       "chara": 3577514919,
-      "text": "要するにー"
+      "text": "To sum it up:"
     },
     {
       "chara": 3577514919,
-      "text": "ヴァイスをどんどん倒して\nスコアを稼げば\nいいってことだよね"
+      "text": "Just gotta take out more and more Vice and rack up that score~"
     },
     {
       "chara": 3577514919,
-      "text": "ガンガンいこうぜ！"
+      "text": "Let's throw ourselves at it!"
     },
     {
       "chara": 1837165762,
-      "text": "わかりやすいっす"
+      "text": "Easily understood!"
     },
     {
       "chara": 1837165762,
-      "text": "この調子で\nガンガンいきましょう！"
+      "text": "Just gotta keep it up!"
     },
     {
-      "text": "成子坂製作所・アリスギア整備部",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Alice Gear Maintenance Center"
     },
     {
       "type": 99
     },
     {
       "chara": 92371269,
-      "text": "おやっさん！\nここも限界ッスよ"
+      "text": "Gramps! We're stretched thin over here too!"
     },
     {
       "chara": 954290421,
-      "text": "バカヤロウ\n泣き言ばかり\n言ってんじゃねえ！"
+      "text": "Yer numbskull! Is all yer can do complain?"
     },
     {
       "chara": 92371269,
-      "text": "アクトレスが増えて\n出撃回数が増えれば\n整備回数も増えるんスよ"
+      "text": "With more Actresses going out more often we'll need to do maintenance more, y'know."
     },
     {
       "chara": 92371269,
-      "text": "業績好調みたいだし\nあっちの部屋も\n使っていいッスか？"
+      "text": "Since the company's been doing better lately, can we start using the room over there too?"
     },
     {
       "chara": 954290421,
-      "text": "「アリスギア整備室」か\nそんな高度な設備が\nまた必要になるとはな"
+      "text": "Never thought I'd see the day when we'd be needin' the high-level stuff in the Alice Gear Maintenance Room again."
     },
     {
       "chara": 954290421,
-      "text": "７年ぶりか……"
+      "text": "'s been 7 years, huh..."
     },
     {
       "chara": 92371269,
-      "text": "思い出に浸ってないで\nさっさとカギを\n開けてくださいよ"
+      "text": "Less reminiscing and more unlocking that door, if you would~"
     },
     {
       "chara": 954290421,
-      "text": "やかましい！\nすぐ開けてやる！"
+      "text": "Shut yer ass up! I'll go open it now!"
     },
     {
       "chara": 954290421,
-      "text": "ぼさっとしてねぇで\nとっとと嬢ちゃんたちに\n伝えてきやがれ！"
+      "text": "Now stop slackin' and go tell the girls already!"
     }
   ],
-  "story_001003006N": [
+  "story_1-2-23": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 2134197036,
-      "text": "さすがに毎回\n大型案件ってわけには\nいかないわね"
+      "text": "I suppose it's unreasonable to expect a Heavy-class to appear every time."
     },
     {
       "chara": 3577514919,
-      "text": "『ヴァイス神・夜露』の\nボーナスステージも\n終了かー"
+      "text": "Guess the \"Vice Goddess Yotsuyu\" bonus stage is over~"
     },
     {
       "chara": 1837165762,
-      "text": "うー、『ヴァイス神』は\nないですよー"
+      "text": "Uuu~ I told you I'm not some \"Vice Goddess\"~"
     },
     {
       "chara": 3577514919,
-      "text": "イヤだった？"
+      "text": "Not your thing?"
     },
     {
       "chara": 3577514919,
-      "text": "だったら\n『ラッキーガール\nよつゆちゃん』"
+      "text": "How 'bout \"Lucky Girl Yotsuyu\"..."
     },
     {
       "chara": 3577514919,
-      "text": "なにそれ！\nどちゃくそかわええ……！"
+      "text": "Oh wow! That one was super freakin' cute!"
     },
     {
       "chara": 1837165762,
-      "text": "先輩\nかんべんしてください"
+      "text": "I think that's enough, please, Sitara?"
     },
     {
       "chara": 3577514919,
-      "text": "わかった！"
+      "text": "Wait, I got it!"
     },
     {
       "chara": 3577514919,
-      "text": "神だから\n『ラッキーガール\nゴッドよつゆちゃん』？"
+      "text": "Since you're a god, how about \"Lucky Girl God Yotsuyu\"?"
     },
     {
       "chara": 1837165762,
-      "text": "うー、雑用でも使い走りでも\nなんでもしますから\nそういうのは、ちょっと"
+      "text": "Um... I do everything from chores to errands around here, so..."
     },
     {
       "chara": 1837165762,
-      "text": "わたしには\n似合わないっすよ"
+      "text": "That kind of title doesn't really fit me."
     },
     {
       "chara": 2134197036,
-      "text": "はいはい\n雑談はその辺にして\n出撃するわよ"
+      "text": "Alright, alright, enough idle chatter, we're going on another sortie."
     },
     {
       "chara": 2134197036,
-      "text": "大きな仕事がないときは\n小さな仕事をコツコツと！"
+      "text": "We have to go for the smaller jobs too when there aren't any big ones!"
     },
     {
       "chara": 3577514919,
-      "text": "文嘉\nみみっちい"
+      "text": "Fumika you miser~"
     },
     {
       "chara": 2134197036,
-      "text": "なによ\n仕方ないじゃない"
+      "text": "What, there's only so much we can do."
     },
     {
       "chara": 2134197036,
-      "text": "私たちの実力と\n会社の状況を考えれば\nそれぐらいしか……"
+      "text": "Considering our capabilities and the company's situation, we don't exactly have another choice here..."
     },
     {
       "chara": 2134197036,
-      "text": "ですよね、隊長？"
+      "text": "Back me up here, Commander?"
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "文嘉の言う通りだよ",
+          "command": "Just as Fumika said.",
           "items": [
             {
               "chara": 2134197036,
-              "text": "ほら"
+              "text": "See."
             },
             {
               "chara": 3577514919,
-              "text": "なんてことだっ！"
+              "text": "Oh no!"
             },
             {
               "chara": 3577514919,
-              "text": "隊長は文嘉に\n洗脳されてしまったっ！"
+              "text": "Fumika went and brainwashed our Commander!"
             },
             {
               "chara": 1837165762,
-              "text": "えっ\nそうなんですか？"
+              "text": "Eh? Really?"
             },
             {
               "chara": 3577514919,
-              "text": "夜露、あいつはもう……\n文嘉のあやつり人形だっ"
+              "text": "It's too late for him, Yotsuyu... He's already dancing to her tunes!"
             },
             {
               "chara": 1837165762,
-              "text": "まじっすか！"
+              "text": "No way!"
             },
             {
               "chara": 2134197036,
-              "text": "そんなわけ\nないでしょ"
+              "text": "You must be kidding."
             }
           ]
         },
         {
-          "command": "それはちがうと思うよ",
+          "command": "I don't think that's the case.",
           "items": [
             {
               "chara": 2134197036,
-              "text": "なにか\n言ったかしら？"
+              "text": "What are you saying?"
             },
             {
               "chara": 2134197036,
-              "text": "それとも代案があるって\nいうんですか？"
+              "text": "Do you even have any other plan to propose?"
             },
             {
               "chara": 3577514919,
-              "text": "さては、隊長！\nわたしたちの才能を\n見抜いたなっ"
+              "text": "Well then, Commander! Bet you must've seen through our talents in full!"
             },
             {
               "chara": 1837165762,
-              "text": "わたしたちは\nもっともっと\nやれるってことですか？"
+              "text": "Does that mean we can do even better than we are right now?"
             },
             {
               "chara": 1837165762,
-              "text": "そこまで期待されては\nがんばるしかないですね"
+              "text": "If that's the expectation, then we really have to work as hard as we can."
             },
             {
               "chara": 3577514919,
-              "text": "見つけてもらおうか\nわたしの秘めた\n才能とやらを！"
+              "text": "I'll show you! My hidden talent or whatever!"
             },
             {
               "chara": 2134197036,
-              "text": "また適当なこと\nいって"
+              "text": "Look at you, saying such irresponsible things again."
             },
             {
               "chara": 2134197036,
-              "text": "悪い気はしませんけど"
+              "text": "Not that I'm upset, though."
             }
           ]
         }
@@ -2742,165 +2818,165 @@
     },
     {
       "chara": 2134197036,
-      "text": "さ、出撃するわよ！"
+      "text": "Come on, it's sortie time!"
     }
   ],
-  "story_001003007N": [
+  "story_1-2-25": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 1837165762,
-      "size": 1.5,
-      "text": "むむっ"
+      "size": "1.5",
+      "text": "Nnnnh..."
     },
     {
       "chara": 1837165762,
-      "size": 1.1,
-      "text": "何度か出撃すれば\n大型ヴァイスと\n出会う感じっすね"
+      "size": "1.1",
+      "text": "Really does feel like a Heavy-class shows up every few sorties."
     },
     {
       "chara": 2134197036,
-      "text": "夜露さんが来てから\n遭遇率も撃退率も\n上がってるわ"
+      "text": "Our encounter and takedown rates have both increased since you joined us."
     },
     {
       "chara": 2134197036,
-      "text": "……でも、最初から受注できる\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業には到底かなわない"
+      "text": "...Still, compared to Murakumo who gets the first pickings for these missions, these rates are just meager."
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "ふむふむー"
+      "size": "1.2",
+      "text": "Lemme see-"
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "すごい！　５倍以上の\nエネルギーゲインがあるっ"
+      "size": "1.2",
+      "text": "Woah! That's over 5 times the old energy gain!"
     },
     {
       "chara": 2134197036,
-      "text": "なによ\nエネルギーゲインって"
+      "text": "What's this 'energy gain' you're speaking of..."
     },
     {
       "chara": 1837165762,
-      "text": "なに見てるんですか？"
+      "text": "What're you looking at?"
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の\n業績推移グラフ"
+      "size": "1.2",
+      "text": "A chart on Murakumo's financial performance."
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "うちもすごいけど\nあちらさんは\nもう別世界"
+      "size": "1.2",
+      "text": "Ours isn't too shabby either, but theirs is in a whole other world of their own."
     },
     {
       "chara": 2134197036,
-      "text": "成子坂も微増してるけど\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業は急上昇を\nずっと続けてる……"
+      "text": "While Narukozaka's performance is trending upwards slightly, Murakumo's drastic increases have no signs of stopping at all..."
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "こうして見ると\nハッキリわかるねー"
+      "size": "1.2",
+      "text": "Seeing it laid out like this makes it all feel so much clearer~"
     },
     {
       "chara": 2134197036,
-      "text": "そ、そうね\nデータの「見える化」は\n大事よね"
+      "text": "I-indeed. Visualizing data is important."
     },
     {
       "chara": 1837165762,
-      "text": "めげずに\nがんばりましょう"
+      "text": "Let's keep our heads high and keep it up!"
     },
     {
       "chara": 1837165762,
-      "text": "おっきなヴァイスを\nいっぱいやっつければ\nなんとかなりますよ！"
+      "text": "If we can take down lots of big Vice, it'll all be fine!"
     },
     {
-      "text": "成子坂製作所・作戦指示所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Command Center"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "大型ヴァイス\n出るといいですね"
+      "text": "It'd be nice if a Heavy-class Vice would just show up..."
     },
     {
       "chara": 501880909,
-      "text": "あれっ……\nこういうのって\nよくないですかね"
+      "text": "Wait... Right, this isn't a good thing to wish for."
     },
     {
       "chara": 501880909,
-      "text": "ヴァイスが暴れたら\nみんなにメーワク\nかけちゃいますから"
+      "text": "Since, if the Vice runs riot, wouldn't it be a problem for everyone?"
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "そうだな",
+          "command": "Yeah.",
           "items": [
             {
               "chara": 501880909,
-              "text": "ヴァイスのいない世界が\n一番いいんですよね？"
+              "text": "A world without the Vice would be the best, right?"
             },
             {
               "chara": 257931171,
-              "text": "そうね"
+              "text": "Certainly."
             },
             {
               "chara": 257931171,
-              "text": "そうなったら\n私たち、もれなく\n失業するけど"
+              "text": "Though that would leave us completely jobless too."
             },
             {
               "chara": 2773909288,
-              "text": "わたしたちは\n学生だから\n気楽なもんだよ"
+              "text": "Well, us students do get to be a bit more carefree."
             },
             {
               "chara": 257931171,
-              "text": "だけど、成子坂のみなさんや\n隊長は困るわね"
+              "text": "That being said, it would certainly be a problem for the Commander and the people at Narukozaka."
             },
             {
               "chara": 501880909,
-              "text": "隊長"
+              "text": "Commander..."
             },
             {
               "chara": 2773909288,
-              "text": "たとえ自分が\n失業しても"
+              "text": "Even though it would bring him unemployment..."
             },
             {
               "chara": 2773909288,
-              "text": "平和な世界を望む\n隊長だった――"
+              "text": "...he, as a Commander, continued to wish for a world of peace..."
             },
             {
               "chara": 257931171,
-              "text": "勝手に気持ちを\n代弁しない"
+              "text": "Don't go and make up feelings for him to express."
             },
             {
               "chara": 257931171,
-              "text": "そもそも私たちが願ったぐらいで\nヴァイスがいなくなるわけ\nないでしょ"
+              "text": "In the first place, it's not as if the Vice would simply disappear from us wishing for it."
             }
           ]
         },
         {
-          "command": "大丈夫だ！",
+          "command": "Don't worry about it!",
           "items": [
             {
               "chara": 501880909,
-              "text": "ですね！"
+              "text": "You're right!"
             },
             {
               "chara": 501880909,
-              "text": "やっつけちゃえば\nいいんですよね"
+              "text": "No problem if we just take them down!"
             },
             {
               "chara": 2773909288,
-              "text": "そのための\nアクトレスだっ!!"
+              "text": "That's what Actresses are for!!"
             }
           ]
         }
@@ -2908,875 +2984,905 @@
     },
     {
       "chara": 2773909288,
-      "text": "神様、仏様\n夜露様っ"
+      "text": "O God! O Buddha! O Holy Yotsuyu!"
     },
     {
       "chara": 2773909288,
-      "text": "どうか\n大型ヴァイスを\n我らに与えたまへ"
+      "text": "I beseech thee! Grant us Heavy-class encounters please!"
     },
     {
       "chara": 501880909,
-      "text": "うーっ\nそうやって拝まれても\nですね……"
+      "text": "Uuuh... Even if you pray like that..."
     },
     {
       "chara": 501880909,
-      "text": "出ろ出ろ～って\n念じれば\nいいんすかね？"
+      "text": "I guess I can just chant \"Show up~ Show up~\" or something?"
     },
     {
       "chara": 257931171,
-      "text": "オカルトに\nすがるようになったら\n末期的ね"
+      "text": "Turning to occultism... A symptom of the terminally desperate right there."
     }
   ],
-  "story_001003008N": [
+  "story_1-2-27": [
     {
-      "text": "成子坂製作所・メンテナンスエリア",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Maintenance Area"
     },
     {
       "type": 99
     },
     {
       "chara": 92371269,
-      "text": "整備長ーっ"
+      "text": "Head Engineer-!"
     },
     {
       "chara": 954290421,
-      "text": "おーっ\nなんだーっ？"
+      "text": "What-? Yer need me-?"
     },
     {
       "chara": 92371269,
-      "text": "日刊東京<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>\nニュースのーっ"
+      "text": "Someone from Daily Tokyo AEGiS News came to meet you-!"
     },
     {
       "chara": 92371269,
-      "text": "<ruby><rb>神宮寺</rb><rt>じんぐうじ</rt></ruby> <ruby><rb>真理</rb><rt>まり</rt></ruby>って\n人が来てんですけどーっ\nどうしましょーっ？"
+      "text": "Called herself Jinguji Mari-! What do we do-?"
     },
     {
       "chara": 954290421,
-      "text": "取材なんざ\n受けてるヒマあるもんか\n<ruby><rb>帰</rb><rt>けぇ</rt></ruby>ってもらえ"
+      "text": "Ain't got time fer interviews! Send 'er away."
     },
     {
       "chara": 3175708457,
-      "text": "そりゃー\nないんじゃないの？\n<ruby><rb>磐田</rb><rt>いわた</rt></ruby>さん"
+      "text": "You know that's not going to work on ol' me, Mr. Iwata?"
+    },
+    {
+      "type": 3,
+      "text": "The Photojournalist Zooming Across the Universe\nJinguji Mari"
     },
     {
       "chara": 954290421,
-      "text": "なんだ……\nおめぇか"
+      "text": "Wha... Hmph, it's you."
     },
     {
       "chara": 954290421,
-      "text": "どっかで聞いた\n名前だと思ったら……"
+      "text": "Thought I'd heard that name from somewhere before......"
     },
     {
       "chara": 954290421,
-      "text": "いまはブンヤなんて\nやってやがんのか"
+      "text": "So yer a paparazzi or somethin' now?"
     },
     {
       "chara": 3175708457,
-      "text": "カメラマン兼\nジャーナリストって\nいってよ"
+      "text": "At least call me a cameraman-journalist~"
     },
     {
       "chara": 3175708457,
-      "text": "ちょっち話ぐらい\n聞かせてくれても\nいいんじゃない？"
+      "text": "Surely you can spare some time for a lil' chat, at least?"
     },
     {
       "chara": 3175708457,
-      "text": "昔のよしみでさ"
+      "text": "For old times' sake?"
     },
     {
       "chara": 954290421,
-      "text": "……５分だけだぞ"
+      "text": "......Just 5 minutes."
     },
     {
       "chara": 954290421,
-      "text": "おう、おめえら\n10分休憩だ！"
+      "text": "Oi! Everyone take ten!"
     },
     {
       "chara": 92371269,
-      "text": "へーい"
+      "text": "Aight~"
     },
     {
       "chara": 3175708457,
-      "text": "わたしとしては、<ruby><rb>磐田</rb><rt>いわた</rt></ruby>さんの\nエンジニアとしての見解が\n知りたいわけ"
+      "text": "I'm here today because I wanted your expert opinion as an engineer on something. "
     },
     {
       "chara": 954290421,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>の新型なら\nお門違いだ"
+      "text": "If it's about Murakumo's new tech then yer got the wrong person."
     },
     {
       "chara": 954290421,
-      "text": "叢雲のこたぁ\n叢雲に聞いてくれ"
+      "text": "Go bother them about their own stuff instead."
     },
     {
       "chara": 3175708457,
-      "text": "聞いて素直に\n教えてくれるわけ\nないでしょー"
+      "text": "C'mon, it's not like they'd give a straight answer even if I asked nicely~"
     },
     {
       "chara": 3175708457,
-      "text": "で、どうなんですか？"
+      "text": "So, how about it?"
     },
     {
       "chara": 954290421,
-      "text": "さぁてな\n俺が知るわけねえや"
+      "text": "Whatever, but hell if I have any means of knowin'."
     },
     {
       "chara": 3175708457,
-      "text": "あの、とーんでもなく\n新しい技術、どうやって\n研究したと思います？"
+      "text": "Ah, just what kind of research could've produced all that crazy advanced tech they showed off?"
     },
     {
       "chara": 3175708457,
-      "text": "普通の研究じゃ\nこうも急に開発できないと\nおっしゃる人もいるんですよ"
+      "text": "There are some that say regular R&D stuff don't go operational this quickly, y'know."
     },
     {
       "chara": 954290421,
-      "text": "それなら叢雲には\n天才がいるんだろうさ"
+      "text": "Must've got geniuses in their teams then."
     },
     {
       "chara": 3175708457,
-      "size": 1.4,
-      "text": "違法研究……"
+      "size": "1.4",
+      "text": "Or, perhaps, \"restricted research\"..."
     },
     {
       "chara": 3175708457,
-      "text": "なーんて可能性も\nあるんじゃないかと\n思うんですけどーっ"
+      "text": "...Who knows~? Not out of the question, wouldn't you say~?"
     },
     {
       "chara": 954290421,
-      "text": "めったなこと\n言うもんじゃねえ"
+      "text": "Don't spit those kind of things lightly."
     },
     {
       "chara": 3175708457,
-      "text": "<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>に\n無断でヴァイスを\n違法に研究すれば"
+      "text": "Think about it—if they illegally researched the Vice without AEGiS authorization..."
     },
     {
       "chara": 3175708457,
-      "text": "画期的新装備も\n開発できそうですよね"
+      "text": "...Then it wouldn't be a stretch for them to be able to develop revolutionary new gear, right?"
     },
     {
       "chara": 954290421,
-      "text": "…………"
+      "text": "............"
     },
     {
       "chara": 954290421,
-      "text": "叢雲に聞けって\nいってんだろ"
+      "text": "Thought I told yer to go ask Murakumo."
     },
     {
       "chara": 3175708457,
-      "text": "わたしが\nこんなこと言うには\n根拠があるんですよー"
+      "text": "What I'm saying isn't completely unfound, y'know~"
     },
     {
       "chara": 954290421,
-      "text": "証拠でも\n握ってんのかい？"
+      "text": "Yer got any proof?"
     },
     {
       "chara": 954290421,
-      "text": "……いや……\nちがうな"
+      "text": "...No... 'course not."
     },
     {
       "chara": 954290421,
-      "text": "だったら\nこんなところに\n来やしねえ"
+      "text": "Wouldn't be here talkin' to me if yer did."
     },
     {
       "chara": 3175708457,
-      "text": "コンプライアンスって\n知ってます？"
+      "text": "Say, you know about the concept of \"compliance\"?"
     },
     {
       "chara": 954290421,
-      "text": "年寄りだからって\n馬鹿にするんじゃねえ"
+      "text": "I might be old, but I ain't gone senile just yet."
     },
     {
       "chara": 954290421,
-      "text": "法令順守だろ"
+      "text": "Followin' the law, yeah?"
     },
     {
       "chara": 954290421,
-      "text": "それぐれえ、\n企業の社員なら\n知ってるさ"
+      "text": "Any good company person would know this stuff."
     },
     {
       "chara": 3175708457,
-      "text": "一部が違法な\nビジネスしていると"
+      "text": "You see, in certain businesses that violate the law,"
     },
     {
       "chara": 3175708457,
-      "text": "社内の他のセクションも\n法をかいくぐるように\nなるんです"
+      "text": "Their other sections start exploiting legal loopholes and such too."
     },
     {
       "chara": 3175708457,
-      "text": "社風が染まってくん\nですかね"
+      "text": "Influenced by the company atmosphere, you could say."
     },
     {
       "chara": 954290421,
-      "text": "それが\nどうしたい"
+      "text": "Where're yer goin' with that?"
     },
     {
       "chara": 3175708457,
-      "text": "叢雲工業の事業躍進\nおかしいと\n思いませんか？"
+      "text": "Don't you think something feels off about Murakumo's rapid business growth?"
     },
     {
       "chara": 3175708457,
-      "text": "大型ヴァイスばかり\n大量に撃破して\n不自然ですよね？"
+      "text": "Kinda unnatural for them to be taking down only Heavy-class Vice in such large quantities, no?"
     },
     {
       "chara": 954290421,
-      "text": "<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>随意契約の\n業者指定受けてんだ"
+      "text": "Just takin' advantage of their no-bid contract from AEGiS."
     },
     {
       "chara": 954290421,
-      "text": "それぐれえ、あんただって\nよーく知ってるじゃねえか"
+      "text": "Shouldn't yer know this perfectly well already?"
     },
     {
       "chara": 3175708457,
-      "text": "それだけじゃ\n説明できないんですよ"
+      "text": "But that alone doesn't explain everything, now does it?"
     },
     {
       "chara": 3175708457,
-      "text": "大型ヴァイスを倒すには\nまず出現しなくては……"
+      "text": "To take down a Heavy-class Vice, there has to be one that shows up in the first place."
     },
     {
       "chara": 3175708457,
-      "text": "叢雲工業が\n業者指定を受けてから"
+      "text": "Ever since Murakumo got their Designated Contractor status,"
     },
     {
       "chara": 3175708457,
-      "text": "大型ヴァイスの発生件数が\nどれぐらい伸びたか\n知ってます？"
+      "text": "Do you know just how much more often Heavy-class Vice started showing up?"
     },
     {
       "chara": 954290421,
-      "text": "……なにがいいてえ"
+      "text": "......what're yer sayin'?"
     },
     {
       "chara": 3175708457,
-      "text": "ある疑惑が\nあるんですよ"
+      "text": "I have a certain suspicion, you see."
     },
     {
       "chara": 3175708457,
-      "text": "叢雲工業は\n東京シャード外壁の\nヴァイスを絶滅させず――"
+      "text": "About whether Murakumo is intentionally keeping some of the Vice in the Tokyo Shard perimeter alive,"
     },
     {
       "chara": 3175708457,
-      "text": "大型ヴァイスを\n増殖させている……"
+      "text": "Engineering a condition for Heavy-class Vice to increase in numbers..."
     },
     {
       "chara": 3175708457,
-      "text": "<ruby><rb>裏社会</rb><rt>アンダーシャード</rt></ruby>の\nうわさ話ですけどね"
+      "text": "Well, it's just a rumor from the Under-Shard anyways."
     },
     {
       "chara": 954290421,
-      "text": "たちの悪い\n誹謗中傷だ"
+      "text": "'s nothin' but slander."
     },
     {
       "chara": 954290421,
-      "text": "証拠もなしに\n下手に騒いだら\n告訴されるぞ"
+      "text": "Keep makin' a fuss without proof and yer gonna get taken to court."
     },
     {
       "chara": 3175708457,
-      "size": 1.4,
-      "text": "ですよねーっ"
+      "size": "1.4",
+      "text": "Guess you're right~"
     },
     {
       "chara": 3175708457,
-      "text": "ちゃーんと\nわかってますから\nご心配なくーっ"
+      "text": "Don't worry about me though! I know full well what I'm doing~"
     },
     {
       "chara": 3175708457,
-      "text": "また、話聞きに\nきまーす"
+      "text": "See you for another chitchat next time~"
     },
     {
       "chara": 954290421,
-      "size": 1.1,
-      "text": "もう来るんじゃねえ！"
+      "size": "1.1",
+      "text": "How 'bout yer never come back!"
     },
     {
       "chara": 954290421,
-      "text": "……ったく、あのバカ\n危なっかしい真似\nしやがって"
+      "text": "......Swear t' god that idiot, riskin' to be someone she's not."
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "むむっ……\nどういうことっすかね？"
+      "text": "Mmnh...so what does all that mean?"
     },
     {
       "chara": 501880909,
-      "size": 1.2,
-      "text": "まさか！"
+      "size": "1.2",
+      "text": "Wait!"
     },
     {
       "chara": 501880909,
-      "text": "楓さんたちが\nズルしてた……\nってことですか？"
+      "text": "Does this mean......Kaede and her team were cheating?"
     },
     {
       "chara": 2773909288,
-      "text": "ゴシップ記者の\nねつ造じゃなーい？"
+      "text": "Not just something made up by a gossip reporter?"
     },
     {
       "chara": 2773909288,
-      "text": "メディアを信じるな！\n真実はいつも\nネットにある！"
+      "text": "\"Don't trust the media! The truth is always somewhere on the internet!\""
     },
     {
       "chara": 257931171,
-      "text": "シタラのいつもの\n極論は放っとくとして"
+      "text": "Ignoring Sitara being extreme as always,"
     },
     {
       "chara": 2773909288,
-      "size": 1.4,
-      "text": "がーん"
+      "size": "1.4",
+      "text": "Gaaah~"
     },
     {
       "chara": 257931171,
-      "text": "いまの話が\n本当かわからないけど"
+      "text": "I don't know if there is any truth to this,"
     },
     {
       "chara": 257931171,
-      "text": "可能性はあるわ"
+      "text": "But, the possibility is there."
     },
     {
       "chara": 501880909,
-      "text": "そんな……\nまじっすか!?"
+      "text": "Wha......seriously!?"
     },
     {
       "chara": 257931171,
-      "text": "調べてみないと……"
+      "text": "Well, without investigating..."
     }
   ],
-  "story_001004001N": [
+  "story_1-3-28": [
     {
       "type": 99
     },
     {
       "chara": 1838453423,
-      "text": "『TODAYフラッシュ』の\nお時間です"
+      "text": "Welcome to \"Today's Newsflash\"."
     },
     {
       "chara": 1838453423,
-      "text": "先日お伝えいたしました\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の新型装備ですが\n早くも実戦配備が決定いたしました"
+      "text": "In a recent update, Murakumo states that they plan on fielding their new equipment series as soon as possible."
     },
     {
       "chara": 1838453423,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の吾妻 楓ちゃんに\nコメントをいただいてますっ"
+      "text": "Their representative Agatsuma Kaede has a few comments for us today:"
     },
     {
       "type": 99
     },
     {
       "chara": 2622687016,
-      "text": "新型への換装訓練は\nすでに終えています"
+      "text": "We have already completed the necessary familiarization training."
     },
     {
       "chara": 2622687016,
-      "text": "そうです"
+      "text": "Yes, that is correct."
     },
     {
       "chara": 2622687016,
-      "text": "正式発表されるまえから\nシミュレーションで\n習熟訓練はしていました"
+      "text": "We have been training in simulations even before the official announcement was made."
     },
     {
       "chara": 2622687016,
-      "text": "いままで黙っていて\nごめんなさい"
+      "text": "I would like to apologize for the silence up until now."
     },
     {
       "chara": 2622687016,
-      "text": "いまは最終調整を\nしています"
+      "text": "We are currently in the final adjustments phase."
     },
     {
       "chara": 2622687016,
-      "text": "早く実戦で\n結果を出したいですね"
+      "text": "We hope to be able to present results from actual combat soon."
     },
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "おーっ\n準備ばっちりっすね"
+      "text": "Ooh~ Looks like they were all prepped up and ready to go."
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "ヴァイスなんて\nいつでも来いやーっ"
+      "size": "1.3",
+      "text": "Like, \"Bring it on anytime you Vice scrapheaps!\""
     },
     {
       "chara": 501880909,
-      "text": "って感じです"
+      "text": "That sort of feel."
     },
     {
       "chara": 2773909288,
-      "text": "もう\n新型配備だとーっ!?"
+      "text": "They're deploying the new gear already!?"
     },
     {
       "chara": 2773909288,
-      "text": "こうなったら<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>が\nヴァイスぜんぶ退治すれば\nいいんじゃないかなぁ"
+      "text": "Geez, they may as well just take out every single Vice out there at this point."
     },
     {
       "chara": 501880909,
-      "text": "やっぱりわたしは\n楓さんがズルしてるなんて\n信じられないっす！"
+      "text": "Still, Miss Kaede just doesn't strike me as the cheating kind!"
     },
     {
       "chara": 257931171,
-      "text": "それはどうかしら？"
+      "text": "I wouldn't be so sure about that."
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>ネットで<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の\n受注状況を調べてみたわ"
+      "text": "Earlier, I had a look through Murakumo's mission records on the AEGiS network."
     },
     {
       "chara": 501880909,
-      "text": "なにか\nわかったんですか？"
+      "text": "What did you find out?"
     },
     {
       "chara": 257931171,
-      "text": "結論からいうと……"
+      "text": "In summary..."
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の\n大型ヴァイス撃退案件は\n達成率に偏りがあるわね"
+      "text": "There is a bias in their Heavy-class combat mission completion rates."
     },
     {
       "chara": 501880909,
-      "text": "えーっと……\nそれってつまり\nどういうことっすか？"
+      "text": "Erm... So what does that mean?"
     },
     {
       "chara": 257931171,
-      "text": "それは――"
+      "text": "Well-"
     },
     {
       "chara": 2773909288,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の\n大型ヴァイス撃退案件は\n達成率に偏りがあるのだっ"
+      "text": "There's a bias in Murakumo's mission completion rates when it comes to Heavy-class Vice!"
     },
     {
       "chara": 501880909,
-      "text": "文嘉先輩がいった\nまんまじゃないですか！"
+      "text": "That's just a repeat of what Fumika said!"
     },
     {
       "chara": 257931171,
-      "text": "わかりやすく\nいうと……"
+      "text": "To put it more simply:"
     },
     {
       "type": 99
     },
     {
       "chara": 257931171,
-      "text": "ここ数年の<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の\n東京シャード内撃退率は\n９９．７……ほぼ１００％"
+      "text": "Murakumo's Heavy-class takedown rate within the Tokyo Shard interior during the past few years is 99.7%, almost 100%."
     },
     {
       "chara": 257931171,
-      "text": "市街地上空、工業地域\n森林山岳エリア\nそれから宇宙港設備ね"
+      "text": "This covers the city airspace, industrial sectors, forests and mountain ranges, and finally, spaceport facilities."
     },
     {
       "chara": 257931171,
-      "text": "その一方で\nシャード外の宇宙空間では\nあまり撃退していない"
+      "text": "On the other hand, their takedowns in the outer perimeter of the Shard were few and far between."
     },
     {
       "chara": 257931171,
-      "text": "これにはシャード外壁も\n当然、含まれているわ"
+      "text": "This of course includes the Shard's outer walls."
     },
     {
       "chara": 501880909,
-      "text": "シャードの外壁って\nあの新聞記者さんが\nいってた……"
+      "text": "The outer walls... What that reporter mentioned..."
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>が意図的に\n大型ヴァイスを倒さずに\n増殖させている――"
+      "text": "About the rumor that Murakumo is allowing Heavy-class Vice to multiply undisturbed?"
     },
     {
       "chara": 257931171,
-      "text": "と、うわさされている\nエリアよ"
+      "text": "This would be the area in question, yes."
     },
     {
       "chara": 501880909,
-      "text": "まさか、そんなっ!?"
+      "text": "Wait, don't tell me!?"
     },
     {
       "chara": 257931171,
-      "text": "いちおう\n撃退延期の理由も\n公表されているけど……"
+      "text": "They did provide reasons for delaying their missions, at the very least, but..."
     },
     {
       "chara": 257931171,
-      "text": "「活動停止中で\n緊急性が低い」"
+      "text": "\"Target inactive. Low priority.\""
     },
     {
       "chara": 257931171,
-      "text": "「大型ヴァイスを\n発見できず調査中」"
+      "text": "\"Target missing. Investigation in progress.\""
     },
     {
       "chara": 257931171,
-      "text": "そんな理由で\n数十件の大型案件が\n中止や延期されている"
+      "text": "...and such. Dozens of Heavy-class missions, put on hold or cancelled for similar reasons."
     },
     {
       "chara": 257931171,
-      "text": "ちょっと不自然ね"
+      "text": "Rather unnatural, I am inclined to say."
     },
     {
       "chara": 257931171,
-      "text": "隊長"
+      "text": "Commander."
     },
     {
       "chara": 257931171,
-      "text": "調べてみる\n価値はあると思います"
+      "text": "I believe this lead is worth investigating."
     },
     {
       "chara": 257931171,
-      "text": "シャード外壁の案件を\n受注していただけませんか"
+      "text": "Kindly accept a mission to the Shard's outer walls for us, if you would?"
     }
   ],
-  "story_001004002N": [
+  "story_1-3-29": [
     {
-      "text": "成子坂製作所・メンテナンスエリア",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Maintenance Area"
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "本当にシャードの外壁に\n大型ヴァイスがいるんでしょうか？"
+      "text": "Do you think there's really Heavy-class Vice at the Shard's outer walls?"
     },
     {
       "chara": 257931171,
-      "text": "それを確かめるための\n出撃よ"
+      "text": "That's what we are sortieing for this time. To investigate."
     },
     {
       "chara": 257931171,
-      "text": "いまはまだ\n単なるうわさ話に\n過ぎないわ"
+      "text": "Right now, it's still merely a rumor."
     },
     {
       "chara": 257931171,
-      "text": "業績好調な<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>を\nうらやむ人たちの\n悪口かも知れない"
+      "text": "It could just be slander from those who are envious of Murakumo's growth."
     },
     {
       "chara": 257931171,
-      "text": "大型案件の中止や延期にも\n実は理由があるのかも"
+      "text": "And perhaps there are valid reasons for the delays and cancellations of the Heavy-class missions as well."
     },
     {
       "chara": 501880909,
-      "text": "それもそうっすね"
+      "text": "I guess there's that."
     },
     {
       "chara": 257931171,
-      "text": "大型ヴァイスが\nいなかったら\nそれでいいじゃない"
+      "text": "In any case, there's nothing bad about not finding any Heavy-class Vice there."
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業への\n疑いが晴れるわ"
+      "text": "That would clear our suspicions of Murakumo at the very least."
     },
     {
       "chara": 501880909,
-      "text": "ですねっ！"
+      "text": "You're right!"
     },
     {
       "chara": 501880909,
-      "text": "でも、もし大型ヴァイスが\nたくさんいたら……"
+      "text": "But, if there <i>are</i> lots and lots of Heavy-class Vice there..."
     },
     {
       "chara": 257931171,
-      "text": "あの神宮寺って\n記者の話に\n真実味が増すわね"
+      "text": "Then what that reporter, Jinguji, told us suddenly becomes that much more credible."
     },
     {
       "chara": 257931171,
-      "text": "だから、それを\n確かめてみるの"
+      "text": "Hence, we need to make sure."
     },
     {
       "chara": 501880909,
-      "text": "わかりましたっ！"
+      "text": "Got it!"
     },
     {
       "chara": 2773909288,
-      "text": "……確かめてみよう……"
+      "text": "...\"Let's make sure.\"..."
     },
     {
       "chara": 2773909288,
-      "text": "そういった文嘉は\nシャードの外壁を\nそぉっとはずしてみたんです"
+      "text": "Said Fumika, as she moved the Shard's outer wall from its place, ever so slightly."
     },
     {
       "chara": 2773909288,
-      "text": "……すると\nその下には……"
+      "text": "...Under the cover, what she saw..."
     },
     {
       "chara": 2773909288,
-      "size": 1.6,
-      "text": "大量のヴァイスが\nびっしりと!!"
+      "size": "1.6",
+      "text": "Was a huge amount of swarming Vice! Vrrrr!"
     },
     {
       "chara": 501880909,
-      "size": 1.3,
-      "text": "ひゃーーーーッ!!"
+      "size": "1.3",
+      "text": "Aaaaah!!"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "悪趣味ね"
+      "size": "1.3",
+      "text": "Taking joy in creeping us out, I see."
     },
     {
       "chara": 257931171,
-      "text": "気持ち悪いこと\nいわないでよ"
+      "text": "I'd appreciate it if you refrained from making that disturbing sound again."
     },
     {
       "chara": 2773909288,
-      "size": 1.3,
-      "text": "びっしりと！"
+      "size": "1.3",
+      "text": "Vrrrrrr!"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "もう！"
+      "size": "1.3",
+      "text": "Can you not!"
     },
     {
       "chara": 2773909288,
-      "text": "えっへへー"
+      "text": "Ee~hehe~"
     },
     {
       "chara": 2773909288,
-      "text": "それじゃ外壁まで\n確認しに行きますかー"
+      "text": "Let's go check the walls out then-"
     },
     {
       "chara": 2773909288,
-      "size": 1.3,
-      "text": "びっしりと！"
+      "size": "1.3",
+      "text": "VRRRRRR!"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "くどいわッ！"
+      "size": "1.3",
+      "text": "GIVE IT A REST!"
+    },
+    {
+      "type": 99
+    },
+    {
+      "type": 3,
+      "text": "One Serpent encounter later..."
+    },
+    {
+      "type": 99
+    },
+    {
+      "chara": 2773909288,
+      "text": "Oh wha!? They really did show up!"
+    },
+    {
+      "chara": 257931171,
+      "text": "I believe our worst fear has just been realized."
+    },
+    {
+      "chara": 501880909,
+      "text": "We...we don't know for sure yet."
+    },
+    {
+      "chara": 501880909,
+      "text": "Let's just deal with these ones for now!"
     }
   ],
-  "story_001004003N": [
+  "story_1-3-31": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "もう、頭にきちゃうわ\nあの石頭っ"
+      "size": "1.3",
+      "text": "I swear to god, those obstinate pieces of rock are pissing me off!"
     },
     {
       "chara": 2773909288,
-      "text": "どったの？"
+      "text": "What's it this time?"
     },
     {
       "chara": 257931171,
-      "text": "今回の件、報告したのよ\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>本部に"
+      "text": "So, I reported our findings to AEGiS HQ."
     },
     {
       "chara": 257931171,
-      "text": "ぜんぶ報告書にまとめて\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>の受注データもつけて！"
+      "text": "I made the report as comprehensive as I could, even enclosed Murakumo's mission log data!"
     },
     {
       "chara": 2773909288,
-      "text": "そしたら？"
+      "text": "And then?"
     },
     {
       "chara": 257931171,
-      "text": "個別の案件については\nお答えできかねます……"
+      "text": "\"We cannot respond to individual inquiries.\""
     },
     {
       "chara": 257931171,
-      "text": "とか、いっちゃって\n無視よ、無視！"
+      "text": "That was how they replied. We were ignored! Completely ignored!"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "お役所仕事か！"
+      "size": "1.3",
+      "text": "What kind of red tape nonsense is this!?"
     },
     {
       "chara": 2773909288,
-      "text": "役所だよねー\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>は"
+      "text": "AEGiS <i>is</i> that kind of government organization, after all~"
     },
     {
       "chara": 257931171,
-      "text": "だからもう頭にきて\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業本社にも\n問い合わせてみたのよ"
+      "text": "Anyways, in a fit of anger, I then reached out to Murakumo directly."
     },
     {
       "chara": 2773909288,
-      "text": "そんで？"
+      "text": "How'd that go?"
     },
     {
       "chara": 257931171,
-      "text": "撃退延期や中止は\n正当な根拠がある\n……ですって"
+      "text": "\"There are justifiable reasons for the delays and cancellations\" they say."
     },
     {
       "chara": 257931171,
-      "text": "因果関係は\n認められません\n……ですって！"
+      "text": "\"We deny that any sort of causal connection exists\" they say!"
     },
     {
       "chara": 257931171,
-      "text": "しらばっくれちゃって\n許せない"
+      "text": "They're feigning ignorance! Absolutely unforgivable!"
     },
     {
       "chara": 2773909288,
-      "text": "えっへへー"
+      "text": "Eh~hehe~"
     },
     {
       "chara": 257931171,
-      "text": "なにが\nおかしいのよ？"
+      "text": "What's so funny?"
     },
     {
       "chara": 2773909288,
-      "text": "文嘉が\nこんなに荒れるなんて\nめずらしーねー"
+      "text": "Just thought it's pretty rare to see you this ruffled."
     },
     {
       "chara": 257931171,
-      "text": "こういうの\nすっごく嫌いなの"
+      "text": "I very much despise being in this kind of state."
     },
     {
       "chara": 501880909,
-      "text": "そうっすね……"
+      "text": "That's right..."
     },
     {
       "chara": 501880909,
-      "text": "ズルは\nよくないですね"
+      "text": "Cheating's not a good thing to do..."
     },
     {
       "chara": 257931171,
-      "text": "夜露さん\nどうしたの？"
+      "text": "What happened to Yotsuyu?"
     },
     {
       "chara": 2773909288,
-      "text": "憧れの楓様が\nインチキしたから\nショック受けてるのだっ！"
+      "text": "Her hero Kaede cheating must've put her into shock!"
     },
     {
       "chara": 501880909,
-      "text": "いや、わたしは\n信じてますよ"
+      "text": "No, I have faith in her."
     },
     {
       "chara": 501880909,
-      "text": "これはきっと\nなにかの間違いです！"
+      "text": "This has got to be some kind of mistake!"
     },
     {
       "chara": 2773909288,
-      "text": "そこまで\n崇拝しているとは!?"
+      "text": "Whoa, that idolization runs deep!"
     },
     {
       "chara": 2773909288,
-      "text": "ははーん……\nさては惚れたなっ？"
+      "text": "Hahah~...... Is that someone with a crush I'm seeing~?"
     },
     {
       "chara": 501880909,
-      "text": "ふえっ!?"
+      "text": "Eh!?"
     },
     {
       "chara": 501880909,
-      "text": "そういうんじゃ\nないですよ"
+      "text": "It's not like that."
     },
     {
       "chara": 501880909,
-      "text": "ちょっと昔\n世話になった人に\n似てて……"
+      "text": "She just reminds me of someone who helped me out a while back......"
     },
     {
       "chara": 2773909288,
-      "text": "なにっ！\n初恋の人に\n似てるとな！"
+      "text": "No way! She resembles your first love!?"
     },
     {
       "chara": 501880909,
-      "text": "ちがいますってば！\nアクトレスとして\n尊敬してるんですよ！"
+      "text": "I told you that's not how it is! I just admire her as an Actress!"
     },
     {
       "chara": 2773909288,
-      "text": "なにーっ！\n先輩のわたしを差し置いて\n楓ちゃんがええのんかーっ"
+      "text": "Whaaat~! You're ignoring your senior in favor of Kaede when I'm right here for you~?"
     },
     {
       "chara": 501880909,
-      "text": "そういうのは\n比べるもんじゃないっす"
+      "text": "That's not something you can just compare."
     },
     {
       "chara": 501880909,
-      "text": "もちろん\nシタラ先輩は\nソンケーしてますよ"
+      "text": "Of course I admire you as my senior too, Sitara."
     },
     {
       "chara": 2773909288,
-      "text": "ほほーっ"
+      "text": "Mhm~"
     },
     {
       "chara": 501880909,
-      "text": "楓さんはもっと\n尊敬してます"
+      "text": "But I do admire Kaede even more."
     },
     {
       "chara": 2773909288,
-      "size": 1.3,
-      "text": "うわーん……"
+      "size": "1.3",
+      "text": "Waahhh......"
     },
     {
       "chara": 257931171,
-      "size": 1.3,
-      "text": "とにかく！"
+      "size": "1.3",
+      "text": "In any case!"
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>本部と\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業の対応で\n私は確信したわ"
+      "text": "The responses from AEGiS HQ and Murakumo confirmed it for me."
     },
     {
       "chara": 257931171,
-      "text": "シャード外壁のヴァイスは\n意図的に放置されている……\n十中八九、間違いないわ"
+      "text": "They're intentionally overlooking the Vice at the outer walls. I'm 80 to 90% certain at this point."
     },
     {
       "chara": 2773909288,
-      "text": "んで、どうすんの？\n報告しても\n無視されたんでしょ"
+      "text": "What's the next step, then? They're ignoring your reports and all."
     },
     {
       "chara": 501880909,
-      "text": "……でも\nやっぱり偶然かも\n知れませんよ？"
+      "text": "...Still, it could've just been a coincidence after all."
     },
     {
       "chara": 501880909,
-      "text": "わたしたちだって、何度か\n大型ヴァイスに、偶然出くわした\nじゃないですか"
+      "text": "I mean, we've met Heavy-class Vice completely out of nowhere lots of times too."
     },
     {
       "chara": 501880909,
-      "text": "ね、隊長"
+      "text": "Right, Commander?"
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "１度だけなら偶然だよ",
+          "command": "Once is probably just a coincidence, yeah.",
           "items": [
             {
               "chara": 501880909,
-              "text": "そうっすよね！"
+              "text": "Right? Exactly!"
             },
             {
               "chara": 257931171,
-              "text": "わかりました"
+              "text": "I see."
             },
             {
               "chara": 257931171,
-              "text": "データの収集が\n甘いってことですね"
+              "text": "So you're saying we haven't gatherered enough data."
             }
           ]
         },
         {
-          "command": "偶然じゃない、運命だよ",
+          "command": "It is no mere coincidence, but rather, fate.",
           "items": [
             {
               "chara": 501880909,
-              "text": "えっ!?\nなんすか、それ？"
+              "text": "Eh!? What's that mean?"
             },
             {
               "chara": 2773909288,
-              "text": "ボクらが出会ったのは\n運命なんだ、夜露！"
+              "text": "\"It's fate that brought us to each other, Yotsuyu!\""
             },
             {
               "chara": 2773909288,
-              "text": "ああっ、楓様！\nこれは運命だったのね！"
+              "text": "\"Ah, Miss Kaede! We were destined to be together after all!\""
             },
             {
               "chara": 501880909,
-              "text": "なっ、なっ……\nなにをやってるんですかーっ！"
+              "text": "Wh, wha...what are you trying to say!?"
             },
             {
               "chara": 257931171,
-              "text": "やめなさい"
+              "text": "Stop that."
             },
             {
               "chara": 2773909288,
-              "text": "てへぺろ"
+              "text": "*cheeky expression*"
             }
           ]
         }
@@ -3784,133 +3890,133 @@
     },
     {
       "chara": 257931171,
-      "text": "本当に偶然かどうか\nもう一度\n確かめてみるわよ"
+      "text": "We'll be going to confirm this once more then. Let's find out if it really was just a coincidence."
     }
   ],
-  "story_001004004N": [
+  "story_1-3-33": [
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 3577514919,
-      "text": "大漁だーっ!!"
+      "text": "What a haul~!"
     },
     {
       "chara": 3577514919,
-      "text": "入れ食いだーっ!!"
+      "text": "Heavy-class Vice one after another!"
     },
     {
       "chara": 3577514919,
-      "text": "大型ヴァイスっ！\n連続撃破でっ、大儲けっ！"
+      "text": "And we got so many of them too! We're rich!"
     },
     {
       "chara": 1837165762,
-      "text": "わたしたちも\nズルしてるみたいで\n後ろめたいです"
+      "text": "Almost felt like we were cheating too. Kinda feeling guilty about that."
     },
     {
       "chara": 2134197036,
-      "text": "でも、これで\nハッキリしたわ"
+      "text": "But with that, the truth is now clear."
     },
     {
       "chara": 2134197036,
-      "text": "１回なら偶然で済むけど\n２度目は必然よ"
+      "text": "Once might be happenstance, but twice is definitely a pattern."
     },
     {
       "chara": 3577514919,
-      "size": 1.3,
-      "text": "そして\n３度目は運命っ"
+      "size": "1.3",
+      "text": "And the third time is fate-"
     },
     {
       "chara": 2134197036,
-      "text": "それはいいから"
+      "text": "Enough of that, honestly."
     },
     {
       "chara": 2134197036,
-      "text": "あなたが出てくると\n話が進まなくて困るわ"
+      "text": "I'd rather not be here listening to your interjections all day."
     },
     {
       "chara": 3577514919,
-      "text": "ううっ\nそんな殺生な……"
+      "text": "Uuuugh... So cruel..."
     },
     {
       "chara": 3577514919,
-      "text": "眼鏡王様……\n見逃してくだせぇ"
+      "text": "Ah Lord Spectacles...please have mercy on this poor soul~"
     },
     {
       "chara": 2134197036,
-      "text": "なにか\n言ったかしら？"
+      "text": "<i>Did you say something?</i>"
     },
     {
       "chara": 3577514919,
-      "text": "はうっ！"
+      "text": "*squeak*!"
     },
     {
       "chara": 1837165762,
-      "text": "それで……\nどうするんですか？"
+      "text": "So...what do we do?"
     },
     {
       "chara": 2134197036,
-      "text": "決まってるでしょ"
+      "text": "That should be obvious."
     },
     {
       "chara": 1837165762,
-      "text": "<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>本部と叢雲工業に\n報告っすね"
+      "text": "We're reporting AEGiS HQ and Murakumo, yeah?"
     },
     {
       "chara": 2134197036,
-      "text": "報告じゃないわ"
+      "text": "No."
     },
     {
       "chara": 2134197036,
-      "size": 1.3,
-      "text": "厳重抗議よ"
+      "size": "1.3",
+      "text": "This calls for a formal protest."
     },
     {
       "chara": 2134197036,
-      "text": "もしあれが意図的な\nヴァイス放置の結果なら\n大問題よ"
+      "text": "If that was directly caused by leaving the Vice alone intentionally, then it is a very big issue."
     },
     {
       "chara": 2134197036,
-      "text": "本当に大型ヴァイスが\n増殖しているなら……"
+      "text": "If Heavy-class units can indeed multiply in number, then..."
     },
     {
       "chara": 2134197036,
-      "text": "いつか予測不能の\n被害が出る\n恐れもあるわ"
+      "text": "The unpredictable dangers that this could lead to would be a serious concern."
     },
     {
       "chara": 2134197036,
-      "text": "隊長、抗議して\nよろしいですか？"
+      "text": "May I lodge the protest, Commander?"
     },
     {
       "type": 2,
       "commands": [
         {
-          "command": "存分にやっていい",
+          "command": "Go right ahead.",
           "items": [
             {
               "chara": 2134197036,
-              "text": "わかりました"
+              "text": "Understood."
             },
             {
               "chara": 2134197036,
-              "text": "次はのらりくらりと\n逃げられないようにします"
+              "text": "When the time comes, they will have nowhere left to hide."
             }
           ]
         },
         {
-          "command": "認められないな",
+          "command": "I can't approve of this.",
           "items": [
             {
               "chara": 2134197036,
-              "text": "なぜですか!?"
+              "text": "Why!?"
             },
             {
               "chara": 2134197036,
-              "text": "これでもまだ\nダメなんですか？"
+              "text": "Is this still not enough to make our case?"
             }
           ]
         }
@@ -3918,816 +4024,844 @@
     },
     {
       "chara": 2134197036,
-      "text": "えっ！\n証拠ですか？"
+      "text": "Huh!? Evidence, you ask?"
     },
     {
       "chara": 2134197036,
-      "text": "確かに間接的な\n状況証拠ばかりですが……"
+      "text": "We do only have indirect and circumstancial evidence, true..."
     },
     {
       "chara": 3577514919,
-      "text": "決定的な証拠が\n足りないんだよっ！"
+      "text": "There's a distinct lack of decisive evidence!"
     },
     {
       "chara": 2134197036,
-      "text": "……また、えらそうに"
+      "text": "...Putting on airs again, you."
     },
     {
       "chara": 2134197036,
-      "text": "わかりました"
+      "text": "Alright."
     },
     {
       "chara": 2134197036,
-      "text": "逃れようのない\n証拠を見つけます"
+      "text": "I will find irrefutable proof for this."
     },
     {
       "type": 99
     },
     {
       "chara": 2134197036,
-      "text": "叢雲工業の\n大型受注案件……"
+      "text": "Let's see...Heavy-class combat missions accepted by Murakumo industries..."
     },
     {
       "chara": 2134197036,
-      "text": "撃退対象ヴァイス\n個別認識データ……"
+      "text": "...Designated Vice targets...unit identification data..."
     },
     {
       "chara": 2134197036,
-      "text": "これねっ！"
+      "text": "There it is!"
     }
   ],
-  "story_001004005N": [
+  "story_1-3-35": [
     {
-      "text": "成子坂製作所・事務所",
+      "text": "Narukozaka Manufacturing Office"
+    },
+    {
       "type": 1
     },
     {
-      "type": 99
-    },
-    {
-      "chara": 1837165762,
-      "text": "えっと……\nそれって、どういう\nことですか？"
+      "type": 99,
+      "text": "Um... So, what's going on?"
     },
     {
       "chara": 2134197036,
-      "text": "これが過去に叢雲工業が\n「活動停止中で緊急性が\n低い」と――"
+      "text": "This is the Heavy-class Vice in one of Murakumo's delayed missions."
     },
     {
       "chara": 2134197036,
-      "text": "撃退を延期した\n大型ヴァイス"
+      "text": "Namely, the one with \"Target inactive. Low priority\" listed as the reason."
     },
     {
       "chara": 2134197036,
-      "text": "こっちは\n私たちが撃破した\n大型ヴァイス……"
+      "text": "And this is the Heavy-class we just took down."
     },
     {
       "chara": 3577514919,
-      "size": 1.2,
-      "text": "どう見ても\n完全に一致！"
+      "text": "They're the same no matter how you look at it!"
     },
     {
       "chara": 2134197036,
-      "text": "言い逃れのできない\n証拠なのよ"
+      "size": "1.2",
+      "text": "Indeed. The evidence here should have proved their wrongdoings beyond all doubt!"
     },
     {
       "chara": 1837165762,
-      "text": "それじゃ厳重抗議\nしたんですね？"
+      "text": "So, I'm guessing we went with the protest?"
     },
     {
       "chara": 2134197036,
-      "text": "それなのに\nどういうことッ！"
+      "text": "We did! So what in the world is going on here!"
     },
     {
       "chara": 2134197036,
-      "text": "どうして私たちが\n指定業者のプロジェクトを\n妨害したことになるのよ"
+      "text": "Why are we now accused of disrupting a Designated Contractor's projects?"
     },
     {
       "chara": 2134197036,
-      "text": "なんで叢雲工業がお<ruby><rb>咎</rb><rt>とが</rt></ruby>めなしで\n成子坂がペナルティを\n負わなきゃなんないの"
+      "text": "Why is it that we get a penalty while they are allowed to walk away scot-free?"
     },
     {
       "chara": 1837165762,
-      "text": "ペナルティって？"
+      "text": "\"Penalty\"?"
     },
     {
       "chara": 2134197036,
-      "text": "罰則よ、罰則"
+      "text": "A punishment, basically."
     },
     {
       "chara": 2134197036,
-      "text": "叢雲工業の方が\n規定違反をしているのに\n冗談じゃないわ"
+      "text": "Even though they're the ones who are breaking the rules. This isn't funny in the least."
     },
     {
       "chara": 1837165762,
-      "text": "規定違反……\nやっぱり楓さんたち\nズルしてたんでしょうか"
+      "text": "Breaking the rules...so Miss Kaede and her team really did cheat, didn't they?"
     },
     {
       "chara": 2134197036,
-      "text": "現場のアクトレスは\nなにも知らなくても――"
+      "text": "Whether the Actresses doing the actual fighting were in the know or not,"
     },
     {
       "chara": 2134197036,
-      "text": "叢雲工業はわかってるわよ\n絶対に"
+      "text": "This is definitely deliberate on Murakumo's end, no question about it."
     },
     {
       "chara": 2134197036,
-      "text": "それに<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>本部も……"
+      "text": "And AEGiS HQ too..."
     },
     {
       "chara": 1837165762,
-      "text": "なんで、そんなこと\nするんでしょう？"
+      "text": "...Why? Why are they doing this?"
     },
     {
       "chara": 1837165762,
-      "text": "力を合わせて\nヴァイスをやっつければ\nみんな笑顔になるじゃないですか"
+      "text": "Wouldn't everyone be happier if we just, worked together and took care of the Vice?"
     },
     {
       "chara": 1837165762,
-      "text": "納得できないっす！"
+      "text": "This is just wrong!"
     },
     {
       "chara": 3577514919,
-      "text": "でー、ペナルティって\nなんなの？"
+      "text": "Soooo, what <i>is</i> that penalty we got?"
     },
     {
       "chara": 3577514919,
-      "text": "罰ゲームでも\nするのかなー？"
+      "text": "Think they'll put us through some kinda punishment game?"
     },
     {
       "chara": 2134197036,
-      "text": "シャード宙域の\nデブリ除去ですって"
+      "text": "Debris cleanup at the Shard perimeter."
     },
     {
       "chara": 2134197036,
-      "text": "しかも無償で"
+      "text": "Unpaid too."
     },
     {
       "chara": 3577514919,
-      "text": "まじでっ？\nただ働きかーっ"
+      "text": "Working for free? Damn~"
     },
     {
       "chara": 2134197036,
-      "text": "そりゃあ、私だって\nやりたくないけど……"
+      "text": "Yes, well, I hate this as much as you do."
     },
     {
       "chara": 2134197036,
-      "text": "不履行の場合\n今後<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>の案件は\n受注できなくなるわ"
+      "text": "But if we refuse, we will lose access to missions from AEGiS."
     },
     {
       "chara": 3577514919,
-      "text": "悲しいけど、これ\n会社組織なのよね"
+      "text": "It's sad, but that's the corporate world for you, I guess."
     },
     {
       "chara": 2134197036,
-      "text": "あきらめて\nデブリ除去しましょう"
+      "text": "Better to just give in and get it over with."
     },
     {
       "chara": 1837165762,
-      "text": "あのぅ……"
+      "text": "Umm..."
     },
     {
       "chara": 2134197036,
-      "text": "どうかした？\n夜露さん"
+      "text": "What's the matter, Yotsuyu?"
     },
     {
       "chara": 1837165762,
-      "text": "その……\nデブリ除去って\nなんすか？"
+      "text": "So uh... What's this debris cleanup deal?"
     },
     {
       "chara": 2134197036,
-      "text": "スペースデブリって\nいうのはね……"
+      "text": "Well, what we refer to as space debris..."
     },
     {
       "chara": 2134197036,
-      "text": "宇宙空間で故障したり\n破棄された部品の破片や\n微小な隕石のこと"
+      "text": "...Usually includes things like malfunctioned or abandoned components, asteroids, and other such objects lingering in space."
     },
     {
       "chara": 2134197036,
-      "text": "アクトレスは\nアリスギアで影響がないけど"
+      "text": "While we Actresses are protected by our Alice Gear's shields,"
     },
     {
       "chara": 2134197036,
-      "text": "宇宙船やシャードに\n衝突すると\n危険なのよ"
+      "text": "That's not the case for starships and the Shard, which could be endangered by collisions with these debris."
     },
     {
       "chara": 2134197036,
-      "text": "それを除去する仕事\n宇宙のゴミ拾いね"
+      "text": "Debris cleanup is to remove these objects. Think of it as picking up trash on the streets, but in space."
     },
     {
       "chara": 1837165762,
-      "text": "ゴミ拾いっすか！"
+      "text": "So it's picking up trash!"
     },
     {
       "chara": 2134197036,
-      "text": "ごめんなさいね\n私のせいで嫌な仕事\nすることになっちゃって"
+      "text": "I'm sorry about this. I didn't mean to force you to go through a terrible job like this because of me."
     },
     {
       "chara": 1837165762,
-      "text": "そんなことないっす！"
+      "text": "Not at all!"
     },
     {
       "chara": 1837165762,
-      "text": "人の役に立つ仕事ですね\nやりましょう！"
+      "text": "This'll help people out right? Let's get going!"
     },
     {
       "chara": 2134197036,
-      "text": "（こうしている間にも\n　外壁の大型ヴァイスは\n　増殖を続けている……）"
+      "text": "(While we waste our time here, the Vice at the outer walls continue to proliferate...)"
     },
     {
       "chara": 2134197036,
-      "text": "（いずれはシャード内に\n　大量の大型ヴァイスが……"
+      "text": "(Eventually, they will overflow into the Shard's interior..."
     },
     {
       "chara": 1837165762,
-      "size": 1.3,
-      "text": "文嘉センパーイっ！"
+      "text": "Fumika!"
     },
     {
       "chara": 1837165762,
-      "size": 1.3,
-      "text": "宇宙のゴミ掃除！\n行きますよーっ！"
+      "size": "1.3",
+      "text": "We're picking up trash in space! Let's go~!"
     },
     {
       "chara": 2134197036,
-      "text": "……すぐに行くわ"
+      "size": "1.3",
+      "text": "......I'll be there in a moment."
     }
   ],
-  "story_001004006N": [
+  "story_1-3-37": [
     {
       "chara": 503211552,
-      "text": "緊急速報です"
-    },
-    {
-      "chara": 503211552,
-      "text": "ただいま<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>より\n大型ヴァイス警報が\n発表されました"
+      "text": "This is an emergency broadcast."
     },
     {
       "chara": 503211552,
-      "text": "新宿区を中心としたエリアに\n大型ヴァイスが襲来する\n可能性があります"
+      "text": "An AEGiS Heavy-class Vice alert has been issued."
     },
     {
       "chara": 503211552,
-      "text": "落ち着いて\n行動してください"
+      "text": "There are possibilities of Heavy-class attacks in multiple regions centered around Shinjuku."
     },
     {
       "chara": 503211552,
-      "text": "大型ヴァイスは\n複数襲来の恐れが\nあります"
+      "text": "Please remain calm and act with caution."
     },
     {
       "chara": 503211552,
-      "text": "ヴァイス襲来が予想される\n次のエリアの方は\nシェルターに避難してください"
+      "text": "More than one Heavy-class unit is expected to appear in these regions."
     },
     {
-      "size": 1.2,
-      "text": "<color=#ff0000ff>新宿区、中野区\n豊島区の一部地域\n渋谷区の一部地域――</color>",
-      "type": 3
+      "chara": 503211552,
+      "text": "If you are in the following areas, please find an emergency shelter immediately."
     },
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 3,
+      "text": "<color=#ff0000ff>Shinjuku, Nakano, Toshima (select areas), Shibuya (select areas)</color>"
+    },
+    {
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 2134197036,
-      "size": 1.3,
-      "text": "だから\n言ったじゃない！"
+      "size": "1.3",
+      "text": "See! What did I say!"
     },
     {
       "chara": 3577514919,
-      "text": "だよねー\n大型ヴァイスが\nびっしりだー"
+      "text": "Yeeeah- Lots of Heavy-class Vice swarming about alright."
     },
     {
       "chara": 2134197036,
-      "text": "このままじゃ\n街に被害が出るわ"
+      "text": "At this rate, the city's safety will be at risk."
     },
     {
       "chara": 1837165762,
-      "text": "わたしたちも\n出撃しましょう！"
+      "text": "We've got to get out there and fight too!"
     },
     {
       "type": 99
     },
     {
       "chara": 257931171,
-      "text": "そんなこと\nいってる場合じゃ\nないでしょう！"
+      "text": "This is not the time to be saying that, and you know it!"
     },
     {
       "chara": 257931171,
-      "text": "迎撃が足りず\n市街地に被害が出るのは\n明らかです"
+      "text": "It's very clear that the city will be endangered if we cannot put up an adequate defense!"
     },
     {
       "chara": 257931171,
-      "text": "緊急時の随意契約で\n<ruby><rb>成子坂</rb><rt>うち</rt></ruby>にも\n発注してください"
+      "text": "Please issue us an emergency no-bid contract too!"
     },
     {
       "chara": 257931171,
-      "text": "わかりました\n……もういいです"
+      "text": "I see...... No, that's all."
     },
     {
       "chara": 2773909288,
-      "text": "どうだった？"
+      "text": "How'd it go?"
     },
     {
       "chara": 257931171,
-      "text": "被害が拡大するまで\n緊急事態じゃないそうよ"
+      "text": "Apparently, it doesn't count as an emergency until damage actually occurs."
     },
     {
       "chara": 257931171,
-      "text": "<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>の辞書は\n欠陥品ね"
+      "text": "Clearly the word \"danger\" doesn't exist in whatever dictionary AEGiS uses."
     },
     {
       "chara": 501880909,
-      "text": "それじゃ、わたしたち\n出撃できないんですか？"
+      "text": "So we can't head out there then?"
     },
     {
       "chara": 257931171,
-      "text": "叢雲工業にも\n連絡したけど……"
+      "text": "I did try contacting Murakumo too, but..."
     },
     {
       "chara": 257931171,
-      "text": "こっちに譲る気は\nまったくないわね"
+      "text": "They have no intentions to cooperate with us either."
     },
     {
       "chara": 2773909288,
-      "text": "はっはーん！"
+      "text": "Ha~ha~n!"
     },
     {
       "chara": 2773909288,
-      "text": "さては新型装備を宣伝する\nチャンスだと思ってるなー"
+      "text": "They probably think this is a good time to advertise their new gear~"
     },
     {
       "chara": 2773909288,
-      "text": "<ruby><rb>叢雲</rb><rt>そち</rt></ruby>も\nワルよのぅ"
+      "text": "\"Quite the dastard you are, Murakumo.\""
     },
     {
       "chara": 2773909288,
-      "text": "いえいえ\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>さまこそ"
+      "text": "\"Hahah, as if I could ever hope to match you, Lord AEGiS\""
     },
     {
       "chara": 2773909288,
-      "size": 1.2,
-      "text": "わっはっはー！"
+      "size": "1.2",
+      "text": "\"Wahahaha~!\""
     },
     {
       "chara": 2773909288,
-      "text": "――とか\nやってんじゃない？"
+      "text": "Exactly the kind of exchange their higher-ups would be having, don't you think?"
     },
     {
       "chara": 501880909,
-      "text": "だったら、なんで\n楓さんたちは\n出撃しないんですか？"
+      "text": "If that's the case, then...why isn't Miss Kaede and her team out there fighting?"
     },
     {
-      "text": "叢雲工業・作戦ロビー",
-      "type": 1
-    },
-    {
-      "type": 99
-    },
-    {
-      "chara": 2622687016,
-      "size": 1.3,
-      "text": "出撃させてください"
-    },
-    {
-      "chara": 2622687016,
-      "text": "新型装備が使えなくても\n従来の<ruby><rb>武器と装備</rb><rt>ウェポンギア　ドレスギア</rt></ruby>があります"
-    },
-    {
-      "chara": 2622687016,
-      "text": "いままでの装備で\n活躍してみせます"
-    },
-    {
-      "chara": 2622687016,
-      "size": 1.3,
-      "text": "わたしたちに\n出撃させてください"
-    },
-    {
-      "chara": 2622687016,
-      "text": "そんな……\n親会社の指示って……"
-    },
-    {
-      "chara": 2622687016,
-      "text": "契約や、会社の体面が\nそんなに大事なんですか？"
-    },
-    {
-      "chara": 2622687016,
-      "text": "大型ヴァイスが\n暴れているのに……"
-    },
-    {
-      "chara": 2622687016,
-      "text": "わたしたちに\nここで見ていろって\nいうんですか"
-    },
-    {
-      "chara": 2622687016,
-      "size": 1.3,
-      "text": "見ていろと！"
-    },
-    {
-      "chara": 2622687016,
-      "text": "ヴァイスを倒せる\n剣があるのに……\n使うなというんですか"
-    },
-    {
-      "chara": 2622687016,
-      "size": 1.3,
-      "text": "なんのための\nアクトレスですか！"
+      "type": 1,
+      "text": "Murakumo Industries Operations Lobby"
     },
     {
       "type": 99
     },
     {
-      "chara": 4192311376,
-      "text": "楓ーっ\n会議どうだったー？"
+      "chara": 2622687016,
+      "size": "1.3",
+      "text": "Please grant us sortie clearance."
     },
     {
       "chara": 2622687016,
-      "text": "わたしたちは……\n出撃しません"
-    },
-    {
-      "chara": 4192311376,
-      "text": "そっかー\nざんねーん"
-    },
-    {
-      "chara": 1096679221,
-      "text": "仕方がないよ\n新型、使えないから"
-    },
-    {
-      "chara": 4192311376,
-      "text": "それなら\nまえのでいーよー"
-    },
-    {
-      "chara": 4192311376,
-      "text": "あっちのが\n慣れてるしー"
-    },
-    {
-      "chara": 1096679221,
-      "text": "新型が配備されたから\n従来型は使用禁止だよ"
-    },
-    {
-      "chara": 1096679221,
-      "text": "保管庫で厳重に\n管理されてる"
+      "text": "Even if the new equipment isn't ready for use, our old Weapon and Dress Gear loadouts are still there."
     },
     {
       "chara": 2622687016,
-      "text": "たとえアリスギアが\nなくても……"
+      "text": "We can still perform with what we have been using up until now."
     },
     {
       "chara": 2622687016,
-      "text": "わたしは、いますぐ\n出撃したいです"
+      "size": "1.3",
+      "text": "Allow us to head out, please!"
+    },
+    {
+      "chara": 2622687016,
+      "text": "What... Orders from the parent company, you say..."
+    },
+    {
+      "chara": 2622687016,
+      "text": "Is the contract so important? Is company prestige such a crucial thing to maintain?"
+    },
+    {
+      "chara": 2622687016,
+      "text": "There are Heavy-class Vice rampaging at our doorstep..."
+    },
+    {
+      "chara": 2622687016,
+      "text": "Are you telling us to just sit and watch that unfold?"
+    },
+    {
+      "chara": 2622687016,
+      "size": "1.3",
+      "text": "To watch and do nothing!?"
+    },
+    {
+      "chara": 2622687016,
+      "text": "We have here a blade that can defeat the Vice, and you want us not to use it?"
+    },
+    {
+      "chara": 2622687016,
+      "size": "1.3",
+      "text": "What do we Actresses even exist for then!?"
+    },
+    {
+      "type": 99
     },
     {
       "chara": 4192311376,
-      "text": "いくらアクトレスでも\n素手でヴァイスには\n勝てないよー"
+      "text": "Hey Kaede~ How'd the meeting go~?"
+    },
+    {
+      "chara": 2622687016,
+      "text": "We are......not cleared to sortie."
+    },
+    {
+      "chara": 4192311376,
+      "text": "Aw~ That sucks~"
     },
     {
       "chara": 1096679221,
-      "text": "リンなら\n勝てそうだけど？"
+      "text": "Can't be helped. The new gear isn't combat-ready, after all."
     },
     {
       "chara": 4192311376,
-      "text": "そーだなー\n大型はむりでも\n小型ならいける？"
+      "text": "Just go with the old ones then~"
     },
     {
       "chara": 4192311376,
-      "text": "いやー、むりだってー\n楓でもむりだよー"
-    },
-    {
-      "chara": 2622687016,
-      "text": "わかっています"
-    },
-    {
-      "chara": 2622687016,
-      "text": "それでも……\nせめて<ruby><rb>一太刀</rb><rt>ひとたち</rt></ruby>だけでも……"
-    },
-    {
-      "chara": 4192311376,
-      "text": "しょーがないなあ"
-    },
-    {
-      "chara": 4192311376,
-      "text": "怜、どうするー？"
+      "text": "More used to those anyways~"
     },
     {
       "chara": 1096679221,
-      "text": "つきあってもいいよ\n楓さんのためなら"
-    },
-    {
-      "chara": 2622687016,
-      "text": "リン、怜ちゃん\nいったい、なにを……？"
-    },
-    {
-      "chara": 4192311376,
-      "text": "まっかせといてー"
+      "text": "We've been banned from using our old gear ever since the \"equipment upgrade\"."
     },
     {
       "chara": 1096679221,
-      "text": "わたしたちが\nなんとかするから"
+      "text": "They're under heavy security in storage now."
+    },
+    {
+      "chara": 2622687016,
+      "text": "Even if we have no Alice Gear to rely on..."
+    },
+    {
+      "chara": 2622687016,
+      "text": "I still wish to stand and fight, right now."
+    },
+    {
+      "chara": 4192311376,
+      "text": "Even Actresses can't just punch a Vice out~"
+    },
+    {
+      "chara": 1096679221,
+      "text": "Chances are you could manage that though."
+    },
+    {
+      "chara": 4192311376,
+      "text": "Maybe~ Heavies are a no-no, but a smaller one could work?"
+    },
+    {
+      "chara": 4192311376,
+      "text": "...Nuh-uh~ No way~ Even if it's Kaede~"
+    },
+    {
+      "chara": 2622687016,
+      "text": "I realize that."
+    },
+    {
+      "chara": 2622687016,
+      "text": "But even so...if I could leave just one wound on the enemy..."
+    },
+    {
+      "chara": 4192311376,
+      "text": "Oh well~"
+    },
+    {
+      "chara": 4192311376,
+      "text": "Rei, what do we do~?"
+    },
+    {
+      "chara": 1096679221,
+      "text": "I'm fine with helping out, if it's for Kaede."
+    },
+    {
+      "chara": 2622687016,
+      "text": "Rin, Rei, what are you two...?"
+    },
+    {
+      "chara": 4192311376,
+      "text": "Leave it to us~"
+    },
+    {
+      "chara": 1096679221,
+      "text": "We'll figure something out."
     }
   ],
-  "story_001004007N": [
+  "story_1-3-38": [
     {
       "chara": 503211552,
-      "text": "ただいま入りました\n臨時ニュースです"
+      "text": "This just in—we have an update on the current situation."
     },
     {
       "chara": 503211552,
-      "text": "現在、襲来中の\nヴァイス迎撃を担当している\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業ですが……"
+      "text": "Murakumo Industries, who is responsible for countering the ongoing Vice attack,"
     },
     {
       "chara": 503211552,
-      "text": "先日配備した\n新型装備に不具合が\n発覚いたしました"
+      "text": "-has run into issues with the new equipment they issued to their Actresses recently."
     },
     {
       "chara": 503211552,
-      "text": "日刊東京<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>\nニュースの報道に\nよりますと……"
+      "text": "According to a report from Daily Tokyo AEGiS News,"
     },
     {
       "chara": 503211552,
-      "text": "独自入手した実証実験データは\n公表値と大きく異なっており\nデータ偽装が疑われています"
+      "text": "The official specifications for the equipment greatly differ from those obtained from internal field trial reports, indicating potential testing data falsification."
     },
     {
       "chara": 503211552,
-      "text": "今回の大型ヴァイス対応の遅れも\n新型装備の不具合によるものと\n伝えらえています"
+      "text": "They also mention that the late response to the current situation is indeed related to the aforementioned equipment issues."
     },
     {
       "chara": 503211552,
-      "text": "叢雲工業は緊急記者会見で\nこのことを否定していますが……"
+      "text": "Murakumo has denied these allegations in an emergency press conference."
     },
     {
       "chara": 503211552,
-      "text": "新型装備で出撃したアクトレスの姿は\n確認されておらず――"
+      "text": "However, no sightings of any Actresses operating the new equipment have been confirmed as of now-"
     },
     {
-      "text": "成子坂製作所・作戦指示所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Command Center"
     },
     {
       "type": 99
     },
     {
       "chara": 257931171,
-      "text": "どうなってるのよ！"
+      "text": "What in the world is going on!?"
     },
     {
       "chara": 257931171,
-      "text": "これだけ報道されてるのに\n叢雲も<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>も\nこっちに仕事を回さない気!?"
+      "text": "This matter is already all over the news! Just how long do Murakumo and AEGiS intend to keep us from working?!"
     },
     {
       "chara": 2773909288,
-      "text": "……ハッ！"
+      "text": "......*gasp*!"
     },
     {
       "chara": 2773909288,
-      "text": "認めたくないものだな……\n自分自身の――"
+      "text": "\"No one likes to admit to them...to the-"
     },
     {
       "chara": 257931171,
-      "text": "認めなさいよッ！"
+      "text": "Admit to them already!"
     },
     {
       "chara": 2773909288,
-      "text": "あうっ……\n名セリフなんだから\n最後までいわせてーっ"
+      "text": "Aww... C'mon, it's a famous line, so at least lemme play it out to the end~"
     },
     {
       "chara": 501880909,
-      "text": "それより\nなんとかならないんですか？"
+      "text": "More importantly, isn't there anything we can do?"
     },
     {
       "chara": 501880909,
-      "text": "このまま放っておいたら\n街が壊されちゃいますよ"
+      "text": "If we just let them be, they're gonna smash up the streets at this rate."
     },
     {
       "chara": 501880909,
-      "text": "なにか方法は\nないんですか？"
+      "text": "Is there really no other way?"
     },
     {
       "chara": 257931171,
-      "text": "そんなこといわれても、\n私たちにできることは\nもう……"
+      "text": "We've already done everything we can at this point..."
     },
     {
       "chara": 257931171,
-      "text": "これ以上は\n正当な方法じゃ\nどうにもならないわ"
+      "text": "Seems that this is as far as legitimate methods would get us."
     },
     {
       "chara": 2773909288,
-      "text": "正当じゃなくていいよっ\n出撃しちゃお！"
+      "text": "Who cares about legitimacy at this point? Just head out!"
     },
     {
       "chara": 257931171,
-      "text": "あなたねぇ……\n会社を潰す気？"
+      "text": "Really, you... Trying to kill off the company?"
     },
     {
       "chara": 257931171,
-      "text": "違法行為したら\n一発で事業停止よ"
+      "text": "If we break the law, we'll get shut down at a moment's notice."
     },
     {
       "chara": 2773909288,
-      "text": "そうじゃなくてー\nいままで通り\n裏技でいこうよ"
+      "text": "No, not like what you're thinking~ We just gotta use the Strat we've been using so far."
     },
     {
       "chara": 501880909,
-      "text": "裏技って\nなんすか？"
+      "text": "The \"Strat\"?"
     },
     {
       "chara": 2773909288,
-      "text": "別案件で出動中に\n大型ヴァイスに\n遭遇すればいいんだよっ"
+      "text": "We just gotta <i>run into</i> a Heavy-class while we're on another job."
     },
     {
       "chara": 2773909288,
-      "text": "それなら……"
+      "text": "If we do that..."
     },
     {
       "chara": 2773909288,
-      "text": "別に倒してしまって\n構わんのだろう？"
+      "text": "Then they wouldn't mind if we beat that thing, right?"
     },
     {
       "chara": 501880909,
-      "text": "そんなうまい案件が\nありますかね？"
+      "text": "Are there really any jobs that convenient?"
     },
     {
       "chara": 257931171,
-      "text": "大型ヴァイスの\n進路を予想するわ"
+      "text": "We'll find one by predicting the flight path of the Heavy-class attackers."
     },
     {
       "chara": 257931171,
-      "text": "隊長は、その周辺エリアの\n小型ヴァイス撃退案件を\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>から受注してください"
+      "text": "Commander, please accept some extermination missions for smaller Vice along these areas."
     },
     {
       "type": 99
     },
     {
       "chara": 501880909,
-      "text": "あれっ？\nなにか聞こえますよ"
+      "text": "Huh? I think I'm hearing something?"
     },
     {
       "chara": 257931171,
-      "text": "戦闘暗号通信ね\n誰かしら？"
+      "text": "Encrypted tactical comms. I wonder who it is."
     },
     {
       "chara": 2773909288,
-      "text": "はいはーい\nこちらシタラ、こちらシタラ\n応答願いまーす"
+      "text": "Hey hey~ This is Sitara speaking. Sitara speaking. Come in~."
     },
     {
       "chara": 2458423066,
-      "text": "こちらは<ruby><rb>吾妻</rb><rt>あがつま</rt></ruby> <ruby><rb>楓</rb><rt>かえで</rt></ruby>\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業所属の\nアクトレスです"
+      "text": "This is Agatsuma Kaede of Murakumo Industries speaking."
     },
     {
       "chara": 501880909,
-      "text": "えっ、楓さんっ!?"
+      "text": "Eh, Miss Kaede!?"
     },
     {
       "chara": 2458423066,
-      "text": "緊急出動準備中の\nアクトレスチーム\nですね？"
+      "text": "I understand that you are an Actress team preparing for emergency deployment?"
     },
     {
       "chara": 2458423066,
-      "text": "及ばずながら\n援護させてください"
+      "text": "Please allow my team to assist you, however much that may be worth."
     },
     {
       "chara": 2458423066,
-      "text": "チームへの合流を\n希望します"
+      "text": "I would like to request that we rendezvous once on the field."
     },
     {
       "chara": 2458423066,
-      "text": "よろしくお願いします"
+      "text": "We look forward to working with you."
+    },
+    {
+      "type": 99
+    },
+    {
+      "type": 3,
+      "text": "After fighting through waves of Vice, the Actresses engage a Poisonel Moth..."
+    },
+    {
+      "type": 99
+    },
+    {
+      "chara": 317493798,
+      "text": "We've kept you waiting."
+    },
+    {
+      "chara": 317493798,
+      "text": "I am Ootori Kasumi of the AEGiS SOF Response Force."
+    },
+    {
+      "chara": 317493798,
+      "text": "We have taken care of the other Heavy-class Vice attackers at this point."
+    },
+    {
+      "chara": 317493798,
+      "text": "The one you face right now is the only one remaining."
+    },
+    {
+      "chara": 317493798,
+      "text": "We'll be leaving this to you."
     }
   ],
-  "story_001004008N": [
+  "story_1-3-40": [
     {
       "chara": 503211552,
-      "text": "本日、新都心に侵入した\n大型ヴァイスの\n一群ですが――"
+      "text": "Earlier, the Heavy-class Vice group invading the New Urban Center-"
     },
     {
       "chara": 503211552,
-      "text": "緊急出動した\n<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>直属\nアクトレス部隊と"
+      "text": "-was successfully defeated by the timely intervention of the AEGiS SOF Response Force-"
     },
     {
       "chara": 503211552,
-      "text": "成子坂製作所の\nアクトレスの活躍で\n被害は未然に防がれました"
+      "text": "-and Narukozaka Manufacturing's brave Actresses, before any damage was even caused!"
     },
     {
       "chara": 503211552,
-      "text": "大型ヴァイス警報も\nさきほど解除されました"
+      "text": "The Heavy-class Vice alert has been lifted as of a few moments ago as well."
     },
     {
       "chara": 503211552,
-      "text": "成子坂製作所はこのところ\n業績低迷や買収対象となるなど\n明るい話題がありませんでしたが"
+      "text": "Narukozaka has seldom been discussed in a favorable light as of late, with topics such as weak performance and a potential takeover still fresh on our minds."
     },
     {
       "chara": 503211552,
-      "text": "これをきっかけに\n名門復活となるでしょうか？"
+      "text": "But could these recent developments be the start of their return to glory?"
     },
     {
-      "text": "成子坂製作所・事務所",
-      "type": 1
+      "type": 1,
+      "text": "Narukozaka Manufacturing Office"
     },
     {
       "type": 99
     },
     {
       "chara": 3577514919,
-      "text": "えっへへーっ\nついにわたしたち\nニュースになってしまったなっ"
+      "text": "Eh~hehe~ We've finally made headlines for real~"
     },
     {
       "chara": 2134197036,
-      "text": "私たちじゃなくて\n会社が、でしょ"
+      "text": "You mean the company, not us."
     },
     {
       "chara": 3577514919,
-      "text": "同じことだよっ！"
+      "text": "C'mon, what's the difference!"
     },
     {
       "chara": 1837165762,
-      "text": "でも、街に被害が出なくて\nホントよかったです"
+      "text": "Anyways, thank goodness nothing bad happened to the city."
     },
     {
       "type": 99
     },
     {
       "chara": 503211552,
-      "text": "一方、<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業は\n今回の大型ヴァイス対応の不手際が\n大きな問題となっています"
+      "text": "On the other hand, Murakumo's insufficient response to the Vice attack has become a subject of major concern."
     },
     {
       "chara": 503211552,
-      "text": "発表した新型装備の\nデータ不正疑惑に加えて――"
+      "text": "In addition to the specification data for their new equipment being suspected as falsified,"
     },
     {
       "chara": 503211552,
-      "text": "新型装備の不具合隠ぺい問題や\n特定<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>幹部との\n癒着問題なども噴出――"
+      "text": "Further issues, such as the company covering up problems with said equipment, as well as collusion with certain AEGiS officials, have also come to light."
     },
     {
       "chara": 503211552,
-      "text": "さらにはシャード外壁部での\n大型ヴァイス撃退案件を\n放置した疑いも持たれています"
+      "text": "Additionally, they are suspected of intentionally delaying Heavy-class takedown missions at the outer walls of the Shard."
     },
     {
       "chara": 503211552,
-      "text": "これらの諸問題に関して\n近日中に<ruby><rb>AEGiS</rb><rt>イージス</rt></ruby>の\n立ち入り検査が入ると見られ"
+      "text": "These multitudes of exposed issues have led to a recent formal investigation by AEGiS on the company,"
     },
     {
       "chara": 503211552,
-      "text": "経営トップの責任が\n問われることに\nなりそうです"
+      "text": "and it seems that their directors will be made to take responsibility for their wrongdoings."
     },
     {
       "type": 99
     },
     {
       "chara": 1837165762,
-      "text": "楓さん\nだいじょうぶですかね？"
+      "text": "Is Miss Kaede gonna be alright?"
     },
     {
       "chara": 3577514919,
-      "text": "会社の問題だから\nアクトレスは\n関係ないんじゃない？"
+      "text": "It's a company problem, so nothing to do with their Actresses, right?"
     },
     {
       "chara": 2134197036,
-      "text": "それはどうかしら？"
+      "text": "I wouldn't be so sure about that."
     },
     {
       "chara": 1837165762,
-      "text": "えっ、楓さんも\n責任を問われるんですか？"
+      "text": "Eh? Are they gonna make her take responsibility?"
     },
     {
       "chara": 2134197036,
-      "text": "そうじゃないけど"
+      "text": "The problem isn't on that end."
     },
     {
       "chara": 1837165762,
-      "text": "やたっ"
+      "text": "Phew, that's good!"
     },
     {
       "chara": 2134197036,
-      "text": "大変なことになるわよ\n<ruby><rb>叢雲</rb><rt>むらくも</rt></ruby>工業は"
+      "text": "For what is worth, Murakumo has definitely gotten themselves into hot water now."
     },
     {
       "type": 99
     },
     {
-      "text": "――１週間後。",
-      "type": 3
+      "type": 3,
+      "text": "--One week later."
     },
     {
       "chara": 3806493589,
-      "size": 1.3,
-      "text": "<ruby><rb>吾妻</rb><rt>あがつま</rt></ruby> <ruby><rb>楓</rb><rt>かえで</rt></ruby>です"
+      "size": "1.3",
+      "text": "I am Agatsuma Kaede."
     },
     {
       "chara": 4032287867,
-      "size": 1.3,
-      "text": "<ruby><rb>日向</rb><rt>ひむかい</rt></ruby> リンだよ！"
+      "size": "1.3",
+      "text": "Himukai Rin here!"
     },
     {
       "chara": 1223406366,
-      "size": 1.3,
-      "text": "<ruby><rb>小鳥遊</rb><rt>たかなし</rt></ruby> <ruby><rb>怜</rb><rt>れい</rt></ruby>――"
+      "size": "1.3",
+      "text": "...Takanashi Rei."
     },
     {
       "chara": 3806493589,
-      "text": "本日から成子坂製作所で\nお世話になります"
+      "text": "We will be in the care of your company starting from today."
     },
     {
       "chara": 3806493589,
-      "text": "よろしくお願いします"
+      "text": "Here's to a good relationship from now on."
     }
   ],
   "story_002005001N": [

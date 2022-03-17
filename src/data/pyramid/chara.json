@@ -1,5 +1,5 @@
 [{
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2458423066,
     "image": "chr3_001_01",
     "icon": "chr4_001_01",
@@ -12,7 +12,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 193060512,
     "image": "chr3_001_02",
     "icon": "chr4_001_02",
@@ -25,7 +25,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 3806493589,
     "image": "chr3_001_04",
     "icon": "chr4_001_04",
@@ -38,7 +38,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2514832131,
     "image": "chr3_001_05",
     "icon": "chr4_001_05",
@@ -51,7 +51,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2865637707,
     "image": "chr3_001_70",
     "icon": "chr4_001_70",
@@ -64,7 +64,7 @@
     "anotherIcon": "ano_0001_01",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 3720944093,
     "image": "chr3_001_71",
     "icon": "chr4_001_71",
@@ -77,7 +77,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 2151489780,
     "image": "chr3_002_01",
     "icon": "chr4_002_01",
@@ -90,7 +90,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 422867278,
     "image": "chr3_002_02",
     "icon": "chr4_002_02",
@@ -103,7 +103,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 4032287867,
     "image": "chr3_002_04",
     "icon": "chr4_002_04",
@@ -116,7 +116,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 2270225645,
     "image": "chr3_002_05",
     "icon": "chr4_002_05",
@@ -129,7 +129,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 3095103141,
     "image": "chr3_002_70",
     "icon": "chr4_002_70",
@@ -142,7 +142,7 @@
     "anotherIcon": "ano_0002_01",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 3481056819,
     "image": "chr3_002_71",
     "icon": "chr4_002_71",
@@ -155,7 +155,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 947996561,
     "image": "chr3_003_01",
     "icon": "chr4_003_01",
@@ -168,7 +168,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 2710050347,
     "image": "chr3_003_02",
     "icon": "chr4_003_02",
@@ -181,7 +181,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 1223406366,
     "image": "chr3_003_04",
     "icon": "chr4_003_04",
@@ -194,7 +194,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 1072464776,
     "image": "chr3_003_05",
     "icon": "chr4_003_05",
@@ -207,7 +207,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 13099456,
     "image": "chr3_003_70",
     "icon": "chr4_003_70",
@@ -220,7 +220,7 @@
     "anotherIcon": "ano_0003_01",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 2009125206,
     "image": "chr3_003_71",
     "icon": "chr4_003_71",
@@ -233,7 +233,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 2773909288,
     "image": "chr3_004_01",
     "icon": "chr4_004_01",
@@ -246,7 +246,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 1012870802,
     "image": "chr3_004_02",
     "icon": "chr4_004_02",
@@ -259,7 +259,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 3577514919,
     "image": "chr3_004_04",
     "icon": "chr4_004_04",
@@ -272,7 +272,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 2721823537,
     "image": "chr3_004_05",
     "icon": "chr4_004_05",
@@ -285,7 +285,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 2635127161,
     "image": "chr3_004_70",
     "icon": "chr4_004_70",
@@ -298,7 +298,7 @@
     "anotherIcon": "ano_0004_01",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 501880909,
     "image": "chr3_005_01",
     "icon": "chr4_005_01",
@@ -311,7 +311,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 2229488119,
     "image": "chr3_005_02",
     "icon": "chr4_005_02",
@@ -324,7 +324,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 1837165762,
     "image": "chr3_005_04",
     "icon": "chr4_005_04",
@@ -337,7 +337,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 445111380,
     "image": "chr3_005_05",
     "icon": "chr4_005_05",
@@ -350,7 +350,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 632077852,
     "image": "chr3_005_70",
     "icon": "chr4_005_70",
@@ -363,7 +363,7 @@
     "anotherIcon": "ano_0005_01",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 257931171,
     "image": "chr3_006_01",
     "icon": "chr4_006_01",
@@ -376,7 +376,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 2522277401,
     "image": "chr3_006_02",
     "icon": "chr4_006_02",
@@ -389,7 +389,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 2134197036,
     "image": "chr3_006_04",
     "icon": "chr4_006_04",
@@ -402,7 +402,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 137524154,
     "image": "chr3_006_05",
     "icon": "chr4_006_05",
@@ -415,7 +415,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 924389874,
     "image": "chr3_006_70",
     "icon": "chr4_006_70",
@@ -428,7 +428,7 @@
     "anotherIcon": "ano_0006_01",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 3085160646,
     "image": "chr3_007_01",
     "icon": "chr4_007_01",
@@ -441,7 +441,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 787120508,
     "image": "chr3_007_02",
     "icon": "chr4_007_02",
@@ -454,7 +454,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 3347653705,
     "image": "chr3_007_04",
     "icon": "chr4_007_04",
@@ -467,7 +467,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 2962101471,
     "image": "chr3_007_05",
     "icon": "chr4_007_05",
@@ -493,7 +493,7 @@
     "anotherIcon": "ano_0007_01",
     "rare": 4
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 4018192528,
     "image": "chr3_008_01",
     "icon": "chr4_008_01",
@@ -506,7 +506,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 1988727082,
     "image": "chr3_008_02",
     "icon": "chr4_008_02",
@@ -519,7 +519,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 2682926111,
     "image": "chr3_008_04",
     "icon": "chr4_008_04",
@@ -532,7 +532,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 3907847305,
     "image": "chr3_008_05",
     "icon": "chr4_008_05",
@@ -545,7 +545,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 3620103873,
     "image": "chr3_008_70",
     "icon": "chr4_008_70",
@@ -558,7 +558,7 @@
     "anotherIcon": "ano_0008_01",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 1463592949,
     "image": "chr3_009_01",
     "icon": "chr4_009_01",
@@ -571,7 +571,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 3459642959,
     "image": "chr3_009_02",
     "icon": "chr4_009_02",
@@ -584,7 +584,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 659968890,
     "image": "chr3_009_04",
     "icon": "chr4_009_04",
@@ -597,7 +597,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 1347511276,
     "image": "chr3_009_05",
     "icon": "chr4_009_05",
@@ -610,7 +610,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 1870266788,
     "image": "chr3_009_70",
     "icon": "chr4_009_70",
@@ -623,7 +623,7 @@
     "anotherIcon": "ano_0009_01",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 391430607,
     "image": "chr3_010_01",
     "icon": "chr4_010_01",
@@ -636,7 +636,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 2388496501,
     "image": "chr3_010_02",
     "icon": "chr4_010_02",
@@ -649,7 +649,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 1732130112,
     "image": "chr3_010_04",
     "icon": "chr4_010_04",
@@ -662,7 +662,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 272172502,
     "image": "chr3_010_05",
     "icon": "chr4_010_05",
@@ -675,7 +675,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 789735326,
     "image": "chr3_010_70",
     "icon": "chr4_010_70",
@@ -688,7 +688,7 @@
     "anotherIcon": "ano_0010_01",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 2951259818,
     "image": "chr3_011_01",
     "icon": "chr4_011_01",
@@ -701,7 +701,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 920778512,
     "image": "chr3_011_02",
     "icon": "chr4_011_02",
@@ -714,7 +714,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 3749859877,
     "image": "chr3_011_04",
     "icon": "chr4_011_04",
@@ -727,7 +727,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 2827313843,
     "image": "chr3_011_05",
     "icon": "chr4_011_05",
@@ -740,7 +740,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 2544763131,
     "image": "chr3_011_70",
     "icon": "chr4_011_70",
@@ -753,7 +753,7 @@
     "anotherIcon": "ano_0011_01",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3176991044,
     "image": "chr3_012_01",
     "icon": "chr4_012_01",
@@ -766,7 +766,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 609507582,
     "image": "chr3_012_02",
     "icon": "chr4_012_02",
@@ -779,7 +779,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3442998731,
     "image": "chr3_012_04",
     "icon": "chr4_012_04",
@@ -792,7 +792,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3123760477,
     "image": "chr3_012_05",
     "icon": "chr4_012_05",
@@ -805,7 +805,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 2233184021,
     "image": "chr3_012_70",
     "icon": "chr4_012_70",
@@ -818,7 +818,7 @@
     "anotherIcon": "ano_0012_01",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 98659873,
     "image": "chr3_013_01",
     "icon": "chr4_013_01",
@@ -831,7 +831,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 2632466331,
     "image": "chr3_013_02",
     "icon": "chr4_013_02",
@@ -844,7 +844,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 1972083374,
     "image": "chr3_013_04",
     "icon": "chr4_013_04",
@@ -857,7 +857,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 42773048,
     "image": "chr3_013_05",
     "icon": "chr4_013_05",
@@ -870,7 +870,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 1034406000,
     "image": "chr3_013_70",
     "icon": "chr4_013_70",
@@ -883,7 +883,7 @@
     "anotherIcon": "ano_0013_01",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 2553697944,
     "image": "chr3_014_01",
     "icon": "chr4_014_01",
@@ -896,7 +896,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 20907810,
     "image": "chr3_014_02",
     "icon": "chr4_014_02",
@@ -909,7 +909,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 3898384919,
     "image": "chr3_014_04",
     "icon": "chr4_014_04",
@@ -922,7 +922,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 2673578625,
     "image": "chr3_014_05",
     "icon": "chr4_014_05",
@@ -935,7 +935,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 2691756233,
     "image": "chr3_014_70",
     "icon": "chr4_014_70",
@@ -948,7 +948,7 @@
     "anotherIcon": "ano_0014_01",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 545927677,
     "image": "chr3_015_01",
     "icon": "chr4_015_01",
@@ -961,7 +961,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 3112394823,
     "image": "chr3_015_02",
     "icon": "chr4_015_02",
@@ -974,7 +974,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 1356907890,
     "image": "chr3_015_04",
     "icon": "chr4_015_04",
@@ -987,7 +987,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 669513188,
     "image": "chr3_015_05",
     "icon": "chr4_015_05",
@@ -1000,7 +1000,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 416061356,
     "image": "chr3_015_70",
     "icon": "chr4_015_70",
@@ -1013,7 +1013,7 @@
     "anotherIcon": "ano_0015_01",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 843030035,
     "image": "chr3_016_01",
     "icon": "chr4_016_01",
@@ -1026,7 +1026,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 2872496041,
     "image": "chr3_016_02",
     "icon": "chr4_016_02",
@@ -1039,7 +1039,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 1112894108,
     "image": "chr3_016_04",
     "icon": "chr4_016_04",
@@ -1052,7 +1052,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 894589450,
     "image": "chr3_016_05",
     "icon": "chr4_016_05",
@@ -1065,7 +1065,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 175716418,
     "image": "chr3_016_70",
     "icon": "chr4_016_70",
@@ -1078,7 +1078,7 @@
     "anotherIcon": "ano_0016_01",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 2323904886,
     "image": "chr3_017_01",
     "icon": "chr4_017_01",
@@ -1091,7 +1091,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 327854284,
     "image": "chr3_017_02",
     "icon": "chr4_017_02",
@@ -1104,7 +1104,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 4209577465,
     "image": "chr3_017_04",
     "icon": "chr4_017_04",
@@ -1117,7 +1117,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 2381200751,
     "image": "chr3_017_05",
     "icon": "chr4_017_05",
@@ -1130,7 +1130,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 2999279399,
     "image": "chr3_017_70",
     "icon": "chr4_017_70",
@@ -1208,7 +1208,7 @@
     "anotherIcon": "ano_0018_01",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 1784450629,
     "image": "chr3_019_01",
     "icon": "chr4_019_01",
@@ -1221,7 +1221,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 4082491391,
     "image": "chr3_019_02",
     "icon": "chr4_019_02",
@@ -1234,7 +1234,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 439777994,
     "image": "chr3_019_04",
     "icon": "chr4_019_04",
@@ -1247,7 +1247,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 1831946844,
     "image": "chr3_019_05",
     "icon": "chr4_019_05",
@@ -1260,7 +1260,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 1377445908,
     "image": "chr3_019_70",
     "icon": "chr4_019_70",
@@ -1273,7 +1273,7 @@
     "anotherIcon": "ano_0019_01",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 1358215967,
     "image": "chr3_020_01",
     "icon": "chr4_020_01",
@@ -1286,7 +1286,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 3388861093,
     "image": "chr3_020_02",
     "icon": "chr4_020_02",
@@ -1299,7 +1299,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 547245968,
     "image": "chr3_020_04",
     "icon": "chr4_020_04",
@@ -1312,7 +1312,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 1469677318,
     "image": "chr3_020_05",
     "icon": "chr4_020_05",
@@ -1325,7 +1325,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 1756503374,
     "image": "chr3_020_70",
     "icon": "chr4_020_70",
@@ -1338,7 +1338,7 @@
     "anotherIcon": "ano_0020_01",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 3897089146,
     "image": "chr3_021_01",
     "icon": "chr4_021_01",
@@ -1351,7 +1351,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 1900121536,
     "image": "chr3_021_02",
     "icon": "chr4_021_02",
@@ -1364,7 +1364,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 2552375541,
     "image": "chr3_021_04",
     "icon": "chr4_021_04",
@@ -1377,7 +1377,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 4012185699,
     "image": "chr3_021_05",
     "icon": "chr4_021_05",
@@ -1390,7 +1390,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 3490609707,
     "image": "chr3_021_70",
     "icon": "chr4_021_70",
@@ -1403,7 +1403,7 @@
     "anotherIcon": "ano_0021_01",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 4210914196,
     "image": "chr3_022_01",
     "icon": "chr4_022_01",
@@ -1416,7 +1416,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 1676943918,
     "image": "chr3_022_02",
     "icon": "chr4_022_02",
@@ -1429,7 +1429,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 2325186331,
     "image": "chr3_022_04",
     "icon": "chr4_022_04",
@@ -1442,7 +1442,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 4254119821,
     "image": "chr3_022_05",
     "icon": "chr4_022_05",
@@ -1455,7 +1455,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 3267089861,
     "image": "chr3_022_70",
     "icon": "chr4_022_70",
@@ -1468,7 +1468,7 @@
     "anotherIcon": "ano_0022_01",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 1111561457,
     "image": "chr3_023_01",
     "icon": "chr4_023_01",
@@ -1481,7 +1481,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 3678946635,
     "image": "chr3_023_02",
     "icon": "chr4_023_02",
@@ -1494,7 +1494,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 841736318,
     "image": "chr3_023_04",
     "icon": "chr4_023_04",
@@ -1507,7 +1507,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 1160564968,
     "image": "chr3_023_05",
     "icon": "chr4_023_05",
@@ -1520,7 +1520,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 2047324832,
     "image": "chr3_023_70",
     "icon": "chr4_023_70",
@@ -1533,7 +1533,7 @@
     "anotherIcon": "ano_0023_01",
     "rare": 4
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 3751160904,
     "image": "chr3_024_01",
     "icon": "chr4_024_01",
@@ -1546,7 +1546,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 1184857586,
     "image": "chr3_024_02",
     "icon": "chr4_024_02",
@@ -1559,7 +1559,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 2952583367,
     "image": "chr3_024_04",
     "icon": "chr4_024_04",
@@ -1572,7 +1572,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 3640387665,
     "image": "chr3_024_05",
     "icon": "chr4_024_05",
@@ -1585,7 +1585,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 3889203737,
     "image": "chr3_024_70",
     "icon": "chr4_024_70",
@@ -1598,7 +1598,7 @@
     "anotherIcon": "ano_0024_01",
     "rare": 4
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 1730825005,
     "image": "chr3_025_01",
     "icon": "chr4_025_01",
@@ -1611,7 +1611,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 4263713431,
     "image": "chr3_025_02",
     "icon": "chr4_025_02",
@@ -1624,7 +1624,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 390119330,
     "image": "chr3_025_04",
     "icon": "chr4_025_04",
@@ -1637,7 +1637,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 1615302452,
     "image": "chr3_025_05",
     "icon": "chr4_025_05",
@@ -1650,7 +1650,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 1600974204,
     "image": "chr3_025_70",
     "icon": "chr4_025_70",
@@ -1663,7 +1663,7 @@
     "anotherIcon": "ano_0025_01",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 1973413059,
     "image": "chr3_026_01",
     "icon": "chr4_026_01",
@@ -1676,7 +1676,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 3969299833,
     "image": "chr3_026_02",
     "icon": "chr4_026_02",
@@ -1689,7 +1689,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 99946572,
     "image": "chr3_026_04",
     "icon": "chr4_026_04",
@@ -1702,7 +1702,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 1928470746,
     "image": "chr3_026_05",
     "icon": "chr4_026_05",
@@ -1715,7 +1715,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 1306083986,
     "image": "chr3_026_70",
     "icon": "chr4_026_70",
@@ -1728,7 +1728,7 @@
     "anotherIcon": "ano_0026_01",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 3441656742,
     "image": "chr3_027_01",
     "icon": "chr4_027_01",
@@ -1741,7 +1741,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 1412092444,
     "image": "chr3_027_02",
     "icon": "chr4_027_02",
@@ -1754,7 +1754,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 3175708457,
     "image": "chr3_027_04",
     "icon": "chr4_027_04",
@@ -1767,7 +1767,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 3394127807,
     "image": "chr3_027_05",
     "icon": "chr4_027_05",
@@ -1780,7 +1780,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 4117046775,
     "image": "chr3_027_70",
     "icon": "chr4_027_70",
@@ -1793,7 +1793,7 @@
     "anotherIcon": "ano_0027_01",
     "rare": 4
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 2504037360,
     "image": "chr3_028_01",
     "icon": "chr4_028_01",
@@ -1806,7 +1806,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 206160458,
     "image": "chr3_028_02",
     "icon": "chr4_028_02",
@@ -1819,7 +1819,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 3844761471,
     "image": "chr3_028_04",
     "icon": "chr4_028_04",
@@ -1832,7 +1832,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 2452445161,
     "image": "chr3_028_05",
     "icon": "chr4_028_05",
@@ -1845,7 +1845,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 2902865313,
     "image": "chr3_028_70",
     "icon": "chr4_028_70",
@@ -1858,7 +1858,7 @@
     "anotherIcon": "ano_0028_01",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 771552405,
     "image": "chr3_029_01",
     "icon": "chr4_029_01",
@@ -1871,7 +1871,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 3035997487,
     "image": "chr3_029_02",
     "icon": "chr4_029_02",
@@ -1884,7 +1884,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 1570111514,
     "image": "chr3_029_04",
     "icon": "chr4_029_04",
@@ -1897,7 +1897,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 714158220,
     "image": "chr3_029_05",
     "icon": "chr4_029_05",
@@ -1910,7 +1910,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 364532420,
     "image": "chr3_029_70",
     "icon": "chr4_029_70",
@@ -1923,7 +1923,7 @@
     "anotherIcon": "ano_0029_01",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 1838453423,
     "image": "chr3_030_01",
     "icon": "chr4_030_01",
@@ -1936,7 +1936,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 4103979797,
     "image": "chr3_030_02",
     "icon": "chr4_030_02",
@@ -1949,7 +1949,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 503211552,
     "image": "chr3_030_04",
     "icon": "chr4_030_04",
@@ -1962,7 +1962,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 1794725558,
     "image": "chr3_030_05",
     "icon": "chr4_030_05",
@@ -1975,7 +1975,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 1439839486,
     "image": "chr3_030_70",
     "icon": "chr4_030_70",
@@ -1988,7 +1988,7 @@
     "anotherIcon": "ano_0030_01",
     "rare": 4
 }, {
-    "name": "ニーナ・K",
+    "name": "Nina Kalinina",
     "id": 3576231370,
     "image": "chr3_031_01",
     "icon": "chr4_031_01",
@@ -2001,7 +2001,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "ニーナ・K",
+    "name": "Nina Kalinina",
     "id": 1277273200,
     "image": "chr3_031_02",
     "icon": "chr4_031_02",
@@ -2014,7 +2014,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "ニーナ・K",
+    "name": "Nina Kalinina",
     "id": 2772566341,
     "image": "chr3_031_04",
     "icon": "chr4_031_04",
@@ -2027,7 +2027,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "ニーナ・K",
+    "name": "Nina Kalinina",
     "id": 3527750099,
     "image": "chr3_031_05",
     "icon": "chr4_031_05",
@@ -2053,7 +2053,7 @@
     "anotherIcon": "ano_0031_01",
     "rare": 4
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 3348978212,
     "image": "chr3_032_01",
     "icon": "chr4_032_01",
@@ -2066,7 +2066,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 1586760606,
     "image": "chr3_032_02",
     "icon": "chr4_032_02",
@@ -2079,7 +2079,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 3086462635,
     "image": "chr3_032_04",
     "icon": "chr4_032_04",
@@ -2092,7 +2092,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 3236994621,
     "image": "chr3_032_05",
     "icon": "chr4_032_05",
@@ -2105,7 +2105,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 4292607093,
     "image": "chr3_032_70",
     "icon": "chr4_032_70",
@@ -2118,7 +2118,7 @@
     "anotherIcon": "ano_0032_01",
     "rare": 4
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 2132884801,
     "image": "chr3_033_01",
     "icon": "chr4_033_01",
@@ -2131,7 +2131,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 3861409019,
     "image": "chr3_033_02",
     "icon": "chr4_033_02",
@@ -2144,7 +2144,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 256625102,
     "image": "chr3_033_04",
     "icon": "chr4_033_04",
@@ -2157,7 +2157,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 2018310488,
     "image": "chr3_033_05",
     "icon": "chr4_033_05",
@@ -2170,7 +2170,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 1197972240,
     "image": "chr3_033_70",
     "icon": "chr4_033_70",
@@ -2183,7 +2183,7 @@
     "anotherIcon": "ano_0033_01",
     "rare": 4
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 3807774200,
     "image": "chr3_034_01",
     "icon": "chr4_034_01",
@@ -2196,7 +2196,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 2080330818,
     "image": "chr3_034_02",
     "icon": "chr4_034_02",
@@ -2209,7 +2209,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 2459758967,
     "image": "chr3_034_04",
     "icon": "chr4_034_04",
@@ -2222,7 +2222,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 3852190177,
     "image": "chr3_034_05",
     "icon": "chr4_034_05",
@@ -2235,7 +2235,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 3669009321,
     "image": "chr3_034_70",
     "icon": "chr4_034_70",
@@ -2248,7 +2248,7 @@
     "anotherIcon": "ano_0034_01",
     "rare": 4
 }, {
-    "name": "ミア・V",
+    "name": "Mia Voisin",
     "id": 1514824349,
     "image": "chr3_035_01",
     "icon": "chr4_035_01",
@@ -2261,7 +2261,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "ミア・V",
+    "name": "Mia Voisin",
     "id": 3275961127,
     "image": "chr3_035_02",
     "icon": "chr4_035_02",
@@ -2274,7 +2274,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "ミア・V",
+    "name": "Mia Voisin",
     "id": 706778642,
     "image": "chr3_035_04",
     "icon": "chr4_035_04",
@@ -2287,7 +2287,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "ミア・V",
+    "name": "Mia Voisin",
     "id": 1562879620,
     "image": "chr3_035_05",
     "icon": "chr4_035_05",
@@ -2313,7 +2313,7 @@
     "anotherIcon": "ano_0035_01",
     "rare": 4
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 1224723827,
     "image": "chr3_036_01",
     "icon": "chr4_036_01",
@@ -2326,7 +2326,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 3522600137,
     "image": "chr3_036_02",
     "icon": "chr4_036_02",
@@ -2339,7 +2339,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 949303804,
     "image": "chr3_036_04",
     "icon": "chr4_036_04",
@@ -2352,7 +2352,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 1334970730,
     "image": "chr3_036_05",
     "icon": "chr4_036_05",
@@ -2365,7 +2365,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 1891199778,
     "image": "chr3_036_70",
     "icon": "chr4_036_70",
@@ -2378,7 +2378,7 @@
     "anotherIcon": "ano_0036_01",
     "rare": 4
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 4030966294,
     "image": "chr3_037_01",
     "icon": "chr4_037_01",
@@ -2391,7 +2391,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 1766521772,
     "image": "chr3_037_02",
     "icon": "chr4_037_02",
@@ -2404,7 +2404,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 2150194841,
     "image": "chr3_037_04",
     "icon": "chr4_037_04",
@@ -2417,7 +2417,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 4147015183,
     "image": "chr3_037_05",
     "icon": "chr4_037_05",
@@ -2443,7 +2443,7 @@
     "anotherIcon": "ano_0037_01",
     "rare": 4
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 2820717120,
     "image": "chr3_038_01",
     "icon": "chr4_038_01",
@@ -2456,7 +2456,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 824830970,
     "image": "chr3_038_02",
     "icon": "chr4_038_02",
@@ -2469,7 +2469,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 3628748495,
     "image": "chr3_038_04",
     "icon": "chr4_038_04",
@@ -2482,7 +2482,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 2941091417,
     "image": "chr3_038_05",
     "icon": "chr4_038_05",
@@ -2508,7 +2508,7 @@
     "anotherIcon": "ano_0038_01",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 278715685,
     "image": "chr3_039_01",
     "icon": "chr4_039_01",
@@ -2521,7 +2521,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 2308279455,
     "image": "chr3_039_02",
     "icon": "chr4_039_02",
@@ -2534,7 +2534,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 1626745258,
     "image": "chr3_039_04",
     "icon": "chr4_039_04",
@@ -2547,7 +2547,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 401676604,
     "image": "chr3_039_05",
     "icon": "chr4_039_05",
@@ -2560,7 +2560,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 685407092,
     "image": "chr3_039_70",
     "icon": "chr4_039_70",
@@ -2573,7 +2573,7 @@
     "anotherIcon": "ano_0039_01",
     "rare": 4
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 3753135807,
     "image": "chr3_040_01",
     "icon": "chr4_040_01",
@@ -2586,7 +2586,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 1186799365,
     "image": "chr3_040_02",
     "icon": "chr4_040_02",
@@ -2599,7 +2599,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 2950609456,
     "image": "chr3_040_04",
     "icon": "chr4_040_04",
@@ -2612,7 +2612,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 3638135462,
     "image": "chr3_040_05",
     "icon": "chr4_040_05",
@@ -2625,7 +2625,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 3891456238,
     "image": "chr3_040_70",
     "icon": "chr4_040_70",
@@ -2638,7 +2638,7 @@
     "anotherIcon": "ano_0040_01",
     "rare": 4
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 1728588250,
     "image": "chr3_041_01",
     "icon": "chr4_041_01",
@@ -2651,7 +2651,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 4261509216,
     "image": "chr3_041_02",
     "icon": "chr4_041_02",
@@ -2664,7 +2664,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 392355157,
     "image": "chr3_041_04",
     "icon": "chr4_041_04",
@@ -2677,7 +2677,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 1617292739,
     "image": "chr3_041_05",
     "icon": "chr4_041_05",
@@ -2690,7 +2690,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 1598984075,
     "image": "chr3_041_70",
     "icon": "chr4_041_70",
@@ -2703,7 +2703,7 @@
     "anotherIcon": "ano_0041_01",
     "rare": 4
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 1975354932,
     "image": "chr3_042_01",
     "icon": "chr4_042_01",
@@ -2716,7 +2716,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 3971274638,
     "image": "chr3_042_02",
     "icon": "chr4_042_02",
@@ -2729,7 +2729,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 98005691,
     "image": "chr3_042_04",
     "icon": "chr4_042_04",
@@ -2742,7 +2742,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 1926251053,
     "image": "chr3_042_05",
     "icon": "chr4_042_05",
@@ -2755,7 +2755,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 1308303461,
     "image": "chr3_042_70",
     "icon": "chr4_042_70",
@@ -2768,7 +2768,7 @@
     "anotherIcon": "ano_0042_01",
     "rare": 4
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 3439452497,
     "image": "chr3_043_01",
     "icon": "chr4_043_01",
@@ -2781,7 +2781,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 1409855723,
     "image": "chr3_043_02",
     "icon": "chr4_043_02",
@@ -2794,7 +2794,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 3177911774,
     "image": "chr3_043_04",
     "icon": "chr4_043_04",
@@ -2807,7 +2807,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 3396085064,
     "image": "chr3_043_05",
     "icon": "chr4_043_05",
@@ -2820,7 +2820,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 4115089152,
     "image": "chr3_043_70",
     "icon": "chr4_043_70",
@@ -2833,7 +2833,7 @@
     "anotherIcon": "ano_0043_01",
     "rare": 4
 }, {
-    "name": "シャーリー・O",
+    "name": "Shirley Oakley",
     "id": 1356257768,
     "image": "chr3_044_01",
     "icon": "chr4_044_01",
@@ -2846,7 +2846,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "シャーリー・O",
+    "name": "Shirley Oakley",
     "id": 3386869842,
     "image": "chr3_044_02",
     "icon": "chr4_044_02",
@@ -2859,7 +2859,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "シャーリー・O",
+    "name": "Shirley Oakley",
     "id": 549203303,
     "image": "chr3_044_04",
     "icon": "chr4_044_04",
@@ -2872,7 +2872,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "シャーリー・O",
+    "name": "Shirley Oakley",
     "id": 1471880689,
     "image": "chr3_044_05",
     "icon": "chr4_044_05",
@@ -2898,7 +2898,7 @@
     "anotherIcon": "ano_0044_01",
     "rare": 4
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 3899309709,
     "image": "chr3_045_01",
     "icon": "chr4_045_01",
@@ -2911,7 +2911,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 1902374711,
     "image": "chr3_045_02",
     "icon": "chr4_045_02",
@@ -2924,7 +2924,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 2550155778,
     "image": "chr3_045_04",
     "icon": "chr4_045_04",
@@ -2937,7 +2937,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 4010244756,
     "image": "chr3_045_05",
     "icon": "chr4_045_05",
@@ -2950,7 +2950,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 3492550876,
     "image": "chr3_045_70",
     "icon": "chr4_045_70",
@@ -2963,7 +2963,7 @@
     "anotherIcon": "ano_0045_01",
     "rare": 4
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 4208922979,
     "image": "chr3_046_01",
     "icon": "chr4_046_01",
@@ -2976,7 +2976,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 1674985689,
     "image": "chr3_046_02",
     "icon": "chr4_046_02",
@@ -2989,7 +2989,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 2327176684,
     "image": "chr3_046_04",
     "icon": "chr4_046_04",
@@ -3002,7 +3002,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 4256355706,
     "image": "chr3_046_05",
     "icon": "chr4_046_05",
@@ -3028,7 +3028,7 @@
     "anotherIcon": "ano_0046_01",
     "rare": 4
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 1113814534,
     "image": "chr3_047_01",
     "icon": "chr4_047_01",
@@ -3041,7 +3041,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 3681167292,
     "image": "chr3_047_02",
     "icon": "chr4_047_02",
@@ -3054,7 +3054,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 839484041,
     "image": "chr3_047_04",
     "icon": "chr4_047_04",
@@ -3067,7 +3067,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 1158591007,
     "image": "chr3_047_05",
     "icon": "chr4_047_05",
@@ -3080,7 +3080,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 2049298519,
     "image": "chr3_047_70",
     "icon": "chr4_047_70",
@@ -3093,7 +3093,7 @@
     "anotherIcon": "ano_0047_01",
     "rare": 4
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 436233808,
     "image": "chr3_048_01",
     "icon": "chr4_048_01",
@@ -3106,7 +3106,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 2198419434,
     "image": "chr3_048_02",
     "icon": "chr4_048_02",
@@ -3119,7 +3119,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 1785369311,
     "image": "chr3_048_04",
     "icon": "chr4_048_04",
@@ -3132,7 +3132,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 493724233,
     "image": "chr3_048_05",
     "icon": "chr4_048_05",
@@ -3145,7 +3145,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 575062017,
     "image": "chr3_048_70",
     "icon": "chr4_048_70",
@@ -3158,7 +3158,7 @@
     "anotherIcon": "ano_0048_01",
     "rare": 4
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 2730230069,
     "image": "chr3_049_01",
     "icon": "chr4_049_01",
@@ -3171,7 +3171,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 1001738383,
     "image": "chr3_049_02",
     "icon": "chr4_049_02",
@@ -3184,7 +3184,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 3537302970,
     "image": "chr3_049_04",
     "icon": "chr4_049_04",
@@ -3197,7 +3197,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 2781988140,
     "image": "chr3_049_05",
     "icon": "chr4_049_05",
@@ -3210,7 +3210,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 2600118116,
     "image": "chr3_049_70",
     "icon": "chr4_049_70",
@@ -3223,7 +3223,7 @@
     "anotherIcon": "ano_0049_01",
     "rare": 4
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 3805570831,
     "image": "chr3_050_01",
     "icon": "chr4_050_01",
@@ -3236,7 +3236,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 2078095029,
     "image": "chr3_050_02",
     "icon": "chr4_050_02",
@@ -3249,7 +3249,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 2461963136,
     "image": "chr3_050_04",
     "icon": "chr4_050_04",
@@ -3262,7 +3262,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 3854148374,
     "image": "chr3_050_05",
     "icon": "chr4_050_05",
@@ -3275,7 +3275,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 3667050846,
     "image": "chr3_050_70",
     "icon": "chr4_050_70",
@@ -3288,7 +3288,7 @@
     "anotherIcon": "ano_0050_01",
     "rare": 4
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 1516765290,
     "image": "chr3_051_01",
     "icon": "chr4_051_01",
@@ -3301,7 +3301,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 3277935056,
     "image": "chr3_051_02",
     "icon": "chr4_051_02",
@@ -3314,7 +3314,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 704836837,
     "image": "chr3_051_04",
     "icon": "chr4_051_04",
@@ -3327,7 +3327,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 1560659059,
     "image": "chr3_051_05",
     "icon": "chr4_051_05",
@@ -3340,7 +3340,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 1647224379,
     "image": "chr3_051_70",
     "icon": "chr4_051_70",
@@ -3353,7 +3353,7 @@
     "anotherIcon": "ano_0051_01",
     "rare": 4
 }, {
-    "name": "新居目 安里",
+    "name": "Araime Yasuri",
     "id": 1222487940,
     "image": "chr3_052_01",
     "icon": "chr4_052_01",
@@ -3366,7 +3366,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "新居目 安里",
+    "name": "Araime Yasuri",
     "id": 3520396862,
     "image": "chr3_052_02",
     "icon": "chr4_052_02",
@@ -3379,7 +3379,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "新居目 安里",
+    "name": "Araime Yasuri",
     "id": 951540491,
     "image": "chr3_052_04",
     "icon": "chr4_052_04",
@@ -3392,7 +3392,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "新居目 安里",
+    "name": "Araime Yasuri",
     "id": 1336961949,
     "image": "chr3_052_05",
     "icon": "chr4_052_05",
@@ -3405,7 +3405,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新居目 安里",
+    "name": "Araime Yasuri",
     "id": 1889208789,
     "image": "chr3_052_70",
     "icon": "chr4_052_70",
@@ -3483,7 +3483,7 @@
     "anotherIcon": "ano_0053_01",
     "rare": 4
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 1840705624,
     "image": "chr3_054_01",
     "icon": "chr4_054_01",
@@ -3496,7 +3496,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 4106199522,
     "image": "chr3_054_02",
     "icon": "chr4_054_02",
@@ -3509,7 +3509,7 @@
     "anotherIcon": "",
     "rare": 2
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 500958423,
     "image": "chr3_054_04",
     "icon": "chr4_054_04",
@@ -3522,7 +3522,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 1792750657,
     "image": "chr3_054_05",
     "icon": "chr4_054_05",
@@ -3535,7 +3535,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 1441814025,
     "image": "chr3_054_70",
     "icon": "chr4_054_70",
@@ -5316,7 +5316,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "安藤 陽子",
+    "name": "Andou Youko",
     "id": 1538282155,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -5329,7 +5329,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "安藤 陽子",
+    "name": "Andou Youko",
     "id": 3266904849,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -5342,7 +5342,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "安藤 陽子",
+    "name": "Andou Youko",
     "id": 735749668,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -5472,7 +5472,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2089217590,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5485,7 +5485,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 216799929,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5498,7 +5498,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2079009327,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5511,7 +5511,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 3948165054,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5524,7 +5524,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2622687016,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5537,7 +5537,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 4237594317,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5550,7 +5550,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2341715547,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5563,7 +5563,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 312143841,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5576,7 +5576,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 1704845175,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5589,7 +5589,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 4227418836,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5602,7 +5602,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 2365487682,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5615,7 +5615,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 368520184,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5628,7 +5628,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 1659902830,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5641,7 +5641,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 4065265407,
     "image": "chr3_001_01",
     "icon": "chr4_998_01",
@@ -5654,7 +5654,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 1848852952,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5667,7 +5667,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 509195607,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5680,7 +5680,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 1767802305,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5693,7 +5693,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 4192311376,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5706,7 +5706,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 2397481158,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5719,7 +5719,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 3995148579,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5732,7 +5732,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 2569408949,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5745,7 +5745,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 3096591,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5758,7 +5758,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 1999138969,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5771,7 +5771,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 3914130746,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5784,7 +5784,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 2655770028,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5797,7 +5797,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 121799702,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5810,7 +5810,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "日向 リン",
+    "name": "Himukai Rin",
     "id": 1883616384,
     "image": "chr3_002_01",
     "icon": "chr4_998_01",
@@ -5823,7 +5823,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 3599705789,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5836,7 +5836,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 2800079410,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5849,7 +5849,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 3521307300,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5862,7 +5862,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 1096679221,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5875,7 +5875,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 911921059,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5888,7 +5888,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 1453147718,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5901,7 +5901,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 563771088,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5914,7 +5914,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 3096651626,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5927,7 +5927,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 3482589180,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5940,7 +5940,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 1374716511,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5953,7 +5953,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 653767369,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5966,7 +5966,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 3221152627,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5979,7 +5979,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小鳥遊 怜",
+    "name": "Takanashi Rei",
     "id": 3371815909,
     "image": "chr3_003_01",
     "icon": "chr4_998_01",
@@ -5992,7 +5992,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 1264066052,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6005,7 +6005,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 993192587,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6018,7 +6018,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 1278597661,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6031,7 +6031,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 3700082572,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6044,7 +6044,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 2878207770,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6057,7 +6057,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 3410657023,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6070,7 +6070,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 3159182953,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6083,7 +6083,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 625221587,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6096,7 +6096,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 1380134725,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6109,7 +6109,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 3425155814,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6122,7 +6122,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 3139471984,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6135,7 +6135,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 573168586,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6148,7 +6148,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "兼志谷 シタラ",
+    "name": "Kaneshiya Sitara",
     "id": 1429138268,
     "image": "chr3_004_01",
     "icon": "chr4_998_01",
@@ -6161,7 +6161,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 4091836769,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6174,7 +6174,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 2207157742,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6187,7 +6187,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 4102667640,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6200,7 +6200,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 1681301737,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6213,7 +6213,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 322015359,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6226,7 +6226,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 1945508250,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6239,7 +6239,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 82913548,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6252,7 +6252,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 2650306742,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6265,7 +6265,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 3942598688,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6278,7 +6278,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 1956371843,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6291,7 +6291,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 60615957,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6304,7 +6304,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 2593504431,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6317,7 +6317,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 3985804345,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6330,7 +6330,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 2100138408,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6343,7 +6343,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "比良坂 夜露",
+    "name": "Hirasaka Yotsuyu",
     "id": 170565950,
     "image": "chr3_005_01",
     "icon": "chr4_998_01",
@@ -6356,7 +6356,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 3780236943,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6369,7 +6369,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 2436571648,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6382,7 +6382,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 3862696598,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6395,7 +6395,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 1988300551,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6408,7 +6408,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 25444241,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6421,7 +6421,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 1631827572,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6434,7 +6434,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 373589730,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6447,7 +6447,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 2404243288,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6460,7 +6460,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 4165658574,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6473,7 +6473,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 1714319981,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6486,7 +6486,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 287916795,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6499,7 +6499,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 2283803457,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6512,7 +6512,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "百科 文嘉",
+    "name": "Momoshina Fumika",
     "id": 4280755159,
     "image": "chr3_006_01",
     "icon": "chr4_998_01",
@@ -6525,7 +6525,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 1508749802,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6538,7 +6538,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 696730981,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6551,7 +6551,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 1585477107,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6564,7 +6564,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 3460261986,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6577,7 +6577,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 3107477748,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6590,7 +6590,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 3657421073,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6603,7 +6603,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 2935546247,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6616,7 +6616,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 938586173,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6629,7 +6629,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 1089896619,
     "image": "chr3_007_01",
     "icon": "chr4_998_01",
@@ -6642,7 +6642,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 26124732,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6655,7 +6655,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 1910789427,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6668,7 +6668,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 115565989,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6681,7 +6681,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 2522642484,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6694,7 +6694,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 3780855970,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6707,7 +6707,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 2174533959,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6720,7 +6720,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 4137415121,
     "image": "chr3_008_01",
     "icon": "chr4_998_01",
@@ -6733,7 +6733,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 3107112665,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6746,7 +6746,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 3378000470,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6759,7 +6759,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 3193897664,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6772,7 +6772,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 786440017,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6785,7 +6785,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 1508323271,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6798,7 +6798,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 958440994,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6811,7 +6811,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 1311217332,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6824,7 +6824,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 3610167054,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6837,7 +6837,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 2687104920,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6850,7 +6850,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "相河 愛花",
+    "name": "Aikawa Aika",
     "id": 1045258811,
     "image": "chr3_009_01",
     "icon": "chr4_998_01",
@@ -6863,7 +6863,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 4183466211,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6876,7 +6876,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 2301645932,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6889,7 +6889,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 4265043194,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6902,7 +6902,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 1854437739,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6915,7 +6915,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 428820989,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6928,7 +6928,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 2034810904,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6941,7 +6941,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 240119950,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6954,7 +6954,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 2537988404,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6967,7 +6967,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 3762393506,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6980,7 +6980,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 2116355073,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -6993,7 +6993,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "一条 綾香",
+    "name": "Ichijou Ayaka",
     "id": 153236631,
     "image": "chr3_010_01",
     "icon": "chr4_998_01",
@@ -7006,7 +7006,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 1105643398,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7019,7 +7019,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 831271689,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7032,7 +7032,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 1183515551,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7045,7 +7045,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 3593739790,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7058,7 +7058,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 2704486040,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7071,7 +7071,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 3254036349,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7084,7 +7084,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 3069417451,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7097,7 +7097,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 804963921,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7110,7 +7110,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 1493038791,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7123,7 +7123,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "四谷 ゆみ",
+    "name": "Yotsuya Yumi",
     "id": 3331941220,
     "image": "chr3_011_01",
     "icon": "chr4_998_01",
@@ -7136,7 +7136,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 1397975144,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7149,7 +7149,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 590978279,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7162,7 +7162,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 1413393521,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7175,7 +7175,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3296834016,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7188,7 +7188,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3011936630,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7201,7 +7201,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3544254611,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7214,7 +7214,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 2756065285,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7227,7 +7227,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 1028614591,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7240,7 +7240,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 1246255401,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7253,7 +7253,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "id": 3559705738,
     "image": "chr3_012_01",
     "icon": "chr4_998_01",
@@ -7266,7 +7266,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 3958312717,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7279,7 +7279,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 2609249154,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7292,7 +7292,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 3967994644,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7305,7 +7305,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 2084427397,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7318,7 +7318,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 188409363,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7331,7 +7331,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 1811771382,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7344,7 +7344,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 486170464,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7357,7 +7357,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 2247298778,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7370,7 +7370,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "小芦 睦海",
+    "name": "Koashi Mutsumi",
     "id": 4076093004,
     "image": "chr3_013_01",
     "icon": "chr4_998_01",
@@ -7383,7 +7383,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 1983395764,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7396,7 +7396,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 106087227,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7409,7 +7409,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 1901458349,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7422,7 +7422,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 3790270012,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7435,7 +7435,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 2532171434,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7448,7 +7448,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 4129969999,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7461,7 +7461,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "山野 薫子",
+    "name": "Yamano Kaoruko",
     "id": 2167236569,
     "image": "chr3_014_01",
     "icon": "chr4_998_01",
@@ -7474,7 +7474,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 3464777937,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7487,7 +7487,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 3203310686,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7500,7 +7500,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 3387528392,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7513,7 +7513,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 1498843481,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7526,7 +7526,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 777107919,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7539,7 +7539,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 1318465578,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7552,7 +7552,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 965804220,
     "image": "chr3_015_01",
     "icon": "chr4_998_01",
@@ -7565,7 +7565,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 3694264127,
     "image": "chr3_016_01",
     "icon": "chr4_998_01",
@@ -7578,7 +7578,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 2891647920,
     "image": "chr3_016_01",
     "icon": "chr4_998_01",
@@ -7591,7 +7591,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 3680254758,
     "image": "chr3_016_01",
     "icon": "chr4_998_01",
@@ -7604,7 +7604,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 1273177783,
     "image": "chr3_016_01",
     "icon": "chr4_998_01",
@@ -7617,7 +7617,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 1021580833,
     "image": "chr3_016_01",
     "icon": "chr4_998_01",
@@ -7630,7 +7630,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "下落合 桃歌",
+    "name": "Shimoochiai Touka",
     "id": 1545838532,
     "image": "chr3_016_01",
     "icon": "chr4_998_01",
@@ -7643,7 +7643,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 1687001178,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7656,7 +7656,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 350710997,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7669,7 +7669,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 1675648067,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7682,7 +7682,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 4083106258,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7695,7 +7695,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 2220388676,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7708,7 +7708,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 3835689121,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7721,7 +7721,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "依城 えり",
+    "name": "Yorishiro Eri",
     "id": 2476263479,
     "image": "chr3_017_01",
     "icon": "chr4_998_01",
@@ -7760,7 +7760,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 2220027753,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7773,7 +7773,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 4097317862,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7786,7 +7786,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 2201955184,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7799,7 +7799,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 327169761,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7812,7 +7812,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 1686570615,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7825,7 +7825,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 71339922,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7838,7 +7838,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "id": 1934081796,
     "image": "chr3_019_01",
     "icon": "chr4_998_01",
@@ -7851,7 +7851,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 3204110899,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7864,7 +7864,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 3465555644,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7877,7 +7877,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 3113688618,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7890,7 +7890,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 690488251,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7903,7 +7903,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 1580151597,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7916,7 +7916,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 1055439560,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7929,7 +7929,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 1240435294,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7942,7 +7942,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 3504790500,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7955,7 +7955,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "文島 明日翔",
+    "name": "Fumishima Asuka",
     "id": 2816600946,
     "image": "chr3_020_01",
     "icon": "chr4_998_01",
@@ -7968,7 +7968,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 105299286,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -7981,7 +7981,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 1982613977,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -7994,7 +7994,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 19626319,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -8007,7 +8007,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 2442421470,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -8020,7 +8020,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 3868415048,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -8033,7 +8033,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 2253708717,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -8046,7 +8046,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 4048809275,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -8059,7 +8059,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 1750776961,
     "image": "chr3_021_01",
     "icon": "chr4_998_01",
@@ -8072,7 +8072,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 351474360,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8085,7 +8085,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 1687807543,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8098,7 +8098,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 329176737,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8111,7 +8111,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 2200030000,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8124,7 +8124,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 4096195494,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8137,7 +8137,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 2497802819,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8150,7 +8150,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 3823518421,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8163,7 +8163,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 2062488431,
     "image": "chr3_022_01",
     "icon": "chr4_998_01",
@@ -8176,7 +8176,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 2890888669,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8189,7 +8189,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 3693445458,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8202,7 +8202,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 2871177668,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8215,7 +8215,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 1000189013,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8228,7 +8228,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 1285201091,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8241,7 +8241,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 744297766,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8254,7 +8254,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 1532634544,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8267,7 +8267,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 3260249098,
     "image": "chr3_023_01",
     "icon": "chr4_998_01",
@@ -8280,7 +8280,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 832064868,
     "image": "chr3_024_01",
     "icon": "chr4_998_01",
@@ -8293,7 +8293,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "村尾 未羅",
+    "name": "Murao Mira",
     "id": 1106426347,
     "image": "chr3_024_01",
     "icon": "chr4_998_01",
@@ -8306,7 +8306,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 2300848641,
     "image": "chr3_025_01",
     "icon": "chr4_998_01",
@@ -8319,7 +8319,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "君影 唯",
+    "name": "Kimikage Yui",
     "id": 4182695566,
     "image": "chr3_025_01",
     "icon": "chr4_998_01",
@@ -8332,7 +8332,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 2610005487,
     "image": "chr3_026_01",
     "icon": "chr4_998_01",
@@ -8345,7 +8345,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 3959124320,
     "image": "chr3_026_01",
     "icon": "chr4_998_01",
@@ -8358,7 +8358,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 2633777654,
     "image": "chr3_026_01",
     "icon": "chr4_998_01",
@@ -8371,7 +8371,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 205741159,
     "image": "chr3_026_01",
     "icon": "chr4_998_01",
@@ -8384,7 +8384,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 2068081905,
     "image": "chr3_026_01",
     "icon": "chr4_998_01",
@@ -8397,7 +8397,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 590209674,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8410,7 +8410,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 1397167621,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8423,7 +8423,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 608183955,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8436,7 +8436,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 3036625666,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8449,7 +8449,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 3287813012,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8462,7 +8462,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 2738848369,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8475,7 +8475,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 3560485607,
     "image": "chr3_027_01",
     "icon": "chr4_998_01",
@@ -8488,7 +8488,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 2068771548,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8501,7 +8501,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "御茶ノ水 美里江",
+    "name": "Ochanomizu Mirie",
     "id": 186910291,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8514,7 +8514,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 3287455161,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8527,7 +8527,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 3013108022,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8540,7 +8540,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 3298775456,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8553,7 +8553,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 1411402801,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8566,7 +8566,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 589790375,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8579,7 +8579,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 1138816322,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8592,7 +8592,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 887604692,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8605,7 +8605,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 2918093934,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8618,7 +8618,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "蛙坂 来弥",
+    "name": "Kaeruzaka Raiya",
     "id": 3672745208,
     "image": "chr3_029_01",
     "icon": "chr4_998_01",
@@ -8631,7 +8631,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 2207970179,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8644,7 +8644,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 4092593932,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8657,7 +8657,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 2230794138,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8670,7 +8670,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 340273675,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8683,7 +8683,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 1666128541,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8696,7 +8696,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 59282296,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8709,7 +8709,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 1955570670,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8722,7 +8722,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 3985044052,
     "image": "chr3_030_01",
     "icon": "chr4_998_01",
@@ -8735,7 +8735,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "ニーナ・K",
+    "name": "Nina Kalinina",
     "id": 992384230,
     "image": "chr3_031_01",
     "icon": "chr4_998_01",
@@ -8748,7 +8748,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "ニーナ・K",
+    "name": "Nina Kalinina",
     "id": 1263296617,
     "image": "chr3_031_01",
     "icon": "chr4_998_01",
@@ -8761,7 +8761,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 697514760,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8774,7 +8774,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "御蔵座 梓希",
+    "name": "Mikuraza Azuki",
     "id": 1509543815,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8787,7 +8787,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 2435800173,
     "image": "chr3_033_01",
     "icon": "chr4_998_01",
@@ -8800,7 +8800,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 3779438818,
     "image": "chr3_033_01",
     "icon": "chr4_998_01",
@@ -8813,7 +8813,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 217605332,
     "image": "chr3_034_01",
     "icon": "chr4_998_01",
@@ -8826,7 +8826,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 2089979995,
     "image": "chr3_034_01",
     "icon": "chr4_998_01",
@@ -8839,7 +8839,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "ミア・V",
+    "name": "Mia Voisin",
     "id": 3024356273,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8852,7 +8852,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "ミア・V",
+    "name": "Mia Voisin",
     "id": 3291412286,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8865,7 +8865,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 2800856159,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8878,7 +8878,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 3600505040,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8891,7 +8891,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "千島 美幸",
+    "name": "Chishima Miyuki",
     "id": 1373961266,
     "image": "chr3_036_05",
     "icon": "chr4_998_01",
@@ -8904,7 +8904,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 508414778,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8917,7 +8917,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 1848065973,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -8930,7 +8930,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 1177475948,
     "image": "chr3_038_01",
     "icon": "chr4_998_01",
@@ -8943,7 +8943,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 910438371,
     "image": "chr3_038_01",
     "icon": "chr4_998_01",
@@ -8956,7 +8956,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 1094918005,
     "image": "chr3_038_01",
     "icon": "chr4_998_01",
@@ -8969,7 +8969,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 3522953956,
     "image": "chr3_038_01",
     "icon": "chr4_998_01",
@@ -8982,7 +8982,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 2801480306,
     "image": "chr3_038_01",
     "icon": "chr4_998_01",
@@ -8995,7 +8995,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 3325868951,
     "image": "chr3_038_01",
     "icon": "chr4_998_01",
@@ -9008,7 +9008,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "サンティ",
+    "name": "Shanti",
     "id": 3934006349,
     "image": "chr3_038_70",
     "icon": "chr4_998_01",
@@ -9021,7 +9021,7 @@
     "anotherIcon": "ano_0038_01",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 4271029257,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9034,7 +9034,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 2398636166,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9047,7 +9047,7 @@
     "anotherIcon": "",
     "rare": 1
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 4194269200,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9060,7 +9060,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 1765827969,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9073,7 +9073,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 507991319,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9086,7 +9086,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 2122374386,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9099,7 +9099,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 159902820,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9112,7 +9112,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 2425273822,
     "image": "chr3_039_01",
     "icon": "chr4_998_01",
@@ -9125,7 +9125,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 834285459,
     "image": "chr3_040_01",
     "icon": "chr4_998_01",
@@ -9138,7 +9138,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 1104206620,
     "image": "chr3_040_01",
     "icon": "chr4_998_01",
@@ -9151,7 +9151,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 920120202,
     "image": "chr3_040_01",
     "icon": "chr4_998_01",
@@ -9164,7 +9164,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 2791896603,
     "image": "chr3_040_01",
     "icon": "chr4_998_01",
@@ -9177,7 +9177,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "王 紅花",
+    "name": "Wang Honghua",
     "id": 3513763469,
     "image": "chr3_040_01",
     "icon": "chr4_998_01",
@@ -9190,7 +9190,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 2298890486,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9203,7 +9203,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 4184652921,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9216,7 +9216,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 2612258584,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9229,7 +9229,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 3956872087,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9242,7 +9242,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 588218493,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9255,7 +9255,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 1399158002,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9268,7 +9268,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "シャーリー・O",
+    "name": "Shirley Oakley",
     "id": 3201874116,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9281,7 +9281,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "シャーリー・O",
+    "name": "Shirley Oakley",
     "id": 3467791435,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9294,7 +9294,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 107274145,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9307,7 +9307,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "東雲 チヱ",
+    "name": "Shinonome Chie",
     "id": 1980640046,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9320,7 +9320,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 349270095,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9333,7 +9333,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 1690010816,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9346,7 +9346,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 2892830506,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9359,7 +9359,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 3691504549,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9372,7 +9372,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 2868958003,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9385,7 +9385,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "籠目 深沙希",
+    "name": "Kagome Misaki",
     "id": 1002426018,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9398,7 +9398,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 4094560124,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9411,7 +9411,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 2221208563,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9424,7 +9424,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 1286758425,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9437,7 +9437,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 1020826774,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9450,7 +9450,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "二階堂 司",
+    "name": "Nikaidou Tsukasa",
     "id": 3148296308,
     "image": "chr3_049_01",
     "icon": "chr4_998_01",
@@ -9463,7 +9463,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 215615011,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9476,7 +9476,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 2091971244,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9489,7 +9489,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 3026608454,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9502,7 +9502,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 京",
+    "name": "Agatsuma Kei",
     "id": 3289159113,
     "image": "chr3_998_01",
     "icon": "chr4_998_01",
@@ -9515,7 +9515,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 1957544217,
     "image": "chr3_054_05",
     "icon": "chr4_998_01",
@@ -9580,7 +9580,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "吾妻 楓",
+    "name": "Agatsuma Kaede",
     "id": 1465890090,
     "image": "chr3_001_01",
     "icon": "chr4_001_01",
@@ -9593,7 +9593,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 1059735972,
     "image": "chr3_022_01",
     "icon": "chr4_022_01",
@@ -9606,7 +9606,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 765453898,
     "image": "chr3_021_01",
     "icon": "chr4_021_01",
@@ -9619,7 +9619,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 2274766529,
     "image": "chr3_023_01",
     "icon": "chr4_023_01",
@@ -9632,7 +9632,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 710408864,
     "image": "chr3_008_01",
     "icon": "chr4_008_01",
@@ -9645,7 +9645,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "バージニア・G",
+    "name": "Virginia Glynnberets",
     "id": 1916070646,
     "image": "chr3_007_01",
     "icon": "chr4_702_01",
@@ -9658,7 +9658,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "大関 小結",
+    "name": "Oozeki Koyui",
     "id": 3578521365,
     "image": "chr3_039_01",
     "icon": "chr4_702_01",
@@ -9671,7 +9671,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "琴村 朱音",
+    "name": "Kotomura Akane",
     "id": 3136685937,
     "image": "chr3_001_01",
     "icon": "chr4_702_01",
@@ -9684,7 +9684,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "琴村 天音",
+    "name": "Kotomura Amane",
     "id": 656490440,
     "image": "chr3_034_01",
     "icon": "chr4_034_01",
@@ -9710,7 +9710,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "萬場 盟華",
+    "name": "Yorozuba Meika",
     "id": 3848080333,
     "image": "chr3_015_01",
     "icon": "chr4_015_01",
@@ -9723,7 +9723,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "サンティ・R",
+    "name": "Shanti Rana",
     "id": 1844936816,
     "image": "chr3_038_01",
     "icon": "chr4_038_01",
@@ -9736,7 +9736,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "宇佐元 杏奈",
+    "name": "Usamoto Anna",
     "id": 2823006367,
     "image": "chr3_030_01",
     "icon": "chr4_030_01",
@@ -9749,7 +9749,7 @@
     "anotherIcon": "",
     "rare": 3
 }, {
-    "name": "神宮寺 真理",
+    "name": "Jinguji Mari",
     "id": 150256022,
     "image": "chr3_027_01",
     "icon": "chr4_027_01",
@@ -9775,7 +9775,7 @@
     "anotherIcon": "ano_0062_01",
     "rare": 4
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 702277936,
     "image": "chr3_023_70",
     "icon": "chr4_023_70",
@@ -9788,7 +9788,7 @@
     "anotherIcon": "",
     "rare": 4
 }, {
-    "name": "鳳 加純",
+    "name": "Ootori Kasumi",
     "id": 503650562,
     "image": "chr3_026_90",
     "icon": "chr4_026_90",
@@ -11222,19 +11222,19 @@
     "id": 2134977061,
     "icon": "npc1_002_01"
 }, {
-    "name": "磐田 宗一郎",
+    "name": "Iwata Souichirou",
     "id": 954290421,
     "icon": "npc1_002_01"
 }, {
-    "name": "鈴木 有人",
+    "name": "Suzuki Aruto",
     "id": 92371269,
     "icon": "npc1_003_01"
 }, {
-    "name": "安藤 陽子",
+    "name": "Andou Youko",
     "id": 3080824149,
     "icon": "npc1_004_01"
 }, {
-    "name": "吾妻 重頼",
+    "name": "Agatsuma Shigeyori",
     "id": 2327940325,
     "icon": "npc1_005_01"
 }, {
@@ -11242,15 +11242,15 @@
     "id": 331930975,
     "icon": "npc1_005_02"
 }, {
-    "name": "日向 リキ",
+    "name": "Himukai Riki",
     "id": 3445749301,
     "icon": "npc1_006_01"
 }, {
-    "name": "日向 リュウ",
+    "name": "Himukai Ryu",
     "id": 4026654597,
     "icon": "npc1_007_01"
 }, {
-    "name": "怜の祖母",
+    "name": "Rei's Grandmother",
     "id": 1917929556,
     "icon": "npc1_008_01"
 }, {
@@ -11258,47 +11258,47 @@
     "id": 1328636388,
     "icon": "npc1_009_01"
 }, {
-    "name": "北条 大洋",
+    "name": "Hokujou Takahiro",
     "id": 2306723888,
     "icon": "npc1_010_01"
 }, {
-    "name": "ジーヤ",
+    "name": "Gramps",
     "id": 3021863296,
     "icon": "npc1_011_01"
 }, {
-    "name": "ピッピ",
+    "name": "Pipi",
     "id": 4089283408,
     "icon": "npc1_020_01"
 }, {
-    "name": "陸奥",
+    "name": "Mutsu",
     "id": 3470633696,
     "icon": "npc1_014_01"
 }, {
-    "name": "藤野 さつき",
+    "name": "Fujino Satsuki",
     "id": 2096985840,
     "icon": "npc1_022_01"
 }, {
-    "name": "依城 のり",
+    "name": "Yorishiro Nori",
     "id": 1100832576,
     "icon": "npc1_013_01"
 }, {
-    "name": "依城 兵蔵",
+    "name": "Yorishiro Heizou",
     "id": 104670608,
     "icon": "npc1_012_01"
 }, {
-    "name": "文島 富也",
+    "name": "Fumishima Tomiya",
     "id": 995953696,
     "icon": "npc1_019_01"
 }, {
-    "name": "来弥の父",
+    "name": "Raiya's Father",
     "id": 3104676849,
     "icon": "npc1_901_01"
 }, {
-    "name": "来弥の母",
+    "name": "Raiya's Mother",
     "id": 2221781569,
     "icon": "npc1_902_01"
 }, {
-    "name": "サツキ・ザ・マム",
+    "name": "Satsuki The Mum",
     "id": 266969758,
     "icon": "npc1_022_02"
 }, {
@@ -11438,7 +11438,7 @@
     "id": 3567264754,
     "icon": "npc1_902_01"
 }, {
-    "name": "？？？",
+    "name": "AI Announcer",
     "id": 317493798,
     "icon": "npc1_024_01"
 }, {
@@ -11474,19 +11474,19 @@
     "id": 969219980,
     "icon": "npc1_918_01"
 }, {
-    "name": "依城 えり（翻訳）",
+    "name": "Yorishiro Eri（Translated）",
     "id": 580704743,
     "icon": "npc1_901_01"
 }, {
-    "name": "依城 兵蔵（翻訳）",
+    "name": "Yorishiro Heizou（Translated）",
     "id": 536670295,
     "icon": "npc1_012_01"
 }, {
-    "name": "依城 のり（翻訳）",
+    "name": "Yorishiro Nori（Translated）",
     "id": 2490949768,
     "icon": "npc1_013_01"
 }, {
-    "name": "ピッピ（翻訳）",
+    "name": "Pipi（Translated）",
     "id": 2836973880,
     "icon": "npc1_020_01"
 }, {
@@ -11586,15 +11586,15 @@
     "id": 1542596408,
     "icon": "npc1_918_01"
 }, {
-    "name": "王 剛",
+    "name": "Wang Gang",
     "id": 1720848008,
     "icon": "npc1_036_01"
 }, {
-    "name": "王 新良",
+    "name": "Wang Xinliang",
     "id": 556954712,
     "icon": "npc1_037_01"
 }, {
-    "name": "王 健生",
+    "name": "Wang Jiansheng",
     "id": 475160040,
     "icon": "npc1_038_01"
 }, {
@@ -11618,23 +11618,23 @@
     "id": 535691581,
     "icon": "npc1_030_01"
 }, {
-    "name": "屋島 富岳",
+    "name": "Yashima Fugaku",
     "id": 579741837,
     "icon": "npc1_033_01"
 }, {
-    "name": "霧島 良馬",
+    "name": "Kirishima Ryouma",
     "id": 2427384989,
     "icon": "npc1_031_01"
 }, {
-    "name": "愛宕 右京",
+    "name": "Atago Ukyou",
     "id": 2916015405,
     "icon": "npc1_032_01"
 }, {
-    "name": "木曽 徹",
+    "name": "Kiso Tooru",
     "id": 3933120509,
     "icon": "npc1_034_01"
 }, {
-    "name": "オペレーター",
+    "name": "Comms Operator",
     "id": 3608055373,
     "icon": "npc1_039_01"
 }, {
@@ -11646,7 +11646,7 @@
     "id": 1748906028,
     "icon": "npc1_043_01"
 }, {
-    "name": "メイド",
+    "name": "Maid",
     "id": 3830843425,
     "icon": "npc1_044_01"
 }, {
@@ -11726,11 +11726,11 @@
     "id": 1439336676,
     "icon": "npc1_058_01"
 }, {
-    "name": "松田 アレックス",
+    "name": "Matsuda Alex",
     "id": 1756012884,
     "icon": "npc1_052_01"
 }, {
-    "name": "富田 海良",
+    "name": "Tomita Kaira",
     "id": 3666509124,
     "icon": "npc1_053_01"
 }, {
@@ -11750,19 +11750,19 @@
     "id": 528126021,
     "icon": "npc1_016_01"
 }, {
-    "name": "サマンサ・T",
+    "name": "Samantha Toynbee",
     "id": 572176885,
     "icon": "npc1_061_01"
 }, {
-    "name": "ジェイムス・L",
+    "name": "James Loveless",
     "id": 2845747498,
     "icon": "npc1_062_01"
 }, {
-    "name": "ギュスターヴ・R",
+    "name": "Gustave Rejlander",
     "id": 2499707034,
     "icon": "npc1_063_01"
 }, {
-    "name": "エルヴィーネ・E",
+    "name": "Erwine Ehrhardt",
     "id": 3546217034,
     "icon": "npc1_064_01"
 }, {
@@ -11782,7 +11782,7 @@
     "id": 652106890,
     "icon": "npc1_918_01"
 }, {
-    "name": "凪",
+    "name": "Nagi",
     "id": 465466682,
     "icon": "npc1_918_01"
 }, {
@@ -11802,31 +11802,31 @@
     "id": 1604473663,
     "icon": "npc1_903_01"
 }, {
-    "name": "シャノアール",
+    "name": "Chat Noir",
     "id": 402794991,
     "icon": "npc1_065_01"
 }, {
-    "name": "アラーニェ",
+    "name": "Arachne",
     "id": 627179615,
     "icon": "npc1_066_01"
 }, {
-    "name": "ミラナ・ユリエフ",
+    "name": "Milana Yureva",
     "id": 2537741391,
     "icon": "npc1_045_01"
 }, {
-    "name": "ファンA",
+    "name": "Fan A",
     "id": 2854417919,
     "icon": "npc1_059_01"
 }, {
-    "name": "ファンB",
+    "name": "Fan B",
     "id": 3984756527,
     "icon": "npc1_058_01"
 }, {
-    "name": "ファンC",
+    "name": "Fan C",
     "id": 3504514719,
     "icon": "npc1_060_01"
 }, {
-    "name": "ファンD",
+    "name": "Fan D",
     "id": 1387409742,
     "icon": "npc1_037_01"
 }, {
@@ -11838,7 +11838,7 @@
     "id": 4141566276,
     "icon": "npc1_057_01"
 }, {
-    "name": "ミハイロフ・R",
+    "name": "Mikhail Mikhailov Ruchkin",
     "id": 2143767095,
     "icon": "npc1_047_01"
 }, {
@@ -11866,7 +11866,7 @@
     "id": 774804733,
     "icon": "npc1_070_01"
 }, {
-    "name": "オリバー",
+    "name": "Oliver",
     "id": 4035428247,
     "icon": "npc1_071_01"
 }, {
@@ -12022,11 +12022,11 @@
     "id": 1265886345,
     "icon": "npc1_088_01"
 }, {
-    "name": "金潟 すぐみ",
+    "name": "Kanagata Sugumi",
     "id": 3374543704,
     "icon": "npc1_086_01"
 }, {
-    "name": "新居目 安里",
+    "name": "Araime Yasuri",
     "id": 4098054888,
     "icon": "npc1_087_01"
 }, {
@@ -12090,7 +12090,7 @@
     "id": 3123009116,
     "icon": "npc1_999_01"
 }, {
-    "name": "オペレータA",
+    "name": "Operator A",
     "id": 947241357,
     "icon": "npc1_039_01"
 }, {
@@ -12098,7 +12098,7 @@
     "id": 2709295159,
     "icon": "npc1_039_02"
 }, {
-    "name": "オペレータB",
+    "name": "Operator B",
     "id": 85321789,
     "icon": "npc1_092_01"
 }, {
@@ -12106,19 +12106,19 @@
     "id": 2619128199,
     "icon": "npc1_092_02"
 }, {
-    "name": "オペレータC",
+    "name": "Operator C",
     "id": 3277412841,
     "icon": "npc1_093_01"
 }, {
-    "name": "仁紀藤 奏",
+    "name": "Nikitou Kanade",
     "id": 4265177177,
     "icon": "npc1_094_01"
 }, {
-    "name": "州天頃 椎奈",
+    "name": "Sutegoro Shiina",
     "id": 3113814665,
     "icon": "npc1_095_01"
 }, {
-    "name": "紺堂 地衛理",
+    "name": "Kondou Chieri",
     "id": 2230919993,
     "icon": "npc1_096_01"
 }, {
@@ -12134,7 +12134,7 @@
     "id": 2461042467,
     "icon": "npc1_100_01"
 }, {
-    "name": "オークレイJr.",
+    "name": "Oakley Jr.",
     "id": 1276750921,
     "icon": "npc1_101_01"
 }, {
@@ -12142,7 +12142,7 @@
     "id": 3574660595,
     "icon": "npc1_101_01"
 }, {
-    "name": "室江 央典",
+    "name": "Muroe Nakanori",
     "id": 1903789561,
     "icon": "npc1_102_01"
 }, {
@@ -12246,7 +12246,7 @@
     "id": 2443326649,
     "icon": "npc1_024_01"
 }, {
-    "name": "ピッピ",
+    "name": "Pipi",
     "id": 2898402569,
     "icon": "npc1_024_01"
 }, {
@@ -12494,7 +12494,7 @@
     "id": 4124773300,
     "icon": "chr5_054_04"
 }, {
-    "name": "九炉鉄 悠都",
+    "name": "Kurogane Yuuto",
     "id": 1825724942,
     "icon": "chr5_054_04"
 }, {
@@ -12574,7 +12574,7 @@
     "id": 3429709329,
     "icon": "chr5_045_02"
 }, {
-    "name": "藤野 やよい",
+    "name": "Fujino Yayoi",
     "id": 4044169121,
     "icon": "npc1_133_01"
 }, {
@@ -12910,7 +12910,7 @@
     "id": 3846715759,
     "icon": "npc1_902_01"
 }, {
-    "name": "沈 成江",
+    "name": "Shen Chengjiang",
     "id": 587499707,
     "icon": "npc1_179_01"
 }, {
@@ -13118,7 +13118,7 @@
     "id": 2951401636,
     "icon": "npc1_999_01"
 }, {
-    "name": "リタ・H",
+    "name": "Rita Henschel",
     "id": 2458581268,
     "icon": "npc1_200_01"
 }, {
@@ -13274,15 +13274,15 @@
     "id": 4270766162,
     "icon": "npc1_024_01"
 }, {
-    "name": "須賀 乙莉",
+    "name": "Suga Itsuri",
     "id": 3287192034,
     "icon": "chr5_050_04"
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 1102972467,
     "icon": "npc1_999_01"
 }, {
-    "name": "アンジェリカ・G",
+    "name": "Angelica Glazunova",
     "id": 3635894153,
     "icon": "chr5_037_02"
 }, {
@@ -13290,7 +13290,7 @@
     "id": 2094935939,
     "icon": "chr5_035_04"
 }, {
-    "name": "我龍 絵美",
+    "name": "Garyuu Emi",
     "id": 3130170967,
     "icon": "chr5_042_04"
 }, {
@@ -13302,7 +13302,7 @@
     "id": 2280830951,
     "icon": "chr5_617_70"
 }, {
-    "name": "天狐 天",
+    "name": "Tenko Sora",
     "id": 3226651959,
     "icon": "chr5_043_04"
 }, {
@@ -13310,7 +13310,7 @@
     "id": 1499176077,
     "icon": "chr5_043_04"
 }, {
-    "name": "宮南 ひかり",
+    "name": "Miyaminami Hikari",
     "id": 4247970951,
     "icon": "chr5_041_04"
 }, {

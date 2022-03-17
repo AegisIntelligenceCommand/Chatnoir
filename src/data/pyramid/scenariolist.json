@@ -4291,117 +4291,117 @@
   "nameKey": "story",
   "list": [{
     "id": "1975531917",
-    "name": "黎明編",
+    "name": "Dawn",
     "list": [{
       "id": "000",
       "name": "Prologue",
       "list": [{
-        "id": "story_000",
+        "id": "story_0-0-0",
         "name": "Prologue",
         "type": "story"
       }]
     }, {
       "id": "4009364610",
-      "name": "成子坂製作所",
+      "name": "Narukozaka Manufacturing",
       "list": [{
-        "id": "story_001002001N",
-        "name": "1 憧れのアクトレス",
+        "id": "story_1-1-1",
+        "name": "1: Aspired Actress",
         "type": "story"
       }, {
-        "id": "story_001002003N",
-        "name": "3 アクトレスのお仕事",
+        "id": "story_1-1-3",
+        "name": "3: An Actress' Work",
         "type": "story"
       }, {
-        "id": "story_001002004N",
-        "name": "5 赤字!?",
+        "id": "story_1-1-5",
+        "name": "5: In the Red!?",
         "type": "story"
       }, {
-        "id": "story_001002005N",
-        "name": "7 大型をねらえ！",
+        "id": "story_1-1-7",
+        "name": "7: Aim for the Heavy-class!",
         "type": "story"
       }, {
-        "id": "story_001002006N",
-        "name": "9 ヴァイスを探知せよ！",
+        "id": "story_1-1-9",
+        "name": "9: Detect the Vice",
         "type": "story"
       }, {
-        "id": "story_001002007N",
-        "name": "11 神様、お願い",
+        "id": "story_1-1-11",
+        "name": "11: Dear God, Please",
         "type": "story"
       }, {
-        "id": "story_001002008N",
-        "name": "13 打倒！　叢雲工業",
+        "id": "story_1-1-13",
+        "name": "13: Overthrow! Murakumo Industries",
         "type": "story"
       }]
     }, {
       "id": "2012437816",
-      "name": "憧れは遠く",
+      "name": "A Distant Longing",
       "list": [{
-        "id": "story_001003001N",
-        "name": "14 ライバルの新型装備",
+        "id": "story_1-2-14",
+        "name": "14: The Rival's New Equipment",
         "type": "story"
       }, {
-        "id": "story_001003002N",
-        "name": "15 先進技術と現行技術",
+        "id": "story_1-2-15",
+        "name": "15: Advanced Tech Versus Current Tech",
         "type": "story"
       }, {
-        "id": "story_001003003N",
-        "name": "17 過去の栄光",
+        "id": "story_1-2-17",
+        "name": "17: Foregone Glory",
         "type": "story"
       }, {
-        "id": "story_001003004N",
-        "name": "19 成子坂の秘密兵器",
+        "id": "story_1-2-19",
+        "name": "19: Narukozaka's Secret Weapon",
         "type": "story"
       }, {
-        "id": "story_001003005N",
-        "name": "21 業績好調！",
+        "id": "story_1-2-21",
+        "name": "21: Promising Results!",
         "type": "story"
       }, {
-        "id": "story_001003006N",
-        "name": "23 ラッキーガールよつゆちゃん",
+        "id": "story_1-2-23",
+        "name": "23: Lucky Girl Yotsuyu",
         "type": "story"
       }, {
-        "id": "story_001003007N",
-        "name": "25 敵に願いを",
+        "id": "story_1-2-25",
+        "name": "25: Wishes to the Enemies",
         "type": "story"
       }, {
-        "id": "story_001003008N",
-        "name": "27 ある疑惑",
+        "id": "story_1-2-27",
+        "name": "27: A Certain Suspicion",
         "type": "story"
       }]
     }, {
       "id": "16018862",
-      "name": "月に叢雲、花に風",
+      "name": "Tsuki ni Murakumo, Hana ni Kaze",
       "list": [{
-        "id": "story_001004001N",
-        "name": "28 不自然な理由",
+        "id": "story_1-3-28",
+        "name": "28: Unnatural Explanations",
         "type": "story"
       }, {
-        "id": "story_001004002N",
-        "name": "29 シャード外壁調査",
+        "id": "story_1-3-29",
+        "name": "29: Shard Outer Wall Investigation",
         "type": "story"
       }, {
-        "id": "story_001004003N",
-        "name": "31 確信と再調査",
+        "id": "story_1-3-31",
+        "name": "31: Confirmation and Reinvestigation",
         "type": "story"
       }, {
-        "id": "story_001004004N",
-        "name": "33 決定的証拠",
+        "id": "story_1-3-33",
+        "name": "33: Decisive Evidence",
         "type": "story"
       }, {
-        "id": "story_001004005N",
-        "name": "35 罰としてゴミ掃除！",
+        "id": "story_1-3-35",
+        "name": "35: As Punishment, Clean Up the Trash",
         "type": "story"
       }, {
-        "id": "story_001004006N",
-        "name": "37 ヴァイス襲来",
+        "id": "story_1-3-37",
+        "name": "37: Vice Incursion",
         "type": "story"
       }, {
-        "id": "story_001004007N",
-        "name": "38 成子坂緊急出動！",
+        "id": "story_1-3-38",
+        "name": "38: Narukozaka's Emergency Deployment!",
         "type": "story"
       }, {
-        "id": "story_001004008N",
-        "name": "40 逆転する世界",
+        "id": "story_1-3-40",
+        "name": "40: Upturned World",
         "type": "story"
       }]
     }]
