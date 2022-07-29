@@ -4407,261 +4407,261 @@
     }]
   }, {
     "id": "3972622391",
-    "name": "躍進編",
+    "name": "Advancement",
     "list": [{
       "id": "2660300813",
-      "name": "新生！成子坂製作所",
+      "name": "Narukozaka, Reborn!",
       "list": [{
-        "id": "story_002005001N",
-        "name": "41 経営統合",
+        "id": "story_2-1-41",
+        "name": "41: Business Merger",
         "type": "story"
       }, {
-        "id": "story_002005002N",
-        "name": "42 主役交代!?",
+        "id": "story_2-1-42",
+        "name": "42: Protagonist Shift!?",
         "type": "story"
       }, {
-        "id": "story_002005004N",
-        "name": "45 それがいまの成子坂",
+        "id": "story_2-1-45",
+        "name": "45: That's How Narukozaka Is Right Now",
         "type": "story"
       }, {
-        "id": "story_002005007N",
-        "name": "49 出撃志願",
+        "id": "story_2-1-49",
+        "name": "49: Sortie Request",
         "type": "story"
       }, {
-        "id": "story_002005008N",
-        "name": "51 これからはずっと……",
+        "id": "story_2-1-51",
+        "name": "51: From Now On, and Evermore...",
         "type": "story"
       }]
     }, {
       "id": "3919038619",
-      "name": "初めての後輩",
+      "name": "Their First Juniors",
       "list": [{
-        "id": "story_002006001N",
-        "name": "52 花香り、風立ちぬ",
+        "id": "story_2-2-52",
+        "name": "52: Fragrant Blossoms, Rising Wind",
         "type": "story"
       }, {
-        "id": "story_002006002N",
-        "name": "53 わたしたちも！",
+        "id": "story_2-2-53",
+        "name": "53: Us too",
         "type": "story"
       }, {
-        "id": "story_002006003N",
-        "name": "55 先輩アクトレス",
+        "id": "story_2-2-55",
+        "name": "55: Actress Senior",
         "type": "story"
       }, {
-        "id": "story_002006005N",
-        "name": "58 成子坂製作所第一次装備強化計画",
+        "id": "story_2-2-58",
+        "name": "58: First Narukozaka Equipment Upgrade Plan",
         "type": "story"
       }, {
-        "id": "story_002006006N",
-        "name": "60 百科文嘉の懊悩",
+        "id": "story_2-2-60",
+        "name": "60: The Suffering of Momoshina Fumika",
         "type": "story"
       }, {
-        "id": "story_002006007N",
-        "name": "62 会議は華やぐ、されど決まらず",
+        "id": "story_2-2-62",
+        "name": "62: All Talk, No Results",
         "type": "story"
       }, {
-        "id": "story_002006008N",
-        "name": "64 帰ってきたアクトレス",
+        "id": "story_2-2-64",
+        "name": "64: The Returning Actress",
         "type": "story"
       }]
     }, {
       "id": "1889442081",
-      "name": "激闘！新宿エリア防衛戦",
+      "name": "Battle! Defense of Shinjuku",
       "list": [{
-        "id": "story_002007001N",
-        "name": "65 ポイントが足りません",
+        "id": "story_2-3-65",
+        "name": "65: Not Enough Points",
         "type": "story"
       }, {
-        "id": "story_002007002N",
-        "name": "66 発進!! 成子坂の最終兵器！",
+        "id": "story_2-3-66",
+        "name": "66: Take Off! Narukozaka's Trump Card!",
         "type": "story"
       }, {
-        "id": "story_002007005N",
-        "name": "69 新たなる任務",
+        "id": "story_2-3-69",
+        "name": "69: New Directive",
         "type": "story"
       }, {
-        "id": "story_002007008N",
-        "name": "74 叢雲を継ぐ者",
+        "id": "story_2-3-74",
+        "name": "74: Murakumo's Successor",
         "type": "story"
       }]
     }, {
       "id": "127510967",
-      "name": "係争！聖アマルテア女学院",
+      "name": "Dispute! St. Amalthea Girls Academy",
       "list": [{
-        "id": "story_002008001N",
-        "name": "75 来訪！聖アマルテア女学院生徒会",
+        "id": "story_2-4-75",
+        "name": "75: Visit! St. Amalthea Student Council",
         "type": "story"
       }, {
-        "id": "story_002008002N",
-        "name": "76 AEGiSの裁定",
+        "id": "story_2-4-76",
+        "name": "76: AEGiS' Ruling",
         "type": "story"
       }, {
-        "id": "story_002008003N",
-        "name": "78 係争開始",
+        "id": "story_2-4-78",
+        "name": "78: Contest Begins",
         "type": "story"
       }, {
-        "id": "story_002008004N",
-        "name": "80 殴り込みは、ゆるふわに",
+        "id": "story_2-4-80",
+        "name": "80: Stirring Up the Nest with a Soft Touch",
         "type": "story"
       }, {
-        "id": "story_002008005N",
-        "name": "82 実況アクトレス中継！",
+        "id": "story_2-4-82",
+        "name": "82: Actress Live Broadcast!",
         "type": "story"
       }, {
-        "id": "story_002008006N",
-        "name": "84 風紀委員長の抜き打ち検査",
+        "id": "story_2-4-84",
+        "name": "84: The Disciplinary Officer's Surprise Inspection",
         "type": "story"
       }, {
-        "id": "story_002008007N",
-        "name": "86 生徒会長の祝福",
+        "id": "story_2-4-86",
+        "name": "86: The Student Council President's Blessings",
         "type": "story"
       }, {
-        "id": "story_002008008N",
-        "name": "88 獣の本性",
+        "id": "story_2-4-88",
+        "name": "88: True Nature of the Beast",
         "type": "story"
       }]
     }, {
       "id": "2535896102",
-      "name": "喪失と獲得",
+      "name": "Losses and Gains",
       "list": [{
-        "id": "story_002009001N",
-        "name": "89 24時間戦えますか？",
+        "id": "story_2-5-89",
+        "name": "89: Would You Fight 24/7?",
         "type": "story"
       }, {
-        "id": "story_002009002N",
-        "name": "90 誰かいいひと、いませんか？",
+        "id": "story_2-5-90",
+        "name": "90: Would You Happen to Know Anyone?",
         "type": "story"
       }, {
-        "id": "story_002009003N",
-        "name": "92 友だちアクトレス作戦",
+        "id": "story_2-5-92",
+        "name": "92: Operation Recruit-a-Friend",
         "type": "story"
       }, {
-        "id": "story_002009004N",
-        "name": "94 期待の新人",
+        "id": "story_2-5-94",
+        "name": "94: Awaited Newbie",
         "type": "story"
       }, {
-        "id": "story_002009005N",
-        "name": "96 二子玉舞",
+        "id": "story_2-5-96",
+        "name": "96: Nikotama Mai",
         "type": "story"
       }, {
-        "id": "story_002009006N",
-        "name": "98 ふたりの特訓",
+        "id": "story_2-5-98",
+        "name": "98: The Two's Special Training",
         "type": "story"
       }, {
-        "id": "story_002009007N",
-        "name": "100 シタこれ！",
+        "id": "story_2-5-100",
+        "name": "100: SitaColle!",
         "type": "story"
       }, {
-        "id": "story_002009008N",
-        "name": "102 新チーム結成！",
+        "id": "story_2-5-102",
+        "name": "102: Birth of a New Team!",
         "type": "story"
       }]
     }, {
       "id": "3760293040",
-      "name": "韻律の帝国",
+      "name": "Empire of Rhythm",
       "list": [{
-        "id": "story_002010001N",
-        "name": "103 中野からの使者",
+        "id": "story_2-6-103",
+        "name": "103: Envoy from Nakano",
         "type": "story"
       }, {
-        "id": "story_002010002N",
-        "name": "104 因縁",
+        "id": "story_2-6-104",
+        "name": "104: Shared History",
         "type": "story"
       }, {
-        "id": "story_002010003N",
-        "name": "106 追いかけて成子坂",
+        "id": "story_2-6-106",
+        "name": "106: Narukozaka on the Case",
         "type": "story"
       }, {
-        "id": "story_002010004N",
-        "name": "108 株式会社エンパイア中野",
+        "id": "story_2-6-108",
+        "name": "108: Empire Nakano Ltd.",
         "type": "story"
       }, {
-        "id": "story_002010005N",
-        "name": "110 江古田のアイドル、現る",
+        "id": "story_2-6-110",
+        "name": "110: Enter the Idol of Egota",
         "type": "story"
       }, {
-        "id": "story_002010006N",
-        "name": "112 中野からの挑戦状",
+        "id": "story_2-6-112",
+        "name": "112: Challenge from Nakano",
         "type": "story"
       }, {
-        "id": "story_002010007N",
-        "name": "114 激突!?　ゆみとやよい",
+        "id": "story_2-6-114",
+        "name": "114: Clash!? Yumi Versus Yayoi",
         "type": "story"
       }, {
-        "id": "story_002010008N",
-        "name": "116 迎えた大団円？",
+        "id": "story_2-6-116",
+        "name": "116: All's Well that Ends Well?",
         "type": "story"
       }]
     }, {
       "id": "2162560341",
-      "name": "成子坂、業務停止!?",
+      "name": "Narukozaka's Operations: Suspended!?",
       "list": [{
-        "id": "story_002011001N",
-        "name": "117 規定違反",
+        "id": "story_2-7-117",
+        "name": "117: Breach of Regulations",
         "type": "story"
       }, {
-        "id": "story_002011002N",
-        "name": "118 君がいない店",
+        "id": "story_2-7-118",
+        "name": "118: The Store Without You",
         "type": "story"
       }, {
-        "id": "story_002011003N",
-        "name": "120 資格がない！",
+        "id": "story_2-7-120",
+        "name": "120: No License!",
         "type": "story"
       }, {
-        "id": "story_002011004N",
-        "name": "122 愛弟子",
+        "id": "story_2-7-122",
+        "name": "122: Dear Disciple",
         "type": "story"
       }, {
-        "id": "story_002011005N",
-        "name": "124 バージニア・グリンベレー",
+        "id": "story_2-7-124",
+        "name": "124: Virginia Glynnberets",
         "type": "story"
       }, {
-        "id": "story_002011006N",
-        "name": "126 業務改善勧告",
+        "id": "story_2-7-126",
+        "name": "126: Recommendation for Workplace Improvement",
         "type": "story"
       }, {
-        "id": "story_002011007N",
-        "name": "128 見つからない管理栄養士",
+        "id": "story_2-7-128",
+        "name": "128: Dietitian Not Found",
         "type": "story"
       }, {
-        "id": "story_002011008N",
-        "name": "130 面影は遠く",
+        "id": "story_2-7-130",
+        "name": "130: A Far Cry in Looks",
         "type": "story"
       }]
     }, {
       "id": "4158733763",
-      "name": "策謀！赤坂エリア争奪戦",
+      "name": "Conspire! Battle for Akasaka",
       "list": [{
-        "id": "story_002012001N",
-        "name": "131 双子からの挑戦状",
+        "id": "story_2-8-131",
+        "name": "131: A Challenge from the Twins",
         "type": "story"
       }, {
-        "id": "story_002012002N",
-        "name": "132 ノーブルヒルズ・ホールディングス",
+        "id": "story_2-8-132",
+        "name": "132: Noble Hills Holdings",
         "type": "story"
       }, {
-        "id": "story_002012003N",
-        "name": "134 新チーム結成☆",
+        "id": "story_2-8-134",
+        "name": "134: Birth of a New Team ☆",
         "type": "story"
       }, {
-        "id": "story_002012004N",
-        "name": "136 双子の謀略",
+        "id": "story_2-8-136",
+        "name": "136: The Twins' Stratagem",
         "type": "story"
       }, {
-        "id": "story_002012005N",
-        "name": "138 迷える妹",
+        "id": "story_2-8-139",
+        "name": "138: Lost Little Sister",
         "type": "story"
       }, {
-        "id": "story_002012006N",
-        "name": "140 怒れる姉",
+        "id": "story_2-8-140",
+        "name": "140: Angry Big Sister",
         "type": "story"
       }, {
-        "id": "story_002012007N",
-        "name": "142 双頭の盾",
+        "id": "story_2-8-142",
+        "name": "142: Two-headed Shield",
         "type": "story"
       }, {
-        "id": "story_002012008N",
-        "name": "144 ふたつの姉妹",
+        "id": "story_2-8-144",
+        "name": "144: Of Two Sisters",
         "type": "story"
       }]
     }]
