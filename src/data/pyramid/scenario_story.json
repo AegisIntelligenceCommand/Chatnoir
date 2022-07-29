@@ -174,39 +174,6 @@
             {
               "chara": 1837165762,
               "text": "You weren't a senior staff member?"
-            },
-            {
-              "chara": 1837165762,
-              "size": "1.4",
-              "text": "For real!?"
-            },
-            {
-              "chara": 1837165762,
-              "size": "1.4",
-              "text": "I'm so sorry!"
-            },
-            {
-              "chara": 1837165762,
-              "text": "I thought I heard an Actress Commander would be here today, I must've gotten it mixed up!"
-            }
-          ]
-        },
-        {
-          "command": "I'm new here too.",
-          "items": [
-            {
-              "chara": 1837165762,
-              "size": "1.4",
-              "text": "For real!?"
-            },
-            {
-              "chara": 1837165762,
-              "size": "1.4",
-              "text": "I'm so sorry!"
-            },
-            {
-              "chara": 1837165762,
-              "text": "I thought I heard an Actress Commander would be here today, I must've gotten it mixed up!"
             }
           ]
         }
@@ -2008,84 +1975,6 @@
               "chara": 1837165762,
               "size": "1.3",
               "text": "You want to try on cool gear like that too, right!?"
-            },
-            {
-              "chara": 3577514919,
-              "size": "1.2",
-              "text": "Wait, really!?"
-            },
-            {
-              "chara": 3577514919,
-              "size": "1.2",
-              "text": "The, the Commander dressed up as an Actress!?"
-            },
-            {
-              "chara": 2134197036,
-              "size": "1.2",
-              "text": "Are you for real?"
-            },
-            {
-              "chara": 1837165762,
-              "text": "Ahaha..."
-            },
-            {
-              "chara": 1837165762,
-              "text": "I feel a little bad now for starting this."
-            }
-          ]
-        },
-        {
-          "command": "Yeah, for sure!",
-          "items": [
-            {
-              "chara": 3577514919,
-              "size": "1.2",
-              "text": "Wait, really!?"
-            },
-            {
-              "chara": 3577514919,
-              "size": "1.2",
-              "text": "The, the Commander dressed up as an Actress!?"
-            },
-            {
-              "chara": 2134197036,
-              "size": "1.2",
-              "text": "Are you for real?"
-            },
-            {
-              "chara": 1837165762,
-              "text": "Ahaha..."
-            },
-            {
-              "chara": 1837165762,
-              "text": "I feel a little bad now for starting this."
-            }
-          ]
-        },
-        {
-          "command": "That's a little...",
-          "items": [
-            {
-              "chara": 1837165762,
-              "text": "Aw, I thought you'd understand for sure."
-            },
-            {
-              "chara": 1837165762,
-              "size": "1.3",
-              "text": "Please give it a try though!"
-            },
-            {
-              "chara": 1837165762,
-              "size": "1.3",
-              "text": "I'm sure it'll look great on you!"
-            },
-            {
-              "chara": 3577514919,
-              "text": "Ah~hahaha..."
-            },
-            {
-              "chara": 2134197036,
-              "text": "That's impossible, you know."
             }
           ]
         }
@@ -8377,13 +8266,14 @@
       "commands": [
         {
           "command": "What kind of directive?",
-          "items": []
+          "items": [
+            {
+              "chara": 3969299833,
+              "text": "We would like you to conduct large-scale investigations of the various sectors of space in the vicinity of our Tokyo Shard, whenever necessary."
+            }
+          ]
         }
       ]
-    },
-    {
-      "chara": 3969299833,
-      "text": "We would like you to conduct large-scale investigations of the various sectors of space in the vicinity of our Tokyo Shard, whenever necessary."
     },
     {
       "chara": 3969299833,
@@ -9355,23 +9245,23 @@
       "type": 99
     },
     {
-      "chara": 2151489780,
+      "chara": 501880909,
       "text": "Ghhh! Narukozaka's losing here!"
     },
     {
-      "chara": 257931171,
+      "chara": 2151489780,
       "text": "Uoooh-! We're not gonna lose-!"
     },
     {
-      "chara": 501880909,
+      "chara": 257931171,
       "text": "Like I said, you two are getting too close to the TV!"
     },
     {
-      "chara": 2151489780,
+      "chara": 501880909,
       "text": "Commander! We should go for the Heavy-class too!"
     },
     {
-      "chara": 2458423066,
+      "chara": 2151489780,
       "text": "Turn it around with a bang-!"
     },
     {
@@ -9379,19 +9269,19 @@
       "text": "Rin, Yotsuyu, please refrain from troubling the Commander like that."
     },
     {
-      "chara": 501880909,
+      "chara": 2458423066,
       "text": "With no Heavy-class Vice in the areas we are responsible for, there is nothing we can do."
     },
     {
-      "chara": 2151489780,
+      "chara": 501880909,
       "text": "That I do get, but it's hard not to feel antsy about the contest."
     },
     {
-      "chara": 2458423066,
+      "chara": 2151489780,
       "text": "We're falling behind and all!"
     },
     {
-      "chara": 501880909,
+      "chara": 2458423066,
       "text": "An opportunity will reveal itself eventually, I am certain. Let us be patient and wait until that moment."
     }
   ],
@@ -14775,7 +14665,7 @@
       "text": "I'm Yorishiro Eri. Nice t' meet ya, Mister Commander."
     },
     {
-      "chara": null,
+      "type": 3,
       "text": "The Sniping Shaman\nYorishiro Eri"
     },
     {
@@ -14869,6 +14759,10 @@
               "text": "I'll quit the company!"
             },
             {
+              "type": 3,
+              "text": "This, predictably, startles Kaede and Eri."
+            },
+            {
               "chara": 3806493589,
               "text": "Yotsuyu, is that line of thought not a bit too rash-"
             },
@@ -14906,10 +14800,6 @@
     },
     {
       "type": 3,
-      "text": "This, predictably, startles Kaede and Eri."
-    },
-    {
-      "type": 3,
       "text": "Eri comes up to you..."
     },
     {
@@ -14937,7 +14827,7 @@
       "text": "Yotsuyu, hold on. Our next sortie is soon."
     },
     {
-      "chara": null,
+      "type": 3,
       "text": "...and Kaede watches in silence, her words falling on deaf ears."
     },
     {
@@ -15310,11 +15200,6 @@
               "chara": 3577514919,
               "size": "1.3",
               "text": "Thanks Commander! Love you so much!"
-            },
-            {
-              "chara": 2134197036,
-              "size": "1.3",
-              "text": "What, trying to talk yourself out of this?"
             }
           ]
         },
@@ -15325,16 +15210,6 @@
               "chara": 3577514919,
               "size": "1.3",
               "text": "Don't worry! You can leave the Fumika-wrangling to me!"
-            }
-          ]
-        },
-        {
-          "command": "To be fair, Sitara and Yotsuyu were the ones who brought them here.",
-          "items": [
-            {
-              "chara": 2134197036,
-              "size": "1.3",
-              "text": "What, trying to talk yourself out of this?"
             }
           ]
         }
