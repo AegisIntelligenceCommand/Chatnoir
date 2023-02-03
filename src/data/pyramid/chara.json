@@ -6342,7 +6342,7 @@
     "rare": 4
   },
   {
-    "name": "アクトレス076",
+    "name": "Ohtori Kasumi",
     "id": 3179244467,
     "image": "chr3_076_01",
     "icon": "chr4_076_01",
@@ -6356,7 +6356,7 @@
     "rare": 1
   },
   {
-    "name": "アクトレス076",
+    "name": "Ohtori Kasumi",
     "id": 611727881,
     "image": "chr3_076_02",
     "icon": "chr4_076_02",
@@ -6370,7 +6370,7 @@
     "rare": 2
   },
   {
-    "name": "アクトレス076",
+    "name": "Ohtori Kasumi",
     "id": 3440746300,
     "image": "chr3_076_04",
     "icon": "chr4_076_04",
@@ -6384,7 +6384,7 @@
     "rare": 3
   },
   {
-    "name": "アクトレス076",
+    "name": "Ohtori Kasumi",
     "id": 3121786794,
     "image": "chr3_076_05",
     "icon": "chr4_076_05",
@@ -15138,12 +15138,12 @@
     "icon": "npc1_137_01"
   },
   {
-    "name": "うしみちゃん",
+    "name": "Ushimi-chan",
     "id": 1083285348,
     "icon": "npc1_138_01"
   },
   {
-    "name": "びふみちゃん",
+    "name": "Bifumi-chan",
     "id": 3267430581,
     "icon": "npc1_139_01"
   },
@@ -15163,7 +15163,7 @@
     "icon": "npc1_142_01"
   },
   {
-    "name": "Viewer",
+    "name": "The Audience",
     "id": 151603816,
     "icon": "npc1_024_01"
   },
@@ -16038,7 +16038,7 @@
     "icon": "npc1_235_01"
   },
   {
-    "name": "馴原 桐",
+    "name": "Narehara Kiri",
     "id": 2002399224,
     "icon": "npc1_236_01"
   },

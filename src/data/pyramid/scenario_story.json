@@ -65,7 +65,7 @@
   },
   {
     "chara": 632077852,
-    "text": "Where am... I...?\\\nWhere is... everyone...?"
+    "text": "Where am... I...?\nWhere is... everyone...?"
   },
   {
     "chara": 632077852,
@@ -126,8 +126,28 @@
     "text": "Yotsuyu pumps herself up and enters the Narukozaka building..."
   },
   {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "I'm Hirasaka Yotsuyu, a newbie Actress!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "I'll be working here at Narukozaka Manufacturing starting today!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "I'm 15 this year with an Actress license, and in my first year of high school right now!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Looking forward to working with everyone!"
+  },
+  {
     "type": 3,
-    "text": "Narukozaka's Newbie Actress\\\nHirasaka Yotsuyu"
+    "text": "Narukozaka's Newbie Actress\nHirasaka Yotsuyu"
   },
   {
     "type": 3,
@@ -189,7 +209,7 @@
   },
   {
     "type": 3,
-    "text": "Narukozaka's Boisterous Geek\\\nKaneshiya Sitara"
+    "text": "Narukozaka's Boisterous Geek\nKaneshiya Sitara"
   },
   {
     "chara": 2134197036,
@@ -197,7 +217,7 @@
   },
   {
     "type": 3,
-    "text": "Carrot, Stick and Encyclopedia\\\nMomoshina Fumika"
+    "text": "Carrot, Stick and Encyclopedia\nMomoshina Fumika"
   },
   {
     "chara": 2134197036,
@@ -409,7 +429,7 @@
   },
   {
     "chara": 2773909288,
-    "text": "Roger dodger~ ♪\\\nTarget in my sights~"
+    "text": "Roger dodger~ ♪\nTarget in my sights~"
   },
   {
     "chara": 501880909,
@@ -514,6 +534,21 @@
   },
   {
     "type": 99
+  },
+  {
+    "chara": 501880909,
+    "size": "1.4",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 257931171,
+    "size": "1.4",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 2773909288,
+    "size": "1.4",
+    "text": "Eeeeeeeeeh~!?"
   }
 ],
 "story_1-1-1": [
@@ -590,11 +625,26 @@
   },
   {
     "chara": 1837165762,
+    "size": "1.2",
+    "text": "Ah~\nHow amazing~"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.4",
+    "text": "Agatsuma Kaede, huh..."
+  },
+  {
+    "chara": 1837165762,
     "text": "We're about the same age, but she's a top Actress already!"
   },
   {
     "chara": 2134197036,
     "text": "...Yotsuyu. You're getting too close to the TV..."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Ah-\nSorry"
   },
   {
     "type": 1,
@@ -668,6 +718,16 @@
     "text": "That aside, I hope you understand that nobody can say what will happen to us all."
   },
   {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Eh- Am I gonna get fired right after landing the job?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "What's going to happen to us, Commander?"
+  },
+  {
     "type": 2,
     "commands": [
       {
@@ -675,7 +735,7 @@
         "items": [
           {
             "chara": 1837165762,
-            "text": "Oh thank god...\\\nThat's good to hear!"
+            "text": "Oh thank god...\nThat's good to hear!"
           },
           {
             "chara": 2134197036,
@@ -711,7 +771,7 @@
   },
   {
     "type": 3,
-    "text": "Narukozaka Manufacturing Alice Gear Engineering Department Head\\\nIwata Souichirou"
+    "text": "Narukozaka Manufacturing Alice Gear Engineering Department Head\nIwata Souichirou"
   },
   {
     "chara": 954290421,
@@ -739,7 +799,7 @@
   },
   {
     "type": 3,
-    "text": "Department Engineer\\\nSuzuki Aruto"
+    "text": "Department Engineer\nSuzuki Aruto"
   },
   {
     "chara": 92371269,
@@ -851,8 +911,23 @@
     "type": 99
   },
   {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "Head Engineer Iwata~\nDid you make that Heavy-class detector we asked for?"
+  },
+  {
+    "chara": 954290421,
+    "size": "1.05",
+    "text": "'Course not! Yer think a miracle machine like that actually exists?!"
+  },
+  {
     "chara": 954290421,
     "text": "The hell's this request anyways?!"
+  },
+  {
+    "chara": 954290421,
+    "size": "1.05",
+    "text": "Yer'all dreamin' in broad daylight now?!"
   },
   {
     "chara": 257931171,
@@ -888,7 +963,7 @@
   },
   {
     "chara": 2773909288,
-    "text": "Auuugh...\\\nEven Iwata, the God of the Engineering Department, can't save us..."
+    "text": "Auuugh...\nEven Iwata, the God of the Engineering Department, can't save us..."
   },
   {
     "chara": 257931171,
@@ -1236,6 +1311,21 @@
     "text": "To get to the point:"
   },
   {
+    "chara": 2134197036,
+    "size": "1.7",
+    "text": "We are running at a <color=#f26b6bff>loss</color>!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "A <color=#f26b6bff>loss</color>!?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "A <color=#f26b6bff>loss</color>!?"
+  },
+  {
     "chara": 1837165762,
     "text": "Huh? We weren't making money at all?"
   },
@@ -1346,6 +1436,11 @@
   {
     "type": 3,
     "text": "Yotsuyu comes up to you."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.1",
+    "text": "Commander, please!"
   }
 ],
 "story_1-1-7": [
@@ -1566,6 +1661,11 @@
     "text": "It would certainly be helpful if we could predict their appearances somehow..."
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "That's it!"
+  },
+  {
     "chara": 2134197036,
     "text": "What is it this time?"
   },
@@ -1584,6 +1684,11 @@
   {
     "chara": 3577514919,
     "text": "Not <i>that</i>, a Heavy-class detector!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "A \"Vice Radar\"!"
   },
   {
     "chara": 3577514919,
@@ -1620,6 +1725,11 @@
   {
     "chara": 3577514919,
     "text": "You know the staple scenes where the mechanics get their spotlight."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Like, \"I figured you'd be needing this!\""
   },
   {
     "chara": 3577514919,
@@ -1695,6 +1805,11 @@
         ]
       }
     ]
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Figured we'd get to this point, so..."
   },
   {
     "chara": 3577514919,
@@ -1777,6 +1892,16 @@
     "type": 99
   },
   {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Sitara! Fumika! Check this out!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Kaede and her team are getting new equipment!"
+  },
+  {
     "chara": 2134197036,
     "text": "I saw, yes."
   },
@@ -1803,6 +1928,26 @@
   {
     "chara": 2134197036,
     "text": "Alright, alright."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Ghhh-! What's with the cold shoulder?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "C'mon, show a bit more excitement-!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Hey Commander!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "You saw the news too, right?"
   },
   {
     "type": 2,
@@ -1882,6 +2027,26 @@
   {
     "chara": 2134197036,
     "text": "Their Actresses are the best of the best, led by Kaede of all people!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "And they're using powerful leading-edge equipment!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.1",
+    "text": "They got stylish designer-model Combat Suits too!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "And furthermore! They have an officially-authorized monopoly on all Heavy-class Vice combat missions too!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "I'm not seeing any way Narukozaka can win against all this!"
   },
   {
     "chara": 1837165762,
@@ -2290,6 +2455,21 @@
     "text": "Which part of this is going great!?"
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "\"It's all over!\""
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "\"There's no way out of this pinch!\""
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "That's the kind of situation where it's standard for the protags to make a comeback, y'see~"
+  },
+  {
     "chara": 2134197036,
     "text": "And how exactly would one make said comeback?"
   },
@@ -2647,6 +2827,16 @@
     "type": 99
   },
   {
+    "chara": 1837165762,
+    "size": "1.5",
+    "text": "Nnnnh..."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.1",
+    "text": "Really does feel like a Heavy-class shows up every few sorties."
+  },
+  {
     "chara": 2134197036,
     "text": "Our encounter and takedown rates have both increased since you joined us."
   },
@@ -2659,6 +2849,16 @@
     "text": "Sitara taps away at a workstation..."
   },
   {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Lemme see-"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Whoa! That's over 5 times the old energy gain!"
+  },
+  {
     "chara": 2134197036,
     "text": "What's this 'energy gain' you're speaking of..."
   },
@@ -2667,8 +2867,23 @@
     "text": "What're you looking at?"
   },
   {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "A chart on Murakumo's financial performance."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Ours isn't too shabby either, but theirs is in a whole other world of their own."
+  },
+  {
     "chara": 2134197036,
     "text": "While Narukozaka's performance is trending upwards slightly, Murakumo's drastic increases have no signs of stopping at all..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Seeing it laid out like this makes it all feel so much clearer~"
   },
   {
     "chara": 2134197036,
@@ -2823,7 +3038,7 @@
   },
   {
     "type": 3,
-    "text": "The Photojournalist Zooming Across the Universe\\\nJinguji Mari"
+    "text": "The Photojournalist Zooming Across the Universe\nJinguji Mari"
   },
   {
     "chara": 954290421,
@@ -2900,6 +3115,11 @@
   {
     "chara": 954290421,
     "text": "Must've got geniuses in their teams then."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.4",
+    "text": "Or, perhaps, \"restricted research\"..."
   },
   {
     "chara": 3175708457,
@@ -3035,6 +3255,11 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.4",
+    "text": "Guess you're right~"
+  },
+  {
+    "chara": 3175708457,
     "text": "Don't worry about me though! I know full well what I'm doing~"
   },
   {
@@ -3047,6 +3272,11 @@
   },
   {
     "chara": 954290421,
+    "size": "1.1",
+    "text": "How 'bout yer never come back!"
+  },
+  {
+    "chara": 954290421,
     "text": "......Swear t' god that idiot, riskin' to be someone she's not."
   },
   {
@@ -3055,6 +3285,11 @@
   {
     "chara": 501880909,
     "text": "Mmnh...so what does all that mean?"
+  },
+  {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "Wait!"
   },
   {
     "chara": 501880909,
@@ -3071,6 +3306,11 @@
   {
     "chara": 257931171,
     "text": "Ignoring Sitara being extreme as always,"
+  },
+  {
+    "chara": 2773909288,
+    "size": "1.4",
+    "text": "Gaaah~"
   },
   {
     "chara": 257931171,
@@ -3142,6 +3382,11 @@
   {
     "chara": 1837165762,
     "text": "Ooh~ Looks like they were all prepped up and ready to go."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Like, \"Bring it on anytime you Vice scrapheaps!\""
   },
   {
     "chara": 1837165762,
@@ -3356,8 +3601,33 @@
     "text": "...Under the cover, what she saw..."
   },
   {
+    "chara": 2773909288,
+    "size": "1.6",
+    "text": "Was a huge amount of swarming Vice! Vrrrr!"
+  },
+  {
+    "chara": 501880909,
+    "size": "1.3",
+    "text": "Aaaaah!!"
+  },
+  {
+    "chara": 257931171,
+    "size": "1.3",
+    "text": "Taking joy in creeping us out, I see."
+  },
+  {
     "chara": 257931171,
     "text": "I'd appreciate it if you refrained from making that disturbing sound again."
+  },
+  {
+    "chara": 2773909288,
+    "size": "1.3",
+    "text": "Vrrrrrr!"
+  },
+  {
+    "chara": 257931171,
+    "size": "1.3",
+    "text": "Can you not!"
   },
   {
     "chara": 2773909288,
@@ -3366,6 +3636,16 @@
   {
     "chara": 2773909288,
     "text": "Let's go check the walls out then-"
+  },
+  {
+    "chara": 2773909288,
+    "size": "1.3",
+    "text": "VRRRRRR!"
+  },
+  {
+    "chara": 257931171,
+    "size": "1.3",
+    "text": "GIVE IT A REST!"
   },
   {
     "type": 99
@@ -3400,6 +3680,11 @@
     "type": 99
   },
   {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "I swear to god, those obstinate pieces of rock are pissing me off!"
+  },
+  {
     "chara": 3577514919,
     "text": "What's it this time?"
   },
@@ -3422,6 +3707,11 @@
   {
     "chara": 2134197036,
     "text": "That was how they replied. We were ignored! Completely ignored!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "What kind of red tape nonsense is this!?"
   },
   {
     "chara": 3577514919,
@@ -3536,6 +3826,16 @@
     "text": "But I do admire Kaede even more."
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Waahhh......"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "In any case!"
+  },
+  {
     "chara": 2134197036,
     "text": "The responses from AEGiS HQ and Murakumo confirmed it for me."
   },
@@ -3644,6 +3944,11 @@
     "text": "Once might be happenstance, but twice is definitely a pattern."
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "And the third time is fate-"
+  },
+  {
     "chara": 2134197036,
     "text": "Enough of that, honestly."
   },
@@ -3682,6 +3987,11 @@
   {
     "chara": 2134197036,
     "text": "No."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "This calls for a formal protest."
   },
   {
     "chara": 2134197036,
@@ -3805,6 +4115,11 @@
   {
     "chara": 3577514919,
     "text": "They're the same no matter how you look at it!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "Indeed. The evidence here should have proved their wrongdoings beyond all doubt!"
   },
   {
     "chara": 1837165762,
@@ -3961,6 +4276,16 @@
   {
     "chara": 1837165762,
     "text": "Fumika!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "We're picking up trash in space! Let's go~!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "......I'll be there in a moment."
   }
 ],
 "story_1-3-37": [
@@ -3998,6 +4323,11 @@
   },
   {
     "type": 99
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "See! What did I say!"
   },
   {
     "chara": 3577514919,
@@ -4076,6 +4406,11 @@
   },
   {
     "chara": 2773909288,
+    "size": "1.2",
+    "text": "\"Wahahaha~!\""
+  },
+  {
+    "chara": 2773909288,
     "text": "Exactly the kind of exchange their higher-ups would be having, don't you think?"
   },
   {
@@ -4091,11 +4426,21 @@
   },
   {
     "chara": 2458423066,
+    "size": "1.3",
+    "text": "Please grant us sortie clearance."
+  },
+  {
+    "chara": 2458423066,
     "text": "Even if the new equipment isn't ready for use, our old Weapon and Dress Gear loadouts are still there."
   },
   {
     "chara": 2458423066,
     "text": "We can still perform with what we have been using up until now."
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.3",
+    "text": "Allow us to head out, please!"
   },
   {
     "chara": 2458423066,
@@ -4115,7 +4460,17 @@
   },
   {
     "chara": 2458423066,
+    "size": "1.3",
+    "text": "To watch and do nothing!?"
+  },
+  {
+    "chara": 2458423066,
     "text": "We have here a blade that can defeat the Vice, and you want us not to use it?"
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.3",
+    "text": "What do we Actresses even exist for then!?"
   },
   {
     "type": 99
@@ -4524,6 +4879,21 @@
   },
   {
     "chara": 3806493589,
+    "size": "1.3",
+    "text": "I am Agatsuma Kaede."
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Himukai Rin here!"
+  },
+  {
+    "chara": 1223406366,
+    "size": "1.3",
+    "text": "...Takanashi Rei."
+  },
+  {
+    "chara": 3806493589,
     "text": "We will be in the care of your company starting from today."
   },
   {
@@ -4567,16 +4937,31 @@
     "type": 99
   },
   {
-    "type": 3,
-    "text": "Yamato Nadeshiko of Judgement\\\nAgatsuma Kaede"
+    "chara": 3806493589,
+    "size": "1.4",
+    "text": "I am Agatsuma Kaede."
   },
   {
     "type": 3,
-    "text": "Wild, Wild Moodmaker\\\nHimukai Rin"
+    "text": "Yamato Nadeshiko of Judgement\nAgatsuma Kaede"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.4",
+    "text": "Himukai Rin here!"
   },
   {
     "type": 3,
-    "text": "Aloof Mediator\\\nTakanashi Rei"
+    "text": "Wild, Wild Moodmaker\nHimukai Rin"
+  },
+  {
+    "chara": 1223406366,
+    "size": "1.4",
+    "text": "Takanashi Rei."
+  },
+  {
+    "type": 3,
+    "text": "Aloof Mediator\nTakanashi Rei"
   },
   {
     "chara": 3806493589,
@@ -4588,18 +4973,48 @@
   },
   {
     "chara": 1837165762,
+    "size": "1.8",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.8",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.8",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 1837165762,
     "text": "Miss Kaede? Here!? What's going on?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "That's one hell of a plot development!"
   },
   {
     "chara": 2134197036,
     "text": "What!? I haven't heard anything about this!"
   },
   {
+    "chara": 611727881,
+    "size": "1.2",
+    "text": "I've kept you waiting. Allow me to explain."
+  },
+  {
     "type": 99
   },
   {
+    "chara": 611727881,
+    "size": "1.2",
+    "text": "I am Ootori Kasumi of AEGiS."
+  },
+  {
     "type": 3,
-    "text": "Tokyo's Strongest Actress\\\nOotori Kasumi"
+    "text": "Tokyo's Strongest Actress\nOotori Kasumi"
   },
   {
     "chara": 1837165762,
@@ -4667,6 +5082,26 @@
   },
   {
     "chara": 611727881,
+    "size": "1.1",
+    "text": "In fact, the Actress division of Murakumo will be merged into Narukozaka Manufacturing, effective now."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.8",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.8",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.8",
+    "text": "Eeeeeeeeeh~!?"
+  },
+  {
+    "chara": 611727881,
     "text": "The loss of Murakumo, the biggest Actress agency in the industry, has left a gaping hole that must be filled."
   },
   {
@@ -4699,7 +5134,17 @@
   },
   {
     "chara": 611727881,
+    "size": "1.3",
+    "text": "A reborn Narukozaka Manufacturing..."
+  },
+  {
+    "chara": 611727881,
     "text": "And the supervisor to manage it all..."
+  },
+  {
+    "chara": 611727881,
+    "size": "1.4",
+    "text": "...will be none other than you!"
   },
   {
     "type": 2,
@@ -4791,6 +5236,16 @@
     "type": 99
   },
   {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "With this merger with Murakumo,"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "Narukozaka's gonna hit it big!"
+  },
+  {
     "chara": 2134197036,
     "text": "Really feels like this has developed into something unbelievable all of a sudden."
   },
@@ -4817,6 +5272,11 @@
   {
     "chara": 2134197036,
     "text": "Since we suddenly got more Actresses..."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "...The company's labor costs are going to skyrocket!"
   },
   {
     "chara": 3577514919,
@@ -4872,11 +5332,21 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.4",
+    "text": "A protagonist shift!?"
+  },
+  {
+    "chara": 3577514919,
     "text": "Is Narukozaka Mark 2 gonna debut next week?"
   },
   {
     "chara": 3577514919,
     "text": "\"Actresses on Actresses in mortal combat! Will this unsettling scene herald a new age?\""
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "\"Find out next time in 'Sortie'! Commander shall witness Fumika's tears!\""
   },
   {
     "chara": 2134197036,
@@ -5241,6 +5711,11 @@
   },
   {
     "chara": 1837165762,
+    "size": "1.3",
+    "text": "Whoa! You're joking!"
+  },
+  {
+    "chara": 1837165762,
     "text": "When did you and the Commander get into <i>that</i> kind of relationship?"
   },
   {
@@ -5412,6 +5887,16 @@
     "text": "Ah! Right~ Sorry~"
   },
   {
+    "chara": 4032287867,
+    "size": "1.2",
+    "text": "Aaah! I forgot to eat!"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.2",
+    "text": "Alright, time to dig in!"
+  },
+  {
     "type": 3,
     "text": "Rin turns her attention towards her meal..."
   },
@@ -5522,7 +6007,7 @@
   },
   {
     "type": 3,
-    "text": "Pure, Flower-loving Girl\\\nAikawa Aika"
+    "text": "Pure, Flower-loving Girl\nAikawa Aika"
   },
   {
     "chara": 659968890,
@@ -5578,7 +6063,7 @@
   },
   {
     "type": 3,
-    "text": "Overconfident Tsundere Lady\\\nIchijou Ayaka"
+    "text": "Overconfident Tsundere Lady\nIchijou Ayaka"
   },
   {
     "chara": 659968890,
@@ -5646,6 +6131,16 @@
   {
     "chara": 2134197036,
     "text": "That was basically how much rudeness Sitara shows every day, after all."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "What do you mean \"every day\"!?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "I only do it about once per day!"
   },
   {
     "chara": 2134197036,
@@ -6037,6 +6532,11 @@
     "text": "Uuu... Even so, I think it's better to respect someone who's older than you."
   },
   {
+    "chara": 1626745258,
+    "size": "1.3",
+    "text": "Indeed~ I think so too~"
+  },
+  {
     "chara": 659968890,
     "text": "Miss Koyui!?"
   },
@@ -6123,6 +6623,11 @@
   },
   {
     "chara": 2151489780,
+    "size": "1.4",
+    "text": "\"Ba-ba-bam-!\""
+  },
+  {
+    "chara": 2151489780,
     "text": "...Something like that!"
   },
   {
@@ -6199,6 +6704,11 @@
   },
   {
     "chara": 954290421,
+    "size": "1.4",
+    "text": "Yer stupid dunderhead!"
+  },
+  {
+    "chara": 954290421,
     "text": "Never heard of \"All things in moderation\"!?"
   },
   {
@@ -6226,6 +6736,11 @@
     "text": "And you're too behind the times, gramps."
   },
   {
+    "chara": 954290421,
+    "size": "1.2",
+    "text": "What did yer say yer lil' halfwit!?"
+  },
+  {
     "chara": 92371269,
     "text": "That's not gonna be enough to make me bend!"
   },
@@ -6247,6 +6762,11 @@
     "type": 99
   },
   {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "Gaaahhh, <i>for the love of-!</i>"
+  },
+  {
     "type": 3,
     "text": "Enter Sitara, wearing a fake handlebar mustache..."
   },
@@ -6257,6 +6777,11 @@
   {
     "chara": 2134197036,
     "text": "What kind of act is that supposed to be..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "Oh y'know, the company president kind."
   },
   {
     "chara": 2134197036,
@@ -6291,6 +6816,11 @@
     "text": "I should have called her the supervisor lady instead!"
   },
   {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "That's no different!"
+  },
+  {
     "chara": 1837165762,
     "text": "Um... Excuse me, but what's the deal with this \"old miss\" and \"supervisor lady\" stuff?"
   },
@@ -6305,6 +6835,11 @@
   {
     "chara": 3577514919,
     "text": "For the residents of the Tokyo Shard,"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "Learning about the Showa era is an obligation!"
   },
   {
     "chara": 1837165762,
@@ -6420,6 +6955,16 @@
     "type": 99
   },
   {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "Attention!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "We will now begin the First Narukozaka Actress Staff Meeting."
+  },
+  {
     "chara": 3577514919,
     "text": "Ooh, me, me!"
   },
@@ -6428,8 +6973,18 @@
     "text": "Let's host a video game tournament to help everyone get along!"
   },
   {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "That'll be rejected."
+  },
+  {
     "chara": 3577514919,
     "text": "But I even went ahead and made the tournament brackets! And the league table! And the matchups chart!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "Rejected."
   },
   {
     "chara": 3577514919,
@@ -6453,6 +7008,11 @@
   },
   {
     "chara": 2134197036,
+    "size": "1.4",
+    "text": "Rejected."
+  },
+  {
+    "chara": 2134197036,
     "text": "Any others?"
   },
   {
@@ -6462,6 +7022,16 @@
   {
     "chara": 3806493589,
     "text": "Go ahead, Miss Kaneshiya."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "A game-"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "Rejected."
   },
   {
     "type": 3,
@@ -6482,6 +7052,11 @@
   {
     "chara": 3806493589,
     "text": "Rin, I don't believe your desires should-"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.2",
+    "text": "Why?"
   },
   {
     "chara": 4032287867,
@@ -6560,6 +7135,16 @@
     "text": "What is that about?"
   },
   {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Obviously, ga-"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "Rejected."
+  },
+  {
     "chara": 3806493589,
     "text": "Team compositions are up to the Commander to decide."
   },
@@ -6570,6 +7155,16 @@
   {
     "chara": 1732130112,
     "text": "Inefficient bureaucracy. I will ask him directly then."
+  },
+  {
+    "chara": 1732130112,
+    "size": "1.2",
+    "text": "I <i>will</i> be on the next sortie! Understood?"
+  },
+  {
+    "chara": 1732130112,
+    "size": "1.2",
+    "text": "Myself at the front, with Miss Kaede and Miss Rin as my teammates."
   },
   {
     "chara": 659968890,
@@ -6600,12 +7195,22 @@
     "text": "And why are <i>you</i> so eager to butt in amid this mess!?"
   },
   {
+    "chara": 2134197036,
+    "size": "1.4",
+    "text": "Enough, all of you!"
+  },
+  {
     "type": 3,
     "text": "The argument is silenced..."
   },
   {
     "chara": 2134197036,
     "text": "And I was trying to avoid this exact sort of mess with the meeting..."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "What did I spend all this effort for!?"
   },
   {
     "chara": 3806493589,
@@ -6638,6 +7243,11 @@
   },
   {
     "chara": 2134197036,
+    "size": "1.3",
+    "text": "I can't do this anymore!"
+  },
+  {
+    "chara": 2134197036,
     "text": "Commander! Please tell me we're going to hire full-time office workers!"
   },
   {
@@ -6647,6 +7257,11 @@
   {
     "chara": 2134197036,
     "text": "Gah, just about every position in existence!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "To hell with the expenses!"
   },
   {
     "chara": 3806493589,
@@ -6725,6 +7340,21 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.2",
+    "text": "Oh hey, it's the hag."
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "The...hag?"
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "Who the hell are you calling a hag!"
+  },
+  {
+    "chara": 3577514919,
     "text": "Too bad the Actress industry's been led by super cute & pretty teenage girls since forever~"
   },
   {
@@ -6749,7 +7379,22 @@
   },
   {
     "chara": 2134197036,
+    "size": "1.2",
+    "text": "Everyone, meet Yotsuya Yumi,"
+  },
+  {
+    "chara": 2134197036,
     "text": "A senior Actress at our company-"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "And a 24-year-old hag."
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "Si, Ta, Ra..."
   },
   {
     "type": 3,
@@ -6781,6 +7426,11 @@
   },
   {
     "chara": 2134197036,
+    "size": "1.3",
+    "text": "An old hag."
+  },
+  {
+    "chara": 2134197036,
     "text": "Ah, that was from Sitara."
   },
   {
@@ -6792,8 +7442,13 @@
     "text": "-Anyways, long story short, I'm back, so,"
   },
   {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "Here's to a good time~"
+  },
+  {
     "type": 3,
-    "text": "Sweet Temptations, Bitter Expenditures\\\nYotsuya Yumi"
+    "text": "Sweet Temptations, Bitter Expenditures\nYotsuya Yumi"
   },
   {
     "chara": 2134197036,
@@ -6826,6 +7481,16 @@
   {
     "type": 3,
     "text": "Yumi notices you."
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "Oh, what!? Who're you?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "The Commander."
   },
   {
     "chara": 3749859877,
@@ -6901,6 +7566,11 @@
   },
   {
     "chara": 3749859877,
+    "size": "1.2",
+    "text": "A~hahaha~"
+  },
+  {
+    "chara": 3749859877,
     "text": "If it works, it works~ Especially right now~"
   },
   {
@@ -6928,6 +7598,11 @@
     "text": "A most compelling argument."
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Quite impressive, old hag."
+  },
+  {
     "chara": 2134197036,
     "text": "I-I didn't say that."
   },
@@ -6946,6 +7621,11 @@
   {
     "chara": 2134197036,
     "text": "What is it?"
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "This AEGiS contract... we're kinda in a bad spot here, aren't we?"
   }
 ],
 "story_2-3-65": [
@@ -6963,6 +7643,11 @@
   {
     "chara": 2134197036,
     "text": "What is it?"
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "This AEGiS contract... we're kinda in a bad spot here, aren't we?"
   },
   {
     "chara": 2134197036,
@@ -7086,11 +7771,26 @@
   },
   {
     "chara": 3749859877,
+    "size": "1.2",
+    "text": "Then the next step is clear."
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "We'll need to take down 9 Heavy-class Vice ASAP."
+  },
+  {
+    "chara": 3749859877,
     "text": "Before the AEGiS Designated Contractor status is taken from us, that is."
   },
   {
     "chara": 3749859877,
     "text": "So, with that being said, Commander,"
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "Pass us lots and lots of Heavy-class jobs~"
   },
   {
     "type": 2,
@@ -7179,6 +7879,11 @@
         ]
       }
     ]
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "Anyways, a reservation for 9 Heavy-class missions~, I'm counting on you, Commander~"
   }
 ],
 "story_2-3-66": [
@@ -7318,6 +8023,16 @@
     "text": "We'd all be more into it if the compe-tition happened though~"
   },
   {
+    "chara": 2773909288,
+    "size": "1.3",
+    "text": "That's as far as you'll go!"
+  },
+  {
+    "chara": 2773909288,
+    "size": "1.3",
+    "text": "Agatsuma Kaede! Himukai Rin!"
+  },
+  {
     "chara": 2151489780,
     "text": "Who goes there-!"
   },
@@ -7343,7 +8058,7 @@
   },
   {
     "chara": 2773909288,
-    "text": "Ba-babaa~\\\nBa-babaa~\\\nBababa-baaaa~"
+    "text": "Ba-babaa~\nBa-babaa~\nBababa-baaaa~"
   },
   {
     "type": 3,
@@ -7625,6 +8340,11 @@
     "text": "Sitara makes her escape..."
   },
   {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "Who're you calling a hag there!?"
+  },
+  {
     "type": 3,
     "text": "...and Yumi chases her to teach her a lesson..."
   },
@@ -7662,6 +8382,11 @@
   {
     "chara": 659968890,
     "text": "Ah, of course."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "No way!?"
   },
   {
     "chara": 1837165762,
@@ -7990,7 +8715,7 @@
   },
   {
     "type": 3,
-    "text": "Absolute Student Council President\\\nKondou Chieri"
+    "text": "Absolute Student Council President\nKondou Chieri"
   },
   {
     "chara": 3678946635,
@@ -8539,7 +9264,7 @@
   },
   {
     "type": 3,
-    "text": "Feminine Vice-President with an Iron Fist\\\nSutegoro Shiina"
+    "text": "Feminine Vice-President with an Iron Fist\nSutegoro Shiina"
   },
   {
     "chara": 1837165762,
@@ -8675,6 +9400,11 @@
   },
   {
     "chara": 4032287867,
+    "size": "1.3",
+    "text": "Wooow! So cool~!"
+  },
+  {
+    "chara": 4032287867,
     "text": "Let's go to the training room! We can have a, what's it, \"kumite\"? A duel like that~!"
   },
   {
@@ -8700,6 +9430,11 @@
   {
     "chara": 2325186331,
     "text": "I do want to know more about you all, since you managed to catch Chieri's attention."
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Ooh yeah~! Let's do it~!"
   },
   {
     "chara": 4032287867,
@@ -8848,6 +9583,21 @@
     "text": "Mrghhh! Frus-tra-ting!"
   },
   {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "We'll turn it back around this time too!!"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Back around-!"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Bring on the big Vice! 3 servings! Extra large!"
+  },
+  {
     "chara": 3806493589,
     "text": "Calm down, you two, alright?"
   },
@@ -8867,6 +9617,11 @@
     "text": "Take out everything you have with you and lay them on your desk!"
   },
   {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Eeeh-!? Nobody told us this is a thing-!?"
+  },
+  {
     "chara": 1837165762,
     "text": "That's not cool!"
   },
@@ -8881,6 +9636,11 @@
   {
     "chara": 1900121536,
     "text": "Heheheh..."
+  },
+  {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "I got things mixed up!"
   },
   {
     "chara": 2388496501,
@@ -8903,8 +9663,13 @@
     "text": "Good day! I'm Nikitou Kanade, the head of the Disciplinary Committee over at St. Amalthea!"
   },
   {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "And I'm here for an inspection of Narukozaka today!"
+  },
+  {
     "type": 3,
-    "text": "Exhaust-Scented Disciplinary Officer\\\nNikitou Kanade"
+    "text": "Exhaust-Scented Disciplinary Officer\nNikitou Kanade"
   },
   {
     "chara": 3577514919,
@@ -8967,12 +9732,22 @@
     "text": "Excuse me, but...what might be your purpose here for today?"
   },
   {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "...Ah, oh right! You!"
+  },
+  {
     "chara": 3806493589,
     "text": "Y-yes?"
   },
   {
     "chara": 1900121536,
     "text": "I'm glad you asked!"
+  },
+  {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "Because I just don't get it!"
   },
   {
     "chara": 3806493589,
@@ -8989,6 +9764,11 @@
   {
     "chara": 1900121536,
     "text": "I don't get what makes Chieri and Koro-chan so concerned about you people!"
+  },
+  {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "-Oh right!"
   },
   {
     "chara": 1900121536,
@@ -9059,6 +9839,16 @@
     "text": "What's so bad about an adult drinking~? A grown woman has hardships like you wouldn't believe~"
   },
   {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "A lack of discipline leads to all kinds of troubles!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "QUIET!"
+  },
+  {
     "chara": null,
     "text": "A very irritated Fumika storms into the room..."
   },
@@ -9103,11 +9893,21 @@
   },
   {
     "chara": 1900121536,
+    "size": "1.3",
+    "text": "Found you!"
+  },
+  {
+    "chara": 1900121536,
     "text": "You must be the mastermind behind Narukozaka's sorry state!"
   },
   {
     "chara": 1900121536,
     "text": "The boss in the shadows, the true presence pulling the strings..."
+  },
+  {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "There is no mistake!"
   },
   {
     "chara": 2134197036,
@@ -9133,6 +9933,11 @@
   },
   {
     "chara": 1900121536,
+    "size": "1.3",
+    "text": "Definitely!"
+  },
+  {
+    "chara": 1900121536,
     "text": "You've been carrying countless burdens on your back, Miss Momoshina!"
   },
   {
@@ -9146,6 +9951,11 @@
   {
     "chara": 2134197036,
     "text": "Well, I suppose..."
+  },
+  {
+    "chara": 1900121536,
+    "size": "1.3",
+    "text": "Does none of them feel ashamed of themselves!?"
   },
   {
     "chara": 1900121536,
@@ -9237,6 +10047,11 @@
     "text": "Or will St. Amalthea show us the power of their tradition!?"
   },
   {
+    "chara": 503211552,
+    "size": "1.3",
+    "text": "Do your best, all of you-!"
+  },
+  {
     "type": 1,
     "text": "Narukozaka Manufacturing · Office"
   },
@@ -9282,6 +10097,16 @@
   {
     "chara": 1837165762,
     "text": "What's that mean?"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "That if we keep it up, we'll win!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Alright! Let's keep it up then!"
   },
   {
     "chara": 3806493589,
@@ -9428,7 +10253,7 @@
   },
   {
     "chara": 1111561457,
-    "text": "Allow me to experience it...\\\nThe manner in which you all fight."
+    "text": "Allow me to experience it...\nThe manner in which you all fight."
   },
   {
     "type": 3,
@@ -9477,6 +10302,11 @@
   },
   {
     "type": 99
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Yay-!"
   },
   {
     "chara": 4032287867,
@@ -9532,6 +10362,11 @@
   {
     "chara": 3577514919,
     "text": "Those are absolute taboo! Never say them out loud!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "That's how you set up a Losing Flag for yourself!"
   },
   {
     "chara": 3577514919,
@@ -9634,6 +10469,11 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.3",
+    "text": "Attention, everyone~"
+  },
+  {
+    "chara": 3577514919,
     "text": "Your very reliable Sitara has caught you all yet another Actress~!"
   },
   {
@@ -9681,8 +10521,28 @@
     "text": "Sitara begins her grandstanding presentation."
   },
   {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "It's finally time for the awaited newbie to enter the spotlight!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Volume 2 of the Sitara Collection, AKA SitaColle, presents:"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Koashi Mutsumi!"
+  },
+  {
+    "chara": 1972083374,
+    "size": "1.2",
+    "text": "Hello. I'm Koashi."
+  },
+  {
     "chara": null,
-    "text": "Narukozaka's New Challenger\\\nKoashi Mutsumi"
+    "text": "Narukozaka's New Challenger\nKoashi Mutsumi"
   },
   {
     "chara": 1837165762,
@@ -9751,6 +10611,11 @@
     "type": 99
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "And that's how our friendship bloomed from the rivalry!"
+  },
+  {
     "chara": 1837165762,
     "text": "Oooh~ Sounds amazing!"
   },
@@ -9781,6 +10646,11 @@
   {
     "chara": 1972083374,
     "text": "Well, I've made the decision myself, so sure, I'll join Narukozaka."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "That figures~"
   },
   {
     "chara": 3442998731,
@@ -9849,6 +10719,11 @@
   },
   {
     "chara": 3442998731,
+    "size": "1.2",
+    "text": "Hyah!?"
+  },
+  {
+    "chara": 3442998731,
     "text": "U-um... You're... not wrong..."
   },
   {
@@ -9878,6 +10753,11 @@
   {
     "chara": 3442998731,
     "text": "Er...umm...I'm not that much of a gamer, but..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Don't need to sweat the small stuff!"
   },
   {
     "chara": 3442998731,
@@ -9967,12 +10847,22 @@
     "text": "Yeah."
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "...Wait, for real!?"
+  },
+  {
     "chara": 3442998731,
     "text": "Ah... Uuu... M-my team..."
   },
   {
     "chara": 3442998731,
     "text": "Wh-what should I do now..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "I'm so sorry, Tama-chan~"
   },
   {
     "chara": 2134197036,
@@ -9983,8 +10873,18 @@
     "text": "Well... There's your lesson to put some thought into how to expand the Actress roster~"
   },
   {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "The swampy world of women isn't so easy to navigate."
+  },
+  {
     "chara": 2134197036,
     "text": "You're good at that, Yumi, right? Can't you do something about this?"
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "Can't do~"
   },
   {
     "type": 3,
@@ -10013,6 +10913,11 @@
   {
     "chara": 2134197036,
     "text": "Speaking of which, did you meet any exceptional Actresses while you were at that company in Nakano?"
+  },
+  {
+    "chara": 3749859877,
+    "size": "1.2",
+    "text": "*siiiiigh*...... I'm begging you, <i>please</i> don't have me remember..."
   },
   {
     "type": 3,
@@ -10066,6 +10971,11 @@
   {
     "chara": 2458423066,
     "text": "We must train further to improve ourselves."
+  },
+  {
+    "chara": 2773909288,
+    "size": "1.2",
+    "text": "Not bad!"
   },
   {
     "chara": 2773909288,
@@ -10820,7 +11730,7 @@
   },
   {
     "type": 3,
-    "text": "Shy, Delusional Ballerina\\\nNikotama Mai"
+    "text": "Shy, Delusional Ballerina\nNikotama Mai"
   },
   {
     "chara": 3749859877,
@@ -11149,10 +12059,25 @@
     "text": "Kaede is practicing sword swings in the gym..."
   },
   {
-    "type": 99
+    "chara": 2458423066,
+    "size": "1.3",
+    "text": "Sei!"
   },
   {
     "type": 99
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.3",
+    "text": "Tei!"
+  },
+  {
+    "type": 99
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.3",
+    "text": "Yaaaa!"
   },
   {
     "type": 99
@@ -11354,7 +12279,7 @@
   },
   {
     "type": 3,
-    "text": "Troublesome Rapping Hurricane\\\nFujino Yayoi"
+    "text": "Troublesome Rapping Hurricane\nFujino Yayoi"
   },
   {
     "chara": 1837165762,
@@ -11366,7 +12291,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "No respect for rhythm, no love for rhyme!\\\nThis hopeless bunch ain't worth my time!"
+    "text": "No respect for rhythm, no love for rhyme!\nThis hopeless bunch ain't worth my time!"
   },
   {
     "chara": 2682926111,
@@ -11382,15 +12307,15 @@
   },
   {
     "chara": 2682926111,
-    "text": "Reclaiming this position\\\nWith my master formation\\\\nAnd never-ending motivation!"
+    "text": "Reclaiming this position\nWith my master formation\nAnd never-ending motivation!"
   },
   {
     "chara": 2682926111,
-    "text": "A fated confrontation!\\\nAn overdue conclusion!"
+    "text": "A fated confrontation!\nAn overdue conclusion!"
   },
   {
     "chara": 2682926111,
-    "text": "First target? Say farewell\\\nTo Nakano, who else!\\\\nFor Narukozaka: a taste of hell!"
+    "text": "First target? Say farewell\nTo Nakano, who else!\nFor Narukozaka: a taste of hell!"
   },
   {
     "chara": 2682926111,
@@ -11430,11 +12355,11 @@
   },
   {
     "chara": 2682926111,
-    "text": "Yo! Ain't that a sight!\\\nDope lil' Actress comin' in with the bite!\\\\nGotta give props to that feel-good vibe!"
+    "text": "Yo! Ain't that a sight!\nDope lil' Actress comin' in with the bite!\nGotta give props to that feel-good vibe!"
   },
   {
     "chara": 2682926111,
-    "text": "This one's a cut above the rest!\\\nHer love for hip-hop expressed;\\\\nJoy rising in my chest!"
+    "text": "This one's a cut above the rest!\nHer love for hip-hop expressed;\nJoy rising in my chest!"
   },
   {
     "chara": 2682926111,
@@ -11458,11 +12383,11 @@
   },
   {
     "chara": 2682926111,
-    "text": "Submitting to them? Don't be absurd!\\\nWhoever you are, you're just a nerd!"
+    "text": "Submitting to them? Don't be absurd!\nWhoever you are, you're just a nerd!"
   },
   {
     "chara": 2682926111,
-    "text": "Win and loss hinges on the stakeless flock!\\\nThe audience's votes are where one puts stock!"
+    "text": "Win and loss hinges on the stakeless flock!\nThe audience's votes are where one puts stock!"
   },
   {
     "chara": 2134197036,
@@ -11490,7 +12415,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "I'll take it all back, no doubt!\\\nThree cheers for me, devout!"
+    "text": "I'll take it all back, no doubt!\nThree cheers for me, devout!"
   },
   {
     "chara": 2682926111,
@@ -11716,7 +12641,7 @@
   },
   {
     "chara": 3577514919,
-    "text": "And she's using that money on her fun and boyfriends.\\\n...Pretty sure."
+    "text": "And she's using that money on her fun and boyfriends.\n...Pretty sure."
   },
   {
     "chara": 1732130112,
@@ -12197,7 +13122,7 @@
   },
   {
     "chara": 257931171,
-    "text": "Like I said, I am going to try and reach out.\\\n...To the Nakano side."
+    "text": "Like I said, I am going to try and reach out.\n...To the Nakano side."
   },
   {
     "chara": 257931171,
@@ -12230,7 +13155,7 @@
   },
   {
     "type": 3,
-    "text": "Idol of Egota ♥\\\nShimoochiai Touka"
+    "text": "Idol of Egota ♥\nShimoochiai Touka"
   },
   {
     "type": 99
@@ -12241,7 +13166,7 @@
   },
   {
     "chara": 1112894108,
-    "text": "I heard you were looking for a singer for an internal event, so~\\\nI'm here to promote my new songs~"
+    "text": "I heard you were looking for a singer for an internal event, so~\nI'm here to promote my new songs~"
   },
   {
     "chara": 1112894108,
@@ -12622,11 +13547,16 @@
   },
   {
     "chara": 2682926111,
+    "size": "1.3",
+    "text": "Yo yo! Yotsuya Yumi, yo!"
+  },
+  {
+    "chara": 2682926111,
     "text": "How long ya gonna keep running for, yo!"
   },
   {
     "chara": 2682926111,
-    "text": "What's up Narukozaka, I'm coming in hot!\\\nAll the work to get here's leaving me fraught!"
+    "text": "What's up Narukozaka, I'm coming in hot!\nAll the work to get here's leaving me fraught!"
   },
   {
     "chara": 2682926111,
@@ -12717,11 +13647,11 @@
   },
   {
     "chara": 2682926111,
-    "text": "That chicken with no fight can go get bent!\\\nThere's no love in Yumi's faulty represent!"
+    "text": "That chicken with no fight can go get bent!\nThere's no love in Yumi's faulty represent!"
   },
   {
     "chara": 2682926111,
-    "text": "Come at me, yo, Narukozaka!\\\nYou representin' this bunch at large?\\\\nCommander? Director? No one in charge?"
+    "text": "Come at me, yo, Narukozaka!\nYou representin' this bunch at large?\nCommander? Director? No one in charge?"
   },
   {
     "chara": 1837165762,
@@ -12754,6 +13684,16 @@
   {
     "chara": 1837165762,
     "text": "Hey, <i>you</i>'re the one who's venting here!"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "You got no talent, not a shred!"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "No need, no point to dis, 'nuff said!"
   },
   {
     "chara": 2682926111,
@@ -12814,11 +13754,26 @@
   },
   {
     "chara": 2682926111,
+    "size": "1.3",
+    "text": "Yo yo yo!"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "Hey, my audience!"
+  },
+  {
+    "chara": 2682926111,
     "text": "The very nice Actress, not those Vice dunces, Fujino Yayoi, at your service!"
   },
   {
     "chara": 2951259818,
     "text": "You're here again? Did no one ever teach you not to barge into company offices without a care?"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "Ah-hahaha!"
   },
   {
     "chara": 2682926111,
@@ -12878,7 +13833,22 @@
   },
   {
     "chara": 2682926111,
-    "text": "If it's a fight, a battle in sight,\\\nThat's an invite I won't miss, alright!\\\\nVice and Yumi, we shall meet in flight!"
+    "size": "1.3",
+    "text": "Fujino Yayoi, A.K.A Ace!"
+  },
+  {
+    "chara": 2682926111,
+    "text": "If it's a fight, a battle in sight,\nThat's an invite I won't miss, alright!\nVice and Yumi, we shall meet in flight!"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "Hey, audience! We'll be right back, yo!"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "Joining the fight shortly from Nakano, yo!"
   },
   {
     "type": 3,
@@ -12937,7 +13907,7 @@
   },
   {
     "chara": 710408864,
-    "text": "Stances changed, taxi arranged!\\\nPoor, \"sexy\" Yumi, her victory estranged!"
+    "text": "Stances changed, taxi arranged!\nPoor, \"sexy\" Yumi, her victory estranged!"
   },
   {
     "chara": 710408864,
@@ -12958,7 +13928,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "Your fighting is pathetic, attitude apathetic!\\\nYour soul's so cryptic, it'd baffle a mystic!"
+    "text": "Your fighting is pathetic, attitude apathetic!\nYour soul's so cryptic, it'd baffle a mystic!"
   },
   {
     "chara": 2682926111,
@@ -12998,7 +13968,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "That's not gonna fly!\\\n\"Won't stop\"'s my reply!\\\\nNot with this thrill, why!"
+    "text": "That's not gonna fly!\n\"Won't stop\"'s my reply!\nNot with this thrill, why!"
   },
   {
     "chara": 1837165762,
@@ -13006,7 +13976,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "I'm not harrassing!\\\n'Tis a high-art battle!\\\\nWords fly, heartbreak shuttle!"
+    "text": "I'm not harrassing!\n'Tis a high-art battle!\nWords fly, heartbreak shuttle!"
   },
   {
     "chara": 3749859877,
@@ -13026,11 +13996,21 @@
   },
   {
     "chara": 4032287867,
+    "size": "1.3",
+    "text": "It's not hard, just give her a fight, yo!"
+  },
+  {
+    "chara": 4032287867,
     "text": "Yayoi just wanted a battle with you, yo!"
   },
   {
+    "chara": 3749859877,
+    "size": "1.3",
+    "text": "Hah?"
+  },
+  {
     "chara": 2682926111,
-    "text": "From beginning to end, that's been what I intend!\\\nAgain and again, why don't you comprehend?"
+    "text": "From beginning to end, that's been what I intend!\nAgain and again, why don't you comprehend?"
   },
   {
     "chara": 3749859877,
@@ -13038,7 +14018,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "Dissing's part of how rapping beguiles!\\\nAll I'm asking for is to freestyle!"
+    "text": "Dissing's part of how rapping beguiles!\nAll I'm asking for is to freestyle!"
   },
   {
     "chara": 3749859877,
@@ -13050,11 +14030,11 @@
   },
   {
     "chara": 2682926111,
-    "text": "It's a sign of love, love for the community!\\\nLove for your company, so full of unity!\\\\nAnd for your encounters, endless opportunity!"
+    "text": "It's a sign of love, love for the community!\nLove for your company, so full of unity!\nAnd for your encounters, endless opportunity!"
   },
   {
     "chara": 2682926111,
-    "text": "Yumi, your love for Nakano ain't enough;\\\nThat's why here I am, panning—dissing you up!\\\\nThis is Fujino, representing Nakano!"
+    "text": "Yumi, your love for Nakano ain't enough;\nThat's why here I am, panning—dissing you up!\nThis is Fujino, representing Nakano!"
   },
   {
     "chara": 3749859877,
@@ -13075,6 +14055,16 @@
   {
     "chara": 3749859877,
     "text": "...I'm not gonna do that for you."
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Not gonna do that for \"yo\"!"
+  },
+  {
+    "chara": 2682926111,
+    "size": "1.3",
+    "text": "Wow!"
   },
   {
     "chara": 2682926111,
@@ -13110,15 +14100,15 @@
   },
   {
     "chara": 3749859877,
-    "text": "Who's your soulmate!\\\nAll night's my forte,\\\\nand you don't get to stay!"
+    "text": "Who's your soulmate!\nAll night's my forte,\nand you don't get to stay!"
   },
   {
     "chara": 3749859877,
-    "text": "All this child's play.\\\nLike a one-man play.\\\\nRather roam the night and play!"
+    "text": "All this child's play.\nLike a one-man play.\nRather roam the night and play!"
   },
   {
     "chara": 3749859877,
-    "text": "This kind of wordplay,\\\nall this working over trivial details is a real pain in the ass!"
+    "text": "This kind of wordplay,\nall this working over trivial details is a real pain in the ass!"
   },
   {
     "chara": 2682926111,
@@ -13134,7 +14124,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "My secret you've seen?\\\nA stand-up unseen?\\\\nWhat truth could you mean!?"
+    "text": "My secret you've seen?\nA stand-up unseen?\nWhat truth could you mean!?"
   },
   {
     "chara": 3749859877,
@@ -13142,7 +14132,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "Nuh-uh! Damn, Yumi!\\\nYour threat rings hollow! No truth to follow!"
+    "text": "Nuh-uh! Damn, Yumi!\nYour threat rings hollow! No truth to follow!"
   },
   {
     "chara": 3749859877,
@@ -13292,6 +14282,11 @@
     "text": "Which is to say, we are effectively being asked to look after them."
   },
   {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Eeeeeeeeh!?"
+  },
+  {
     "chara": 3749859877,
     "text": "Are you kidding me? And here I thought I was finally rid of Yayoi, too."
   },
@@ -13322,6 +14317,11 @@
   {
     "type": 3,
     "text": "Yotsuyu and Fumika turn to you."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Commander!"
   }
 ],
 "story_2-7-117": [
@@ -13333,8 +14333,18 @@
     "type": 99
   },
   {
+    "chara": 1463592949,
+    "size": "1.2",
+    "text": "Wh-what do I do? This isn't working~"
+  },
+  {
     "chara": 98659873,
     "text": "Aika! Don't put too much force into your hands, and stir at a consistent speed."
+  },
+  {
+    "chara": 391430607,
+    "size": "1.3",
+    "text": "Grrrr!"
   },
   {
     "chara": 391430607,
@@ -13343,6 +14353,11 @@
   {
     "chara": 501880909,
     "text": "It's something every newbie here has to go through."
+  },
+  {
+    "chara": 501880909,
+    "size": "1.3",
+    "text": "Now c'mon! Five more times!"
   },
   {
     "type": 99
@@ -13402,8 +14417,18 @@
     "text": "Back over at Engineering..."
   },
   {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "The most important thing about making rice is how you wash the rice!"
+  },
+  {
     "chara": 92371269,
     "text": "Gotta rinse your new grains lightly, and your aged ones thoroughly!"
+  },
+  {
+    "chara": 1463592949,
+    "size": "1.3",
+    "text": "Okay!"
   },
   {
     "chara": 92371269,
@@ -13677,12 +14702,22 @@
     "text": "Oh oh oh, but the tastiest thing she makes is..."
   },
   {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "The rice! The rice! And the rice!"
+  },
+  {
     "chara": 1837165762,
     "text": "Ooh, I can't wait to try it!"
   },
   {
     "chara": 4032287867,
     "text": "Let's find Koyui as fast as we can!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Yeah!"
   },
   {
     "chara": 3806493589,
@@ -13723,6 +14758,11 @@
   {
     "chara": 1837165762,
     "text": "We're definitely finding Miss Koyui! No matter what!"
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.3",
+    "text": "Yeeeah!"
   },
   {
     "chara": 3806493589,
@@ -13836,7 +14876,7 @@
   },
   {
     "type": 3,
-    "text": "The Sniping Shaman\\\nYorishiro Eri"
+    "text": "The Sniping Shaman\nYorishiro Eri"
   },
   {
     "type": 99
@@ -14103,6 +15143,11 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.3",
+    "text": "The thing is, those are all mine!"
+  },
+  {
+    "chara": 3577514919,
     "text": "If only we had a third to make a full team with..."
   },
   {
@@ -14136,6 +15181,11 @@
   {
     "chara": 1972083374,
     "text": "What about Yotsuyu and Fumika then?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "That slipped my mind!"
   },
   {
     "type": 3,
@@ -14211,12 +15261,32 @@
     "type": 99
   },
   {
+    "chara": 3347653705,
+    "size": "1.2",
+    "text": "Virginia Glynnberets, joining this post as of today."
+  },
+  {
     "type": 3,
-    "text": "US-trained Sharpshooter\\\nVirginia Glynnberets"
+    "text": "US-trained Sharpshooter\nVirginia Glynnberets"
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.3",
+    "text": "Hey, Sitara!"
   },
   {
     "type": 3,
     "text": "Sitara is startled from being suddenly called out."
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.3",
+    "text": "And you too, Mai!"
+  },
+  {
+    "chara": 3442998731,
+    "size": "1.3",
+    "text": "Ginny...!?"
   },
   {
     "chara": 3347653705,
@@ -14237,6 +15307,11 @@
   {
     "type": 3,
     "text": "Virginia nods."
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.2",
+    "text": "Yessiree!"
   },
   {
     "chara": 3442998731,
@@ -14267,6 +15342,16 @@
     "text": "Ah, um... Are you a soldier?"
   },
   {
+    "chara": 3347653705,
+    "size": "1.1",
+    "text": "Yup! Active servicewoman right here!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.1",
+    "text": "Active in an FPS, more like~"
+  },
+  {
     "chara": 1837165762,
     "text": "\"F-P-S\"?"
   },
@@ -14285,6 +15370,11 @@
   {
     "chara": 3577514919,
     "text": "It's a game genre where you shoot at things in first person~"
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.2",
+    "text": "Yup!"
   },
   {
     "chara": 1837165762,
@@ -14364,7 +15454,32 @@
   },
   {
     "chara": 2134197036,
+    "size": "1.3",
+    "text": "Not even a word about it!"
+  },
+  {
+    "chara": 2134197036,
     "text": "All while I'm busy looking for a dietitian and handling the interviews."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "One applicant I thought was a dietitian turned out to be a mere chef!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "Another had the certifications but knew nothing about Actresses at all!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "There was even some \"ramen reviewer\", quote unqoute, who \"had a dream to open their own store\"!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "What even brought an idiot like that here!"
   },
   {
     "chara": 2134197036,
@@ -14464,6 +15579,11 @@
   {
     "chara": 1837165762,
     "text": "We're looking for a woman named Miss Koyui."
+  },
+  {
+    "chara": 4209577465,
+    "size": "1.3",
+    "text": "Wha!? Ya gonna a person shoot? Ain't that cruel with ya!?"
   },
   {
     "chara": 1837165762,
@@ -14649,6 +15769,12 @@
   {
     "chara": 257931171,
     "text": "That will be up to our Commander to decide. Please give us a moment."
+  },
+  {
+    "chara": 317493798,
+    "charaNameOverride": "797752214",
+    "size": "1.2",
+    "text": "Alright~"
   }
 ],
 "story_2-7-130": [
@@ -14664,12 +15790,32 @@
     "text": "An unrecognizably slimmer Koyui shows up at the office to greet everyone after the Heavy-class alert..."
   },
   {
+    "chara": 1626745258,
+    "size": "1.2",
+    "text": "Hello, everyone at Narukozaka~ It's been a while~"
+  },
+  {
     "chara": 1837165762,
     "text": "Who might you be?"
   },
   {
     "chara": 3806493589,
     "text": "You must be the one who had supported us during the Heavy-class engagement."
+  },
+  {
+    "chara": 1626745258,
+    "size": "1.2",
+    "text": "I'm Oozeki Koyui."
+  },
+  {
+    "chara": 3806493589,
+    "size": "1.2",
+    "text": "......Eh?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "No way!"
   },
   {
     "chara": 1626745258,
@@ -14685,7 +15831,7 @@
   },
   {
     "chara": 1626745258,
-    "text": "Er...um... The truth is..."
+    "text": "Er... um... The truth is..."
   },
   {
     "chara": 1626745258,
@@ -14716,8 +15862,18 @@
     "text": "Is there an opening for an Actress-specific dietitian position out there somewhere, I wonder~?"
   },
   {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Of course there is!"
+  },
+  {
     "chara": 1626745258,
     "text": "My~! Is that true?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Yeah! You're up, Commander!"
   },
   {
     "chara": 1626745258,
@@ -14738,7 +15894,7 @@
   },
   {
     "type": 3,
-    "text": "Marshmallowy Dietitian\\\nOozeki Koyui"
+    "text": "Marshmallowy Dietitian\nOozeki Koyui"
   },
   {
     "chara": 1626745258,
@@ -14773,7 +15929,7 @@
   },
   {
     "chara": 3806493589,
-    "text": "Rin will be overjoyed to be able to enjoy delicious meals here.\\\n...The same goes for me, I must admit."
+    "text": "Rin will be overjoyed to be able to enjoy delicious meals here.\n...The same goes for me, I must admit."
   },
   {
     "chara": 2134197036,
@@ -14916,7 +16072,7 @@
   },
   {
     "type": 3,
-    "text": "The Kotomura Sisters\\\nLeader: Akane\\\\nSubordinate: Amane"
+    "text": "The Kotomura Sisters\nLeader: Akane\nSubordinate: Amane"
   },
   {
     "chara": 2229488119,
@@ -14993,6 +16149,11 @@
   {
     "chara": 3861409019,
     "text": "Narukozaka and Murakumo are too old-fashioned and can't change for their own good!"
+  },
+  {
+    "chara": 3861409019,
+    "size": "1.3",
+    "text": "So we're here to show you old-timers the door!"
   },
   {
     "chara": 2229488119,
@@ -15199,12 +16360,47 @@
     "text": "Anyways, forget all that, I've got an important announcement to make!"
   },
   {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "I've come up with a team name for us!"
+  },
+  {
+    "chara": 3442998731,
+    "size": "1.2",
+    "text": "Waah~"
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.2",
+    "text": "Hooray!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "And it is..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "\"Tri-Stella☆\"!"
+  },
+  {
     "chara": 3347653705,
     "text": "\"Tri...Stella\"?"
   },
   {
     "chara": 3442998731,
     "text": "What does that mean?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Three stars, that's what!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "We have the flag of Ginny's home country!"
   },
   {
     "chara": 3347653705,
@@ -15215,12 +16411,22 @@
     "text": "Our Shards might be scattered to the four winds, but the Old Glory's still standing strong!"
   },
   {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "And you're a ballerina, Tama-chan, so we have the Etoile☆"
+  },
+  {
     "chara": 3442998731,
     "text": "Sitara... I don't think I deserve the highest rank in the Paris Opera Ballet..."
   },
   {
     "chara": 3577514919,
     "text": "Too late for the veto there!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "And the last star is me, the star of Sitara!"
   },
   {
     "chara": 3347653705,
@@ -15233,6 +16439,11 @@
   {
     "chara": 3347653705,
     "text": "Kaneshiya Star, then!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Pretty much!"
   },
   {
     "type": 1,
@@ -15299,6 +16510,11 @@
   },
   {
     "chara": 2773909288,
+    "size": "1.3",
+    "text": "A pun!? From you!?"
+  },
+  {
+    "chara": 2773909288,
     "text": "Auuugh... Don't just go and change out the name I stayed up all night to come up with..."
   },
   {
@@ -15329,6 +16545,16 @@
   {
     "type": 3,
     "text": "The Kotomura Twins are sneakily doing something in the Maintenance Area, as..."
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.2",
+    "text": "Is someone there?"
+  },
+  {
+    "chara": 2132884801,
+    "size": "1.3",
+    "text": "......!"
   },
   {
     "chara": 3807774200,
@@ -15382,7 +16608,27 @@
     "text": "Wait... Big sis..."
   },
   {
+    "chara": 3806493589,
+    "size": "1.2",
+    "text": "Big sis! Don't go!"
+  },
+  {
+    "chara": 3806493589,
+    "size": "1.3",
+    "text": "Don't go!! Please!!"
+  },
+  {
     "type": 99
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.1",
+    "text": "I suppose there was a time where I..."
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.1",
+    "text": "Not good... I shouldn't be..."
   },
   {
     "type": 99
@@ -16748,6 +17994,11 @@
     "text": "That doesn't work against this bunch, Kaede. Instead..."
   },
   {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "Shut the hell up and listen, you goddamned brats!"
+  },
+  {
     "chara": 1837165762,
     "text": "...Y-yes ma'am!"
   },
@@ -16920,7 +18171,7 @@
   },
   {
     "type": 3,
-    "text": "The Charisma Model Fashion CEO\\\nYorozuba Meika"
+    "text": "The Charisma Model Fashion CEO\nYorozuba Meika"
   },
   {
     "chara": 1356907890,
@@ -16965,6 +18216,11 @@
   {
     "chara": 1356907890,
     "text": "No doubt!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "<color=#ff32aaff>P-PinCy</color>!?"
   },
   {
     "chara": 1732130112,
@@ -17035,6 +18291,11 @@
     "text": "'Course we'll do that!"
   },
   {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "......Eh!?"
+  },
+  {
     "chara": 1356907890,
     "text": "If we're not that famous yet, then high-key we need to hand out a whole lotta sponsorships, no?"
   },
@@ -17055,6 +18316,11 @@
     "text": "Then, get some <color=#ff32aaff>PinCy</color> on aaaaaall your Actresses here~"
   },
   {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "......Huh!?"
+  },
+  {
     "chara": 1356907890,
     "text": "It's a <color=#ff32aaff>PinCy</color> promo, all righty?"
   },
@@ -17065,6 +18331,11 @@
   {
     "chara": 1356907890,
     "text": "Same goes for the Commander there, so go get 'em~"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "......Eeeeh!?"
   }
 ],
 "story_3-1-146": [
@@ -17674,8 +18945,23 @@
     "text": "<color=#ff32aa>Pin...PinCy...</color>"
   },
   {
+    "chara": 1356907890,
+    "size": "1.2",
+    "text": "Can't hear you!"
+  },
+  {
     "chara": 1837165762,
     "text": "<color=#ff32aa>PinCy!!!</color>"
+  },
+  {
+    "chara": 1356907890,
+    "size": "1.2",
+    "text": "The finishing move!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "<color=#ff32aa>Pink Cyclone!!!</color>"
   },
   {
     "chara": 1356907890,
@@ -18227,6 +19513,11 @@
     "text": "Some kinda stuff like that.  I'll go get the board and bank to legit commit for now~"
   },
   {
+    "chara": 257931171,
+    "size": "1.3",
+    "text": "T-thanks a bunch!"
+  },
+  {
     "chara": 545927677,
     "text": "Naw, thank YOU for the awesum reception~ Fumi-fumi, you're just divine~!"
   },
@@ -18662,12 +19953,32 @@
     "text": "Anywho, that's all your lil' Meika's got to say for now–"
   },
   {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "'preciate it, Meika-tan."
+  },
+  {
     "type": 3,
     "text": "Meika hangs up, and..."
   },
   {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Fumika!"
+  },
+  {
     "chara": 2134197036,
     "text": "W-wha? What's the matter all of a sudden?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Narukozaka is innocent!"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "The Head Engineer told me so!"
   },
   {
     "chara": 2134197036,
@@ -18676,6 +19987,11 @@
   {
     "chara": 3806493589,
     "text": "When we asked the Head Engineer about this incident, he asserted that our parts would not have any such issues."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "So we're innocent!"
   },
   {
     "chara": 2134197036,
@@ -18688,6 +20004,11 @@
   {
     "chara": 2134197036,
     "text": "And when I actually joined the company, I saw just how meticulously Mister Iwata and Suzuki worked, so..."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "True! Totes gucci, Fumi-fumi!"
   },
   {
     "chara": 3806493589,
@@ -18758,6 +20079,11 @@
     "text": "What do you mean?"
   },
   {
+    "chara": 3806493589,
+    "size": "1.2",
+    "text": "Is Narukozaka... being targeted?"
+  },
+  {
     "chara": 2134197036,
     "text": "More than likely, some party is intentionally trying to ruin our reputation."
   },
@@ -18811,6 +20137,11 @@
   },
   {
     "chara": 2134197036,
+    "size": "1.2",
+    "text": "Nope."
+  },
+  {
+    "chara": 2134197036,
     "text": "We have to keep on fighting Vice like always and slowly earn our trust back in the eyes of the public."
   },
   {
@@ -18829,6 +20160,21 @@
   },
   {
     "type": 99
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "Eeeh!?"
+  },
+  {
+    "chara": 3806493589,
+    "size": "1.3",
+    "text": "Eeeh!?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.3",
+    "text": "Eeeh!?"
   },
   {
     "chara": 2134197036,
@@ -18857,6 +20203,11 @@
   {
     "chara": 3080824149,
     "text": "So basically... they're ending my posting here at once by cutting the duration short."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "On the surface, that is."
   },
   {
     "chara": 2134197036,
@@ -18920,6 +20271,16 @@
   },
   {
     "chara": 1837165762,
+    "size": "1.1",
+    "text": "Wow! You sound just like a manager, Fumika."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "Seriously! How did things come to this!?"
+  },
+  {
+    "chara": 1837165762,
     "text": "Nnngh... Please, Miss Youko! Say you won't leave!"
   },
   {
@@ -18962,8 +20323,13 @@
     "text": "That \"someone\" walks in."
   },
   {
+    "chara": 4082491391,
+    "size": "1.2",
+    "text": "I am Niiya Serina. Pleased to meet you all."
+  },
+  {
     "type": 3,
-    "text": "Actress with Two Faces\\\nNiiya Serina"
+    "text": "Actress with Two Faces\nNiiya Serina"
   },
   {
     "chara": 4082491391,
@@ -18978,8 +20344,33 @@
     "text": "I look forward to working with you."
   },
   {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "Exactly the kind of person we needed right now!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "And just look at how proper she is!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "I dare say she's the first sensible adult to ever join us!"
+  },
+  {
     "type": 3,
     "text": "Serina talks to herself."
+  },
+  {
+    "chara": 4082491391,
+    "size": "1.4",
+    "text": "Heheh."
+  },
+  {
+    "chara": 4082491391,
+    "size": "1.2",
+    "text": "I do wonder about that."
   },
   {
     "chara": 4082491391,
@@ -19092,7 +20483,7 @@
   },
   {
     "chara": 2682926111,
-    "text": "Reprehensible, yo!\\\nUnbelievable, yo!"
+    "text": "Reprehensible, yo!\nUnbelievable, yo!"
   },
   {
     "type": 99
@@ -19257,7 +20648,7 @@
   },
   {
     "type": 3,
-    "text": "Modern Urban-style High School Ninja\\\nKaeruzaka Raiya"
+    "text": "Modern Urban-style High School Ninja\nKaeruzaka Raiya"
   },
   {
     "chara": 3035997487,
@@ -19399,8 +20790,18 @@
     "text": "Haaah~!? For blind eyes like yours,"
   },
   {
+    "chara": 3035997487,
+    "size": "1.5",
+    "text": "One does as such!"
+  },
+  {
     "type": 3,
     "text": "Raiya pokes Sitara in the eyes."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Gaaah-! My eyes! My eyes~!"
   },
   {
     "chara": 3035997487,
@@ -19504,12 +20905,27 @@
     "type": 99
   },
   {
+    "chara": 2458423066,
+    "size": "1.2",
+    "text": "You ought to calm down, Yotsuyu."
+  },
+  {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "We can't just take things easy anymore!"
+  },
+  {
     "chara": 501880909,
     "text": "Sitara said \"I'm tellin' ya that frog ninja won't get us nowhere!\" and all!"
   },
   {
     "chara": 501880909,
     "text": "And Fumika's got Miss Serina and paperwork on her hands right now!"
+  },
+  {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "It's gotta be us to take care of this!"
   },
   {
     "chara": 2458423066,
@@ -19522,6 +20938,11 @@
   {
     "chara": 2458423066,
     "text": "Would we not simply get in the way of his work?"
+  },
+  {
+    "chara": 501880909,
+    "size": "1.3",
+    "text": "Kaede!"
   },
   {
     "chara": 2458423066,
@@ -19548,6 +20969,11 @@
     "text": "Meanwhile, across from the two..."
   },
   {
+    "chara": 954290421,
+    "size": "1.2",
+    "text": "Yer again. The hell do yer want this time?"
+  },
+  {
     "chara": 3175708457,
     "text": "Oh boy~ Just one look at me and you're already pissed?"
   },
@@ -19570,6 +20996,16 @@
   {
     "chara": 3175708457,
     "text": "Aww, you know I'm not mean enough to harrass you guys like that~"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "I'm a Narukozaka fan, see."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "...Until seven years ago, that is."
   },
   {
     "type": 3,
@@ -19609,11 +21045,36 @@
   },
   {
     "chara": 954290421,
+    "size": "1.2",
+    "text": "Like I said, 'twas an accident."
+  },
+  {
+    "chara": 954290421,
+    "size": "1.2",
+    "text": "I swear to yer right 'ere. It wasn't us doin' a poor job."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Same deal with the Murakumo equipment scandal?"
+  },
+  {
+    "chara": 954290421,
     "text": "Be crazy t' say we're in on it just 'cause they bought our parts."
   },
   {
     "chara": 954290421,
     "text": "That rumor... You were the one who spread it 'round the news, right?"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Ahaha~ Sorry 'bout that one~"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Those \"reports\" Anna mentioned in her news program, that was me~"
   },
   {
     "chara": 3175708457,
@@ -19642,6 +21103,11 @@
   {
     "chara": 3175708457,
     "text": "I had to know. No matter what."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "About how deeply Narukozaka was involved in restricted Alice Gear research."
   },
   {
     "chara": 954290421,
@@ -19700,6 +21166,16 @@
     "text": "I'll take your word for it, Mr. Iwata. But know this..."
   },
   {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "We're not gonna forget about Nagi.\n...Not me, nor Anna."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Just keep that in mind."
+  },
+  {
     "chara": 954290421,
     "text": "It's nothin' to do with Narukozaka nowadays."
   },
@@ -19709,11 +21185,21 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.2",
+    "text": "All I want to know is the truth from seven years ago."
+  },
+  {
+    "chara": 3175708457,
     "text": "I'll do anything, make use of anything, if it'll get me to it."
   },
   {
     "type": 3,
     "text": "Yotsuyu has enough."
+  },
+  {
+    "chara": 501880909,
+    "size": "1.3",
+    "text": "Cut it out already!"
   },
   {
     "chara": 2458423066,
@@ -19862,7 +21348,32 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.2",
+    "text": "I <i>am</i> pretty curious about you..."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Ha, gotcha~"
+  },
+  {
+    "chara": 3175708457,
     "text": "I'd be a failure of a journalist if I didn't look into my interview subject at least a little~"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Narukozaka's new Commander..."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Age unknown. Background unknown."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "A person shrouded in total mystery..."
   },
   {
     "chara": 3175708457,
@@ -19875,6 +21386,11 @@
   {
     "chara": 3175708457,
     "text": "Thank you very much for agreeing to an interview this time."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Eeeh~ Threatening you?"
   },
   {
     "chara": 3175708457,
@@ -19911,6 +21427,16 @@
   {
     "chara": 3175708457,
     "text": "Let me get straight to the point."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "...Who are you?"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "And what kind of secret order from Narukozaka's director are you under?"
   },
   {
     "type": 2,
@@ -19953,6 +21479,21 @@
     "text": "My guess is..."
   },
   {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "You're a spy sent by her..."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Or, a puppet manager of hers? Or a successor candidate?"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Or even a lover~? Perhaps~?"
+  },
+  {
     "type": 2,
     "commands": [
       {
@@ -19982,7 +21523,7 @@
           },
           {
             "chara": 3175708457,
-            "text": "It's all thanks to the Actresses, you say?\\\n...That's a terrible excuse if I've ever seen one."
+            "text": "It's all thanks to the Actresses, you say?\n...That's a terrible excuse if I've ever seen one."
           }
         ]
       },
@@ -20062,6 +21603,16 @@
     "text": "Do me a favor, please~"
   },
   {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Or else... You get it, right?"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "...Whoa!"
+  },
+  {
     "type": 3,
     "text": "Kaede intervenes."
   },
@@ -20130,6 +21681,11 @@
     "text": "And Kaede, we're your teammates, talk about stuff with us!"
   },
   {
+    "chara": 4032287867,
+    "size": "1.2",
+    "text": "Teamwork makes the dream work!"
+  },
+  {
     "chara": 3806493589,
     "text": "Sorry. There was no time..."
   },
@@ -20174,8 +21730,23 @@
     "text": "Uh, umm..."
   },
   {
+    "chara": 4032287867,
+    "size": "1.4",
+    "text": "B-O-N-D! Boom!"
+  },
+  {
     "type": 3,
     "text": "Rin gives Kaede a bear hug."
+  },
+  {
+    "chara": 4032287867,
+    "size": "1.2",
+    "text": "No! Kaede's side is mine~!"
+  },
+  {
+    "chara": 3806493589,
+    "size": "1.2",
+    "text": "Rin!"
   },
   {
     "type": 99
@@ -20186,11 +21757,16 @@
   },
   {
     "type": 5,
-    "text": "<img src=\"/src/img/scenarioicon/evi1_019_01.png\" alt='An old photo of Mari, Anna, and a third person with a blurred-out face'>"
+    "text": "<img src=\"/src/img/scenarioicon/evi1_019_01.png\" alt=\"An old photo of Mari, Anna, and a third person with a blurred-out face\">"
   },
   {
     "chara": 3175708457,
     "text": "......"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Hehehe, ahahahaha!"
   },
   {
     "chara": 3806493589,
@@ -20444,6 +22020,24 @@
   {
     "type": 3,
     "text": "Somewhere out there..."
+  },
+  {
+    "chara": 824830970,
+    "charaNameOverride": "797752214",
+    "size": "1.2",
+    "text": "Heheh... Narukozaka..."
+  },
+  {
+    "chara": 824830970,
+    "charaNameOverride": "797752214",
+    "size": "1.2",
+    "text": "Do prepare yourselves."
+  },
+  {
+    "chara": 824830970,
+    "charaNameOverride": "797752214",
+    "size": "1.3",
+    "text": "I'll be putting you down..."
   }
 ],
 "story_3-3-173": [
@@ -20475,6 +22069,36 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.4",
+    "text": "What in the-!?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "Anna-chan-!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.4",
+    "text": "Waaah! Uwaaaaah-! Uwaaah-!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.1",
+    "text": "Sitara's breaking down!?"
+  },
+  {
+    "chara": 1626745258,
+    "size": "1.1",
+    "text": "I'm sure this is Anna getting her just desserts~"
+  },
+  {
+    "chara": 1626745258,
+    "size": "1.1",
+    "text": "The god of rice finally came down on her for using rice as a tool for popularity~"
+  },
+  {
+    "chara": 3577514919,
     "text": "Waaah~ That's not possible~"
   },
   {
@@ -20498,6 +22122,36 @@
     "text": "What're you on about? Anna's more famous for her child acting, no?"
   },
   {
+    "chara": 3577514919,
+    "size": "1.1",
+    "text": "From a child actor to an idol, an Actress to a university student......"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.1",
+    "text": "A guest commentator for Actress broadcasts, and at last, the newscaster we know and love..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.1",
+    "text": "All of those make up who Anna-chan is."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "The Turn-A Anna-chan who encompasses all of those things! Basically~"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Anna-chan in her university days is my absolute favorite~!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "Though her hard work at her high school's lacrosse club was also super-duper cute...!"
+  },
+  {
     "chara": 1837165762,
     "text": "Is it just me, or does that sound just like stalker behavior?"
   },
@@ -20507,7 +22161,7 @@
   },
   {
     "chara": 3577514919,
-    "text": "Always watching~\\\n＜●＞＜●＞\\\\nAlways watching~"
+    "text": "Always watching~\n＜●＞＜●＞\nAlways watching~"
   },
   {
     "chara": 3347653705,
@@ -21286,7 +22940,7 @@
   },
   {
     "chara": 1837165762,
-    "text": "I thought it seemed amazing, so...\\\n...Is that a bad thing?"
+    "text": "I thought it seemed amazing, so...\n...Is that a bad thing?"
   },
   {
     "type": 3,
@@ -21362,6 +23016,11 @@
   },
   {
     "chara": 4082491391,
+    "size": "1.2",
+    "text": "Eep!"
+  },
+  {
+    "chara": 4082491391,
     "text": "Sorry, I stumbled through the door."
   },
   {
@@ -21382,7 +23041,7 @@
   },
   {
     "chara": 4082491391,
-    "text": "The frog ninja?\\\n...Raiya, you mean?"
+    "text": "The frog ninja?\n...Raiya, you mean?"
   },
   {
     "chara": 3806493589,
@@ -21599,7 +23258,7 @@
           },
           {
             "chara": 3175708457,
-            "text": "You're not paying?\\\n...Fine, whatever."
+            "text": "You're not paying?\n...Fine, whatever."
           }
         ]
       },
@@ -21728,7 +23387,7 @@
   },
   {
     "chara": 3175708457,
-    "text": "Uuu... *sniffle*\\\nThe cutie dumped meee..."
+    "text": "Uuu... *sniffle*\nThe cutie dumped meee..."
   }
 ],
 "story_3-3-182": [
@@ -21833,7 +23492,7 @@
   },
   {
     "chara": null,
-    "text": "Just Like on TV! Idol Announcer\\\nUsamoto Anna"
+    "text": "Just Like on TV! Idol Announcer\nUsamoto Anna"
   },
   {
     "chara": 4103979797,
@@ -22258,7 +23917,7 @@
   },
   {
     "chara": 1223406366,
-    "text": "As if.\\\n...I just don't want to hurt the kind people here."
+    "text": "As if.\n...I just don't want to hurt the kind people here."
   },
   {
     "chara": 1223406366,
@@ -22568,6 +24227,11 @@
     "text": "Narukozaka and Murakumo are too old-fashioned and can't change for their own good!"
   },
   {
+    "chara": 3861409019,
+    "size": "1.2",
+    "text": "So we're here to show you old-timers the door!"
+  },
+  {
     "type": 99
   },
   {
@@ -22636,7 +24300,7 @@
   },
   {
     "chara": 3806493589,
-    "text": "I see.\\\n...I can understand that."
+    "text": "I see.\n...I can understand that."
   },
   {
     "chara": 1837165762,
@@ -22748,12 +24412,22 @@
     "text": "This is...!"
   },
   {
+    "chara": 257931171,
+    "size": "1.2",
+    "text": "So it's here... at last."
+  },
+  {
     "chara": 501880909,
     "text": "Huh? What's here?"
   },
   {
     "type": 3,
     "text": "Suddenly, Youko runs in."
+  },
+  {
+    "chara": 3080824149,
+    "size": "1.2",
+    "text": "Bad news, everyone!"
   },
   {
     "chara": 501880909,
@@ -22938,6 +24612,11 @@
     "text": "Shortly afterwards, the Kotomura twins pay a visit to the office..."
   },
   {
+    "chara": 256625102,
+    "size": "1.2",
+    "text": "Well? Narukozaka? Feeling like surrendering to Noble Hills yet?"
+  },
+  {
     "chara": 1837165762,
     "text": "Akane! And Amane too!"
   },
@@ -22988,6 +24667,11 @@
   {
     "chara": 256625102,
     "text": "It's not just me and Amane this time, I'll have you know."
+  },
+  {
+    "chara": 256625102,
+    "size": "1.4",
+    "text": "Shanti! Get over here!"
   }
 ],
 "story_3-4-188": [
@@ -23003,8 +24687,13 @@
     "text": "Akane's ally is called into the office."
   },
   {
-    "chara": null,
-    "text": "Noble Gurkha Warrior\\\nShanti Rana"
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "Pleased to meet you. I am Shanti Rana."
+  },
+  {
+    "type": 3,
+    "text": "Noble Gurkha Warrior\nShanti Rana"
   },
   {
     "chara": 256625102,
@@ -23017,6 +24706,11 @@
   {
     "type": 3,
     "text": "Shanti has a good look at the Narukozaka Actresses present."
+  },
+  {
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "Hmm..."
   },
   {
     "chara": 3628748495,
@@ -23079,8 +24773,23 @@
     "text": "And then, Shanti notices Virginia and Mai."
   },
   {
+    "chara": 3628748495,
+    "size": "1.3",
+    "text": "!!"
+  },
+  {
     "type": 3,
     "text": "She takes a closer look..."
+  },
+  {
+    "chara": 3628748495,
+    "size": "1.3",
+    "text": "......"
+  },
+  {
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "Aha! Interesting. It seems I was wrong."
   },
   {
     "chara": 3442998731,
@@ -23159,8 +24868,23 @@
     "text": "Shanti suddenly approaches Virginia and shifts to a lower tone of voice."
   },
   {
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "You'll be dead before long."
+  },
+  {
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "Do prepare yourself."
+  },
+  {
     "type": 3,
     "text": "Shanti leaves..."
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.2",
+    "text": "...Damn it!"
   },
   {
     "chara": 3442998731,
@@ -23206,6 +24930,11 @@
   {
     "type": 3,
     "text": "Kaede checks..."
+  },
+  {
+    "chara": 2458423066,
+    "size": "1.3",
+    "text": "60,000 points!?"
   },
   {
     "chara": 501880909,
@@ -23273,6 +25002,16 @@
     "type": 99
   },
   {
+    "chara": 1837165762,
+    "size": "1.4",
+    "text": "102,500 points to only 11,800!?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.1",
+    "text": "Mmmgh... They've pulled ahead again."
+  },
+  {
     "chara": 3577514919,
     "text": "Lies... It's not possible... This just can't be right..."
   },
@@ -23321,6 +25060,16 @@
     "text": "There you go again, all you think about is war..."
   },
   {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "W-war!?"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.2",
+    "text": "What good will building a world that ignores Anna-chan do!?"
+  },
+  {
     "type": 3,
     "text": "Sitara runs off..."
   },
@@ -23359,6 +25108,21 @@
   {
     "type": 3,
     "text": "Suddenly, enter Shanti..."
+  },
+  {
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "Hello."
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Miss Shanti! What're you doing here?"
+  },
+  {
+    "chara": 3347653705,
+    "size": "1.2",
+    "text": "Shanti..."
   },
   {
     "chara": 3628748495,
@@ -23415,6 +25179,11 @@
   {
     "chara": 1837165762,
     "text": "\"Confirm\"...? What're you trying to do?"
+  },
+  {
+    "chara": 3628748495,
+    "size": "1.2",
+    "text": "Heheh."
   },
   {
     "type": 99
@@ -23803,8 +25572,23 @@
     "text": "I'm not dreaming!?"
   },
   {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Wa-haaaaaaa!"
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Anna-chan!"
+  },
+  {
     "type": 3,
     "text": "She immediately runs up to Anna."
+  },
+  {
+    "chara": 503211552,
+    "size": "1.3",
+    "text": "Aah!?"
   },
   {
     "chara": 3577514919,
@@ -23820,6 +25604,11 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.3",
+    "text": "Wa-haaaaaaa!"
+  },
+  {
+    "chara": 3577514919,
     "text": "Anna-chan said my name! Anna-chan! Said! My! Name!"
   },
   {
@@ -23828,7 +25617,17 @@
   },
   {
     "chara": 3577514919,
+    "size": "1.3",
+    "text": "Wa-haaaaaaa!"
+  },
+  {
+    "chara": 3577514919,
     "text": "Anna-chan..."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "So, freaking, cute...!"
   },
   {
     "chara": 503211552,
@@ -23865,6 +25664,11 @@
   {
     "chara": 503211552,
     "text": "That's no-good-at-all! It's not funny to say stuff like that, even if you're joking."
+  },
+  {
+    "chara": 3577514919,
+    "size": "1.3",
+    "text": "Wa-haaaaaaa!"
   },
   {
     "chara": 503211552,
@@ -23916,7 +25720,7 @@
   },
   {
     "chara": 3577514919,
-    "text": "Did I raise the wrong flags?\\\n...Where!?"
+    "text": "Did I raise the wrong flags?\n...Where!?"
   },
   {
     "type": 1,
@@ -23955,7 +25759,7 @@
   },
   {
     "chara": 503211552,
-    "text": "That's not what I meant. She's a professional in combat.\\\n...A mercenary."
+    "text": "That's not what I meant. She's a professional in combat.\n...A mercenary."
   },
   {
     "chara": 503211552,
@@ -24002,7 +25806,7 @@
   },
   {
     "chara": 503211552,
-    "text": "I see, that makes sense.\\\nYou're right in suspecting Noble Hills of rigging the missions assignments in their favor."
+    "text": "I see, that makes sense.\nYou're right in suspecting Noble Hills of rigging the missions assignments in their favor."
   },
   {
     "chara": 503211552,
@@ -24072,15 +25876,15 @@
     "text": "In open space..."
   },
   {
-    "chara": 503211552,
+    "chara": 1838453423,
     "text": "Usamoto here! Reporting live from the battlefield."
   },
   {
-    "chara": 503211552,
+    "chara": 1838453423,
     "text": "With the young Actresses working so hard out there, I just couldn't resist jumping out of retirement!"
   },
   {
-    "chara": 503211552,
+    "chara": 1838453423,
     "text": "If the other side gets to have mercs, then it's only fair we do too, right?"
   }
 ],
@@ -24421,6 +26225,11 @@
   },
   {
     "chara": 3806493589,
+    "size": "1.3",
+    "text": "Our points now total over 64,000, compared to their 150,000."
+  },
+  {
+    "chara": 3806493589,
     "text": "We must take the lead within the remaining twelve sorties."
   },
   {
@@ -24552,6 +26361,26 @@
     "text": "We do have a ridiculous number of applicants for next year."
   },
   {
+    "chara": 1837165762,
+    "size": "1.2",
+    "text": "Huh?"
+  },
+  {
+    "chara": 1837165762,
+    "size": "1.1",
+    "text": "Then, what would Noble Hills gain at all from doing Actress work?"
+  },
+  {
+    "chara": 3806493589,
+    "size": "1.1",
+    "text": "......"
+  },
+  {
+    "chara": 1223406366,
+    "size": "1.1",
+    "text": "......"
+  },
+  {
     "chara": 3806493589,
     "text": "I do not know."
   },
@@ -24669,7 +26498,7 @@
           },
           {
             "chara": 501880909,
-            "text": "We wouldn't go that far.\\\nOh, but instead..."
+            "text": "We wouldn't go that far.\nOh, but instead..."
           },
           {
             "chara": 501880909,
@@ -24711,6 +26540,11 @@
   {
     "chara": 545927677,
     "text": "Sup? How's it hangin', Yo-tsyun?"
+  },
+  {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "M-Miss Meika?"
   },
   {
     "chara": 545927677,
@@ -24789,6 +26623,11 @@
     "text": "One sortie later..."
   },
   {
+    "chara": 257931171,
+    "size": "1.2",
+    "text": "89,000 points to 157,000. We're catching up."
+  },
+  {
     "chara": 501880909,
     "text": "Looks like it's not all Heavy-class jobs for Noble Hills now, either!"
   },
@@ -24821,12 +26660,27 @@
     "text": "If somethin' comes knockin' that'd make y'all go \"Aw snap!\", then ring me up~"
   },
   {
+    "chara": 257931171,
+    "size": "1.1",
+    "text": "...What!?"
+  },
+  {
     "chara": 501880909,
     "text": "Another Actress on our side, isn't that nice?"
   },
   {
     "chara": 257931171,
     "text": "I-I suppose..."
+  },
+  {
+    "chara": 257931171,
+    "size": "0.82",
+    "text": "Eeeeey... That's the tops..."
+  },
+  {
+    "chara": 545927677,
+    "size": "1.1",
+    "text": "Anywho, gotta scram~"
   },
   {
     "type": 3,
@@ -24838,7 +26692,7 @@
   },
   {
     "chara": 501880909,
-    "text": "Eh!?\\\n...Kaede?"
+    "text": "Eh!?\n...Kaede?"
   },
   {
     "chara": 2458423066,
@@ -24915,7 +26769,7 @@
   },
   {
     "chara": 501880909,
-    "text": "We'll figure it out!\\\n...Probably."
+    "text": "We'll figure it out!\n...Probably."
   },
   {
     "chara": 257931171,
@@ -24936,6 +26790,11 @@
   {
     "type": 3,
     "text": "Suddenly, enter Youko."
+  },
+  {
+    "chara": 3080824149,
+    "size": "1.2",
+    "text": "Hello!"
   },
   {
     "chara": 501880909,
@@ -25002,8 +26861,13 @@
     "text": "The Actress walks in."
   },
   {
+    "chara": 547245968,
+    "size": "1.2",
+    "text": "My name is Fumishima Asuka. It'll be lovely to work with you from now on."
+  },
+  {
     "type": 3,
-    "text": "Uncaged Mori Girl\\\nFumishima Asuka"
+    "text": "Uncaged Mori Girl\nFumishima Asuka"
   },
   {
     "type": 3,
@@ -25032,6 +26896,16 @@
   {
     "chara": 501880909,
     "text": "A... strong... Actress merc...?"
+  },
+  {
+    "chara": 547245968,
+    "size": "1.1",
+    "text": "Yes~? What's the matter?"
+  },
+  {
+    "chara": 547245968,
+    "size": "1.1",
+    "text": "Fighting... isn't my strong suit, but I'll do my best."
   }
 ],
 "story_3-5-209": [
@@ -25410,6 +27284,16 @@
     "text": "One day, Raiya drops into Narukozaka from the roof, as she does."
   },
   {
+    "chara": 1570111514,
+    "size": "1.3",
+    "text": "Ha!"
+  },
+  {
+    "chara": 1570111514,
+    "size": "1.2",
+    "text": "Kaeruzaka Raiya, at your service!"
+  },
+  {
     "chara": 2134197036,
     "text": "Raiya, I swear... Couldn't you enter the office a bit more, I don't know, <i>normally</i>?"
   },
@@ -25436,6 +27320,11 @@
   {
     "chara": 1837165762,
     "text": "Ah, about that, Kaede said no, so it's off."
+  },
+  {
+    "chara": 1570111514,
+    "size": "1.1",
+    "text": "Haaah-? What the heck!"
   },
   {
     "chara": 1570111514,
@@ -25531,6 +27420,16 @@
   },
   {
     "chara": 1570111514,
+    "size": "1.2",
+    "text": "Think about it. Edo! Samurai!"
+  },
+  {
+    "chara": 1570111514,
+    "size": "1.2",
+    "text": "And ninja!"
+  },
+  {
+    "chara": 1570111514,
     "text": "With these, the number of tourists and immigrants will go up, and the Shard will undoubtedly take the spotlight in all of Outland!"
   },
   {
@@ -25567,6 +27466,16 @@
   },
   {
     "chara": 1570111514,
+    "size": "1.2",
+    "text": "Oh crap-!"
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.2",
+    "text": "Stop fooling around and investigate properly!"
+  },
+  {
+    "chara": 1570111514,
     "text": "That will not do."
   },
   {
@@ -25592,6 +27501,11 @@
   {
     "chara": 2134197036,
     "text": "Alright, I'll do something about your registration."
+  },
+  {
+    "chara": 1570111514,
+    "size": "1.2",
+    "text": "Yay!"
   },
   {
     "chara": 2134197036,
@@ -25624,6 +27538,11 @@
   {
     "chara": 1837165762,
     "text": "Fumika... If the Edo Shard thing ends up becoming real, you'd fit right in as an evil magistrate or merchant."
+  },
+  {
+    "chara": 2134197036,
+    "size": "1.3",
+    "text": "Excuse me!?"
   }
 ],
 "story_3-6-215": [
@@ -25633,6 +27552,11 @@
   },
   {
     "type": 99
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Heheh."
   },
   {
     "chara": 954290421,
@@ -25653,6 +27577,11 @@
   {
     "chara": 3175708457,
     "text": "Had to make a deal with Commander here since you just wouldn't meet me on my own~"
+  },
+  {
+    "chara": 954290421,
+    "size": "1.2",
+    "text": "A deal?"
   },
   {
     "chara": 954290421,
@@ -25681,6 +27610,11 @@
   {
     "chara": 3175708457,
     "text": "No can do~ We've still got a deal and all."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "Right, Commander?"
   },
   {
     "chara": 3175708457,
@@ -25717,6 +27651,11 @@
   {
     "chara": 954290421,
     "text": "Who knows, 's been too long. 've forgotten 'bout it already."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "A-ha-ha! Figures~"
   },
   {
     "chara": 3175708457,
@@ -25791,8 +27730,18 @@
     "text": "......"
   },
   {
+    "chara": 3175708457,
+    "size": "1.15",
+    "text": "Say, Mister Iwata. Just what is Alice Gear?"
+  },
+  {
     "chara": 954290421,
     "text": "It converts the High-Dimensional Energies an Actress draws out, and-"
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "That's not what I was asking!!"
   },
   {
     "chara": 954290421,
@@ -25820,6 +27769,11 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.1",
+    "text": "You'll be buried in the dark..."
+  },
+  {
+    "chara": 3175708457,
     "text": "Then, the reasons behind Murakumo being shuttered, and now Narukozaka being targeted, is probably..."
   },
   {
@@ -25829,6 +27783,11 @@
   {
     "chara": 954290421,
     "text": "...Yer better stop, or they'll come aft'r yer too."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "And?"
   },
   {
     "chara": 3175708457,
@@ -25929,7 +27888,17 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.2",
+    "text": "All~ righty, that's all you'll get~"
+  },
+  {
+    "chara": 3175708457,
     "text": "Want any more info, and you gotta pay up."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "A~nyways, have a good one~"
   },
   {
     "type": 3,
@@ -26525,6 +28494,11 @@
   },
   {
     "chara": 3628748495,
+    "size": "1.2",
+    "text": "A strategy?"
+  },
+  {
+    "chara": 3628748495,
     "text": "Our actions have allowed multiple Heavy-class Vice to approach the Tokyo Shard."
   },
   {
@@ -26538,6 +28512,16 @@
   {
     "chara": 3628748495,
     "text": "To me, this... cannot be anything but intentionally increasing the risk of accidents."
+  },
+  {
+    "chara": 256625102,
+    "size": "1.1",
+    "text": "Forget about that!"
+  },
+  {
+    "chara": 256625102,
+    "size": "1.1",
+    "text": "Just do exactly as I say, and nothing will go wrong!"
   },
   {
     "type": 3,
@@ -26616,6 +28600,16 @@
     "text": "S-Sis... What should we do? A-at this rate..."
   },
   {
+    "chara": 256625102,
+    "size": "1.1",
+    "text": "Sh-shut up! How am I supposed to know!"
+  },
+  {
+    "chara": 256625102,
+    "size": "1.1",
+    "text": "Just clean this up somehow!"
+  },
+  {
     "type": 3,
     "text": "Akane leaves angrily..."
   },
@@ -26648,6 +28642,11 @@
   {
     "chara": 2458423066,
     "text": "Let us acquire an emergency contract from AEGiS and meet the enemy."
+  },
+  {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "Yeah!"
   },
   {
     "type": 3,
@@ -26706,6 +28705,11 @@
     "text": "Ginny..."
   },
   {
+    "chara": 3085160646,
+    "size": "1.2",
+    "text": "Hey, Shanti!"
+  },
+  {
     "chara": 2820717120,
     "text": "What is it?"
   },
@@ -26716,6 +28720,11 @@
   {
     "chara": 3085160646,
     "text": "Can you swear not to betray your comrades?"
+  },
+  {
+    "chara": 3085160646,
+    "size": "1.2",
+    "text": "...On your pride as a soldier?"
   },
   {
     "chara": 2820717120,
@@ -26830,6 +28839,11 @@
     "text": "Yotsuyu turns to you."
   },
   {
+    "chara": 501880909,
+    "size": "1.2",
+    "text": "Right, Commander?"
+  },
+  {
     "chara": 2458423066,
     "text": "Miss Shanti's skills will be a great boon to Narukozaka's fighting strength."
   },
@@ -26887,6 +28901,11 @@
   },
   {
     "type": 99
+  },
+  {
+    "chara": 503211552,
+    "size": "1.1",
+    "text": "Usamoto Anna here. It's been a while, folks."
   },
   {
     "chara": 503211552,
@@ -26980,6 +28999,11 @@
     "text": "Why don't you just come back?"
   },
   {
+    "chara": 4082491391,
+    "size": "1.2",
+    "text": "Eh!?"
+  },
+  {
     "chara": 1223406366,
     "text": "...To Narukozaka."
   },
@@ -27068,6 +29092,11 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.2",
+    "text": "Commander, you're laaate."
+  },
+  {
+    "chara": 3175708457,
     "text": "Where'd you run off to~? On a date with an Actress~?"
   },
   {
@@ -27100,6 +29129,11 @@
   },
   {
     "chara": 3175708457,
+    "size": "1.2",
+    "text": "Nah~"
+  },
+  {
+    "chara": 3175708457,
     "text": "...Surely you don't think this whole incident has been wrapped up already, do you?"
   },
   {
@@ -27129,6 +29163,16 @@
   {
     "chara": 954290421,
     "text": "Oi, yer can't be sayin' that..."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.2",
+    "text": "The cult devoted to the Vice, who call themselves \"SIN\"..."
+  },
+  {
+    "chara": 3175708457,
+    "size": "1.1",
+    "text": "They've wormed their way into Tokyo Shard already..."
   }
 ]
 }
