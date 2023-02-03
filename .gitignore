@@ -67,3 +67,6 @@ typings/
 
 #bash scripts to help with testing
 *.bash
+
+#backup files
+*.bak
