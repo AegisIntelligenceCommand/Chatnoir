@@ -3,193 +3,209 @@
   "nameKey": "actress",
   "list": [{
     "id": "2457498349",
-    "name": "二子玉 舞",
+    "name": "Nikotama Mai",
     "list": [{
       "id": "actressGroupActress",
       "nameKey": "actressGroupActress",
       "list": [{
-        "id": "commu_012001001",
-        "name": "Ep1.隊長さん、お手柔らかに",
+        "id": "chara_Nikotama-Mai_1-1",
+        "name": "1-1: Commander, Please Go Easy on Me",
         "type": "actress"
       }, {
-        "id": "commu_012002001",
-        "name": "Ep2.尊敬するのは誰ですか？",
+        "id": "chara_Nikotama-Mai_2-1",
+        "name": "2-1: Who Do You Respect?",
         "type": "actress"
       }, {
-        "id": "commu_012003001",
-        "name": "Ep3-1.こんな趣味は変ですか？",
+        "id": "chara_Nikotama-Mai_3-1",
+        "name": "3-1: Is This Hobby Weird?",
         "type": "actress"
       }, {
-        "id": "commu_012003002",
-        "name": "Ep3-2.ドキドキ！ひみつの大公開",
+        "id": "chara_Nikotama-Mai_3-2",
+        "name": "3-2: Heart-Pounding Secret Reveal",
         "type": "actress"
       }, {
-        "id": "commu_012003003",
-        "name": "Ep3-3.好きなものは好きなんです！",
+        "id": "chara_Nikotama-Mai_3-3",
+        "name": "3-3: I Love What I Love!",
         "type": "actress"
       }, {
-        "id": "commu_012004001",
-        "name": "Ep4-1.二子玉舞、1歩前へ！",
+        "id": "chara_Nikotama-Mai_4-1",
+        "name": "4-1: One Step Forward, Nikotama Mai!",
         "type": "actress"
       }, {
-        "id": "commu_012004002",
-        "name": "Ep4-2.二子玉舞、2歩前へ！",
+        "id": "chara_Nikotama-Mai_4-2",
+        "name": "4-2: Two Steps Forward, Nikotama Mai!",
         "type": "actress"
       }, {
-        "id": "commu_012004003",
-        "name": "Ep4-3.胸を張って、半歩前進！",
+        "id": "chara_Nikotama-Mai_4-3",
+        "name": "4-3: Half-Step Forward with Head High",
+        "type": "actress"
+      }, {
+        "id": "chara_Nikotama-Mai_AN-1",
+        "name": "AN-1: A Day Off with a Difficult Question",
+        "type": "actress"
+      }, {
+        "id": "chara_Nikotama-Mai_FA-1",
+        "name": "FA-1: Tri-Stella☆ and Mazurka",
+        "type": "actress"
+      }, {
+        "id": "chara_Nikotama-Mai_FA-2",
+        "name": "FA-2: A Caractère of Loneliness",
+        "type": "actress"
+        }, {
+        "id": "chara_Nikotama-Mai_FA-3",
+        "name": "FA-3: A Solo Grand Pas de Deux",
         "type": "actress"
       }]
     }, {
       "id": "actressGroupComu",
       "nameKey": "actressGroupComu",
       "list": [{
-        "id": "actress_012001",
-        "name": "Ep1.そそっかしさも芸のうち",
+        "id": "bond_Nikotama-Mai_1",
+        "name": "1: Carelessness is Another Artform",
         "type": "actress"
       }, {
-        "id": "actress_012002",
-        "name": "Ep2.かん違いの休日",
+        "id": "bond_Nikotama-Mai_2",
+        "name": "2: A Day Off of Misunderstandings",
         "type": "actress"
       }, {
-        "id": "actress_012003",
-        "name": "Ep3.タマタマって誰ですか？",
+        "id": "bond_Nikotama-Mai_3",
+        "name": "3: Who is Tama-Tama?",
         "type": "actress"
       }, {
-        "id": "actress_012004",
-        "name": "Ep4.明かせない秘密、暴かれた秘密",
+        "id": "bond_Nikotama-Mai_4",
+        "name": "4: A Secret Sealed and a Secret Revealed",
         "type": "actress"
       }, {
-        "id": "actress_012005",
-        "name": "Ep5.その正体は内密に",
+        "id": "bond_Nikotama-Mai_5",
+        "name": "5: Keep the Identity Safe",
         "type": "actress"
       }]
     }]
   }, {
     "id": "3853140988",
-    "name": "新谷 芹菜",
+    "name": "Niiya Serina",
     "list": [{
       "id": "actressGroupActress",
       "nameKey": "actressGroupActress",
       "list": [{
-        "id": "commu_019001001",
-        "name": "Ep1.派遣アクトレス",
+        "id": "chara_Niiya-Serina_1-1",
+        "name": "1-1: The Temp Actress",
         "type": "actress"
       }, {
-        "id": "commu_019002001",
-        "name": "Ep2.私の本業は……",
+        "id": "chara_Niiya-Serina_2-1",
+        "name": "2-1: I Specialize in...",
         "type": "actress"
       }, {
-        "id": "commu_019003001",
-        "name": "Ep3-1.成子坂女子会1",
+        "id": "chara_Niiya-Serina_3-1",
+        "name": "3-1: Narukozaka Ladies' Party 1",
         "type": "actress"
       }, {
-        "id": "commu_019003002",
-        "name": "Ep3-2.成子坂女子会2",
+        "id": "chara_Niiya-Serina_3-2",
+        "name": "3-2: Narukozaka Ladies' Party 2",
         "type": "actress"
       }, {
-        "id": "commu_019003003",
-        "name": "Ep3-3.成子坂女子会3",
+        "id": "chara_Niiya-Serina_3-3",
+        "name": "3-3: Narukozaka Ladies' Party 3",
         "type": "actress"
       }, {
-        "id": "commu_019004001",
-        "name": "Ep4-1.黒い猫は黒い猫",
+        "id": "chara_Niiya-Serina_4-1",
+        "name": "4-1: A Black Cat is a Black Cat",
         "type": "actress"
       }, {
-        "id": "commu_019004002",
-        "name": "Ep4-2.思い出をリマスター",
+        "id": "chara_Niiya-Serina_4-2",
+        "name": "4-2: Remaster the Nostalgia",
         "type": "actress"
       }, {
-        "id": "commu_019004003",
-        "name": "Ep4-3.シャノアール対シャノアール",
+        "id": "chara_Niiya-Serina_4-3",
+        "name": "4-3: Chat Noir Versus Chat Noir",
         "type": "actress"
       }]
     }, {
       "id": "actressGroupComu",
       "nameKey": "actressGroupComu",
       "list": [{
-        "id": "actress_019001",
-        "name": "Ep1.夜は黒い猫の時間",
+        "id": "bond_Niiya-Serina_1",
+        "name": "1: The Black Cat Walks in the Night",
         "type": "actress"
       }, {
-        "id": "actress_019002",
-        "name": "Ep2.黒猫怪盗シャノアール",
+        "id": "bond_Niiya-Serina_2",
+        "name": "2: Black Cat Phantom Thief Chat Noir",
         "type": "actress"
       }, {
-        "id": "actress_019003",
-        "name": "Ep3.鏡写しの黒猫",
+        "id": "bond_Niiya-Serina_3",
+        "name": "3: Black Cat Caught on Camera",
         "type": "actress"
       }, {
-        "id": "actress_019004",
-        "name": "Ep4.猫と蛙のゲーム",
+        "id": "bond_Niiya-Serina_4",
+        "name": "4: A Game Between the Cat and the Frog",
         "type": "actress"
       }, {
-        "id": "actress_019005",
-        "name": "Ep5.狐の正義、猫の流儀",
+        "id": "bond_Niiya-Serina_5",
+        "name": "5: The Fox's Justice and the Cat's Style",
         "type": "actress"
       }]
     }]
   }, {
     "id": "881531211",
-    "name": "ファティマ・B",
+    "name": "Fatima Betrorum",
     "list": [{
       "id": "actressGroupActress",
       "nameKey": "actressGroupActress",
       "list": [{
-        "id": "commu_053001001",
-        "name": "Ep1.王女の来日",
+        "id": "chara_Fatima-Betrorum-1-1",
+        "name": "1-1: The Princess Visits Japan",
         "type": "actress"
       }, {
-        "id": "commu_053002001",
-        "name": "Ep2.転校生",
+        "id": "chara_Fatima-Betrorum-2-1",
+        "name": "2-1: Transfer Student",
         "type": "actress"
       }, {
-        "id": "commu_053003001",
-        "name": "Ep3-1.王女の休日　その１",
+        "id": "chara_Fatima-Betrorum-3-1",
+        "name": "3-1: The Princess's Day Off, Part 1",
         "type": "actress"
       }, {
-        "id": "commu_053003002",
-        "name": "Ep3-2.王女の休日　その２",
+        "id": "chara_Fatima-Betrorum-3-2",
+        "name": "3-2: The Princess's Day Off, Part 2",
         "type": "actress"
       }, {
-        "id": "commu_053003003",
-        "name": "Ep3-3.王女の休日　その３",
+        "id": "chara_Fatima-Betrorum-3-3",
+        "name": "3-3: The Princess's Day Off, Part 3",
         "type": "actress"
       }, {
-        "id": "commu_053004001",
-        "name": "Ep4-1.現実",
+        "id": "chara_Fatima-Betrorum-4-1",
+        "name": "4-1: Present",
         "type": "actress"
       }, {
-        "id": "commu_053004002",
-        "name": "Ep4-2.過去",
+        "id": "chara_Fatima-Betrorum-4-2",
+        "name": "4-2: Past",
         "type": "actress"
       }, {
-        "id": "commu_053004003",
-        "name": "Ep4-3.未来",
+        "id": "chara_Fatima-Betrorum-4-3",
+        "name": "4-3: Future",
         "type": "actress"
       }]
     }, {
       "id": "actressGroupComu",
       "nameKey": "actressGroupComu",
       "list": [{
-        "id": "actress_053001",
-        "name": "Ep1.希望の星",
+        "id": "bond_Fatima-Betrorum_1",
+        "name": "1: Star of Hope",
         "type": "actress"
       }, {
-        "id": "actress_053002",
-        "name": "Ep2.星屑の欠片",
+        "id": "bond_Fatima-Betrorum_2",
+        "name": "2: Fragment of Stardust",
         "type": "actress"
       }, {
-        "id": "actress_053003",
-        "name": "Ep3.流れ星",
+        "id": "bond_Fatima-Betrorum_3",
+        "name": "3: Shooting Star",
         "type": "actress"
       }, {
-        "id": "actress_053004",
-        "name": "Ep4.一光年",
+        "id": "bond_Fatima-Betrorum_4",
+        "name": "4: One Light-year",
         "type": "actress"
       }, {
-        "id": "actress_053005",
-        "name": "Ep5.トライステラ☆",
+        "id": "bond_Fatima-Betrorum_5",
+        "name": "5: Tri-Stella☆",
         "type": "actress"
       }]
     }]

@@ -17282,17 +17282,17 @@
   },
   {
     "name": "Sitara",
-    "id": "sitaraSentan",
+    "id": 4600401,
     "icon": "chr6_004_01"
   },
   {
     "name": "Mai",
-    "id": "maiSentan",
+    "id": 12601201,
     "icon": "chr6_012_01"
   },
   {
     "name": "Kaeruzaka Raiya...?",
-    "id": "raiyaDoppelganger",
+    "id": 28502901,
     "icon": "chr5_029_01"
   }
 ]
