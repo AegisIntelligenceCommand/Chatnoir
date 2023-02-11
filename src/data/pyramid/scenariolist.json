@@ -152,35 +152,35 @@
       "id": "actressGroupActress",
       "nameKey": "actressGroupActress",
       "list": [{
-        "id": "chara_Fatima-Betrorum-1-1",
+        "id": "chara_Fatima-Betrorum_1-1",
         "name": "1-1: The Princess Visits Japan",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-2-1",
+        "id": "chara_Fatima-Betrorum_2-1",
         "name": "2-1: Transfer Student",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-3-1",
+        "id": "chara_Fatima-Betrorum_3-1",
         "name": "3-1: The Princess's Day Off, Part 1",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-3-2",
+        "id": "chara_Fatima-Betrorum_3-2",
         "name": "3-2: The Princess's Day Off, Part 2",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-3-3",
+        "id": "chara_Fatima-Betrorum_3-3",
         "name": "3-3: The Princess's Day Off, Part 3",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-4-1",
+        "id": "chara_Fatima-Betrorum_4-1",
         "name": "4-1: Present",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-4-2",
+        "id": "chara_Fatima-Betrorum_4-2",
         "name": "4-2: Past",
         "type": "actress"
       }, {
-        "id": "chara_Fatima-Betrorum-4-3",
+        "id": "chara_Fatima-Betrorum_4-3",
         "name": "4-3: Future",
         "type": "actress"
       }]

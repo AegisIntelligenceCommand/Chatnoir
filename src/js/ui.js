@@ -59,14 +59,14 @@ data["actress"] = {
 data["actressGroupActress"] = {
     "ja-JP": "キャラエピソード",
     "zh-TW": "角色劇情",
-    "en-US": "Actress",
+    "en-US": "Character Episodes",
     "zh-CN": "角色剧情",
 };
 
 data["actressGroupComu"] = {
     "ja-JP": "絆エピソード",
     "zh-TW": "羈絆劇情",
-    "en-US": "Communication",
+    "en-US": "Bond Episodes",
     "zh-CN": "牵绊剧情",
 };
 
