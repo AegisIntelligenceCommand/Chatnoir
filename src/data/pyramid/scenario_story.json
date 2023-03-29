@@ -29434,7 +29434,7 @@
     "text": "Perhaps you should switch with someone else and get some rest."
   },
   {
-    "chara": 2514832131,
+    "chara": 445111380,
     "text": "Nah, I'm fine! I'll keep going!"
   }
 ],
@@ -30806,7 +30806,7 @@
           },
           {
             "chara": 3678946635,
-            "text": "What greater secret could possible lie beyond this nerve center of tactical operations?"
+            "text": "What greater secret could possibly lie beyond this nerve center of tactical operations?"
           },
           {
             "chara": 3678946635,
@@ -34674,7 +34674,7 @@
     "text": "Hiya, Koyui! You doing good? I'm here to say hello!"
   },
   {
-    "type": null,
+    "type": 3,
     "text": "Armed Chinese Chef Girl!\nWang Honghua"
   },
   {
@@ -35710,7 +35710,7 @@
     "text": "The engineer comes in."
   },
   {
-    "chara": 4256355706,
+    "type": null,
     "text": "I'm Rita Henschel. Nice to meet you!"
   },
   {
@@ -37876,7 +37876,7 @@
   },
   {
     "chara": 572176885,
-    "text": "As all of such assistance is humanitarian in nature,"
+    "text": "As all such assistance is humanitarian in nature,"
   },
   {
     "chara": 572176885,
