@@ -793,5 +793,277 @@
         "type": "story"
       }]
     }]
+  }, {
+    "id": "95079682",
+    "name": "Turmoil",
+    "list": [{
+      "id": "2386396519",
+      "name": "Calls from the Void",
+      "list": [{
+        "id": "story_4-1-1",
+        "name": "Banshee Sector: Yotsuyu and Kaede 1",
+        "type": "story"
+      }, {
+        "id": "story_4-1-2",
+        "name": "Snippet: Kaede",
+        "type": "story"
+      }, {
+        "id": "story_4-1-3",
+        "name": "Banshee Sector: Team Narukozaka and Team Murakumo",
+        "type": "story"
+      }, {
+        "id": "story_4-1-4",
+        "name": "Snippet: Yotsuyu",
+        "type": "story"
+      }, {
+        "id": "story_4-1-5",
+        "name": "Banshee Sector: Yotsuyu and Kaede 2",
+        "type": "story"
+      }]
+    }, {
+      "id": "4181374449",
+      "name": "Creation of the Alliance",
+      "list": [{
+        "id": "story_4-2-225",
+        "name": "225: Defense Council",
+        "type": "story"
+      }, {
+        "id": "story_4-2-227",
+        "name": "227: An Alliance of Actresses",
+        "type": "story"
+      }, {
+        "id": "story_4-2-229",
+        "name": "229: Conquering the Empire",
+        "type": "story"
+      }, {
+        "id": "story_4-2-232",
+        "name": "232: Reunion and Refusal",
+        "type": "story"
+      }, {
+        "id": "story_4-2-234",
+        "name": "234: A Waltz of Resistance and Liberation",
+        "type": "story"
+      }, {
+        "id": "story_4-2-236",
+        "name": "236: Offensive Preparations Complete",
+        "type": "story"
+      }]
+    }, {
+      "id": "2882231958",
+      "name": "Assault on the Vice Colony",
+      "list": [{
+        "id": "story_4-3-1",
+        "name": "Operation Aki Overview 1",
+        "type": "story"
+      }, {
+        "id": "story_4-3-2",
+        "name": "Snippet: Tokyo Actress News 1",
+        "type": "story"
+      }, {
+        "id": "story_4-3-3",
+        "name": "Interlude: Team Verbena and Asuka",
+        "type": "story"
+      }, {
+        "id": "story_4-3-4",
+        "name": "Snippet: Public Opinion 1",
+        "type": "story"
+      }, {
+        "id": "story_4-3-5",
+        "name": "Snippet: Public Opinion 2",
+        "type": "story"
+      }, {
+        "id": "story_4-3-6",
+        "name": "Strike Team 1: Yotsuyu, Kaede, Chieri 1",
+        "type": "story"
+      }, {
+        "id": "story_4-3-7",
+        "name": "Strike Team 2: Fumika, Rin, Shiina 1",
+        "type": "story"
+      }, {
+        "id": "story_4-3-8",
+        "name": "Strike Team 3: Sitara, Rei, Kanade 1",
+        "type": "story"
+      }, {
+        "id": "story_4-3-9",
+        "name": "Snippet: Public Opinion 3",
+        "type": "story"
+      }, {
+        "id": "story_4-3-10",
+        "name": "Snippet: Public Opinion 4",
+        "type": "story"
+      }, {
+        "id": "story_4-3-11",
+        "name": "Snippet: Public Opinion 5",
+        "type": "story"
+      }, {
+        "id": "story_4-3-12",
+        "name": "Tokyo Actress News 2",
+        "type": "story"
+      }, {
+        "id": "story_4-3-13",
+        "name": "Strike Team 1: Yotsuyu, Kaede, Chieri 2",
+        "type": "story"
+      }, {
+        "id": "story_4-3-14",
+        "name": "Strike Team 2: Fumika, Rin, Shiina 2",
+        "type": "story"
+      }, {
+        "id": "story_4-3-15",
+        "name": "Strike Team 3: Sitara, Rei, Kanade 2",
+        "type": "story"
+      }, {
+        "id": "story_4-3-16",
+        "name": "Interlude: Mai and Virginia",
+        "type": "story"
+      }, {
+        "id": "story_4-3-17",
+        "name": "Snippet: Public Opinion 6",
+        "type": "story"
+      }, {
+        "id": "story_4-3-18",
+        "name": "Interlude: Meika and Serina",
+        "type": "story"
+      }, {
+        "id": "story_4-3-19",
+        "name": "Interlude: Defense Council",
+        "type": "story"
+      }, {
+        "id": "story_4-3-20",
+        "name": "Operation Aki Overview 2",
+        "type": "story"
+      }]
+    }, {
+      "id": "3704385024",
+      "name": "A New Commander",
+      "list": [{
+        "id": "story_4-4-237",
+        "name": "237: Personnel Change",
+        "type": "story"
+      }, {
+        "id": "story_4-4-240",
+        "name": "240: We'll Never Recognize the New Commander!",
+        "type": "story"
+      }, {
+        "id": "story_4-4-243",
+        "name": "243: Strategic Defense Conference",
+        "type": "story"
+      }]
+    }, {
+      "id": "1170554810",
+      "name": "Bolstered Forces",
+      "list": [{
+        "id": "story_4-5-244",
+        "name": "244: Reinforcements Inbound",
+        "type": "story"
+      }, {
+        "id": "story_4-5-248",
+        "name": "248: Subject S",
+        "type": "story"
+      }, {
+        "id": "story_4-5-249",
+        "name": "249: Wang Honghua",
+        "type": "story"
+      }, {
+        "id": "story_4-5-253",
+        "name": "253: The Enemy of My Enemy",
+        "type": "story"
+      }]
+    }, {
+      "id": "851578668",
+      "name": "The Great Game",
+      "list": [{
+        "id": "story_4-6-254",
+        "name": "254: The Actress from Moscow",
+        "type": "story"
+      }, {
+        "id": "story_4-6-258",
+        "name": "258: Limits of the Engineering Team",
+        "type": "story"
+      }, {
+        "id": "story_4-6-262",
+        "name": "262: Intelligence Tokyo",
+        "type": "story"
+      }]
+    }, {
+      "id": "2896599695",
+      "name": "Decisive Battle! Vice Colony",
+      "list": [{
+        "id": "story_4-7-1",
+        "name": "Operation Aki: Phase 2 Status Update",
+        "type": "story"
+      }, {
+        "id": "story_4-7-2",
+        "name": "Interlude: Strategic Defense Conference",
+        "type": "story"
+      }, {
+        "id": "story_4-7-3",
+        "name": "Interlude: Intelligence Command",
+        "type": "story"
+      }, {
+        "id": "story_4-7-4",
+        "name": "Strike Team 1 Continued: Yotsuyu, Kaede, Chieri 1",
+        "type": "story"
+      }, {
+        "id": "story_4-7-5",
+        "name": "Strike Team 2 Continued: Fumika, Rin, Shiina 1",
+        "type": "story"
+      }, {
+        "id": "story_4-7-6",
+        "name": "Strike Team 3 Continued: Sitara, Rei, Kanade 1",
+        "type": "story"
+      }, {
+        "id": "story_4-7-7",
+        "name": "Strike Team 1 Continued: Yotsuyu, Kaede, Chieri 2",
+        "type": "story"
+      }, {
+        "id": "story_4-7-8",
+        "name": "Strike Team 2 Continued: Fumika, Rin, Shiina 2",
+        "type": "story"
+      }, {
+        "id": "story_4-7-9",
+        "name": "Strike Team 3 Continued: Sitara, Rei, Kanade 2",
+        "type": "story"
+      }, {
+        "id": "story_4-7-10",
+        "name": "Strike Team 1 Continued: Yotsuyu, Kaede, Chieri 3",
+        "type": "story"
+      }, {
+        "id": "story_4-7-11",
+        "name": "Strike Team 2 Continued: Fumika, Rin, Shiina 3",
+        "type": "story"
+      }, {
+        "id": "story_4-7-12",
+        "name": "Strike Team 3 Continued: Sitara, Rei, Kanade 3",
+        "type": "story"
+      }, {
+        "id": "story_4-7-13",
+        "name": "SOCOM Elite Squadron: Angie, Kasumi, Kei 1",
+        "type": "story"
+      }, {
+        "id": "story_4-7-14",
+        "name": "SOCOM Elite Squadron: Angie, Kasumi, Kei 2",
+        "type": "story"
+      }, {
+        "id": "story_4-7-15",
+        "name": "SOCOM Elite Squadron: Angie, Kasumi, Kei 3",
+        "type": "story"
+      }, {
+        "id": "story_4-7-16",
+        "name": "Strike Team 1: Vice Medium",
+        "type": "story"
+      }, {
+        "id": "story_4-7-17",
+        "name": "Strike Team 1: Vice Medium Neutralized",
+        "type": "story"
+      }, {
+        "id": "story_4-7-18",
+        "name": "Strike Team 1: Vice Ambush",
+        "type": "story"
+      }, {
+        "id": "story_4-7-19",
+        "name": "Operation Aki Complete",
+        "type": "story"
+      }]
+    }]
   }]
 }]

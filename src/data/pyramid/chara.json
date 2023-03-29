@@ -11802,7 +11802,7 @@
     "rare": 3
   },
   {
-    "name": "???",
+    "name": "Angie",
     "id": 2614712279,
     "image": "chr3_037_90",
     "icon": "chr4_037_90",
@@ -11816,7 +11816,7 @@
     "rare": 3
   },
   {
-    "name": "???",
+    "name": "Kei",
     "id": 838008235,
     "image": "chr3_051_90",
     "icon": "chr4_051_90",
@@ -13438,22 +13438,22 @@
     "icon": "npc1_022_02"
   },
   {
-    "name": "おじさん",
+    "name": "Grandpa",
     "id": 847874862,
     "icon": "npc1_901_01"
   },
   {
-    "name": "おばさん",
+    "name": "Grandma",
     "id": 1965683198,
     "icon": "npc1_902_01"
   },
   {
-    "name": "おにいさん",
+    "name": "Man",
     "id": 1212799054,
     "icon": "npc1_903_01"
   },
   {
-    "name": "おねえさん",
+    "name": "Woman",
     "id": 4201186398,
     "icon": "npc1_904_01"
   },
@@ -15453,12 +15453,12 @@
     "icon": "npc1_173_01"
   },
   {
-    "name": "報道カメラマンA",
+    "name": "Press Cameraman A",
     "id": 2952274382,
     "icon": "npc1_999_01"
   },
   {
-    "name": "報道カメラマンB",
+    "name": "Press Cameraman B",
     "id": 500760030,
     "icon": "npc1_999_01"
   },
